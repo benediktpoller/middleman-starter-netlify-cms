@@ -1,26 +1,18 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2018-08-16T12:01+02:00
+title: Einleitung
+date: '2018-08-16T12:01+02:00'
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
   ordeal, but once you get used to the process, it becomes a soothing ritual
   that's worth the effort every time.
 image: /images/uploads/news_item-02.jpg
 ---
+Vor rund einhundert Jahren kam es der damaligen Epoche einer Sensation gleich, wenn es hieß: „Der Zeppelin kommt". War es im Kaiserreich den meisten Zeitgenossen aus finanziellen Gründen unmöglich, diesem Ereignis persönlich an Bord beizuwohnen, so konnte die Teilhabe daran wenigstens über die Post ermöglich werden. Ebenso stand die Flugzeugentwicklung erst am Anfang ihrer Geschichte und die Reise mit einer „Flugmaschine" war, an heutigen Maßstäben gemessen, etwas ganz Außergewöhnliches. 
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+Die Flugpost am Rhein und am Main ist eine der bekanntesten und frühesten Veranstaltungen, in deren Rahmen Postflüge stattfanden. Sie fand in der Zeit vom 10. Juni bis 23. Juni 1912 im Rahmen einer zu Wohltätigkeitszwecken veranstalteten „Postkartenwoche" statt. Sie steht somit am Beginn der deutschen Flugpostgeschichte und gilt als erste große Flugveranstaltung mit amtlicher Luftpostbeförderung auf der ganzen Welt. 
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+Den Ehrenschutz bzw. die Schirmherrschaft übernahmen Großherzog Ernst Ludwig und Großherzogin Eleonore von Hessen und bei Rhein. Der Erlös ging an die Großherzogliche Zentrale für Mutter- und Säuglingsfürsorge in Hessen. Der leidgeplagte Briefmarkensammler mag daran erkennen, dass er als Interessent auch immer als Sponsor gefragt ist und war. Das Zuschlagswesen ist eng verknüpft und praktisch so alt, wie das Sammeln selbst. Vermutlich haben die damalig Begeisterten ebenso aufgestöhnt, wie die heutigen. In der damaligen Zeit wog die wirtschaftliche Belastung bestimmt noch schwerer, als in der Gegenwart. Dennoch oder gerade deshalb sind eine Reihe interessanter Belege entstanden, welche auch nach einem Jahrhundert nichts von ihrer Faszination eingebüßt haben.
 
-## The little secrets of Chemex brewing
+Die Flugpostbeförderung fand überwiegend durch das Luftschiff „Schwaben" statt, während der Rest durch das Flugzeug „Gelber Hund" transportiert wurde. Es handelte sich also um ein kombiniertes Luftfahrtereignis unter Mitwirkung eines Zeppelins sowie eines Flugzeugs. Diese Konstellation war seither selten anzutreffen. Um die Karten befördern lassen zu können, mussten sie zusätzlich mit halbamtlichen Wertzeichen, so genannten Flugmarken - Vignetten, versehen werden. Obwohl diese keinen postalischen Wert hatten, sondern vom Veranstalter ausgegeben wurden, erhielten sie eine postamtliche Entwertung.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Die „Erste deutsche Luftpost am Rhein und am Main" stellt ein in sich abgeschlossenes Briefmarkensammelgebiet aus der Pionierzeit der Flug- bzw. Luftpost dar. Es ist überschaubar und dennoch interessant und vielfältig. Für den kleineren Geldbeutel mag es vielleicht interessant sein, die fünf verschiedenen Stempel auf den Standardpostkarten zu dokumentieren oder von einem Stempelort alle verfügbaren Stempeldaten zu komplettieren. Weiteren individuellen Ideen sind jedenfalls keine Grenzen gesetzt und mit etwas Geduld lässt sich sicher eine einmalige Kollektion erstellen. Aus der nachfolgenden Abhandlung lässt sich vielleicht die ein oder andere Anregung entnehmen.
