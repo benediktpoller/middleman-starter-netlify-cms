@@ -103,8 +103,9 @@ Mainz	64.500	14%
 Offenbach	36.800	8%
 Worms	36.800	8%
 Summe	460.700	100%
-Eine vollständige Garnitur der Michel-Nr. I bis VI lässt sich nur für die Stempel Darmstadt und Mainz zusammenstellen. Dies liegt an der seltenen Verwendung der 10 Pfennig E. EL. P Marken.
 ```
+
+Eine vollständige Garnitur der Michel-Nr. I bis VI lässt sich nur für die Stempel Darmstadt und Mainz zusammenstellen. Dies liegt an der seltenen Verwendung der 10 Pfennig E. EL. P Marken.
 
 ## Tarife
 
@@ -119,7 +120,6 @@ Betrag	Leistung
 
 In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karten, Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug.
 
-
 ```
 1 Mark	Überdruckte Vignette "- 1 Mark - gelber Hund" mit orangegelber Karte, Beförderungsanspruch per Flugzeug. Achtung bei Abstempelung 23. Juni 1912, ersatzweise Beförderung mit dem Zeppelin, da vorgesehenes Flugzeug nicht einsatzfähig war. Da die Karte zusammen mit Luftpostvignette für den Betrag herausgegeben wurden, sind postfrische Exemplare relativ selten anzutreffen.
 3 Mark	Rote nummerierte Karte, Beförderung per Flugzeug (2 Mark zusätzliche Spende).
@@ -128,7 +128,6 @@ In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karte
 ### Karten und sonstige Artikel des Veranstalters
 
 kostenlos	Siegelmarke welche auf der Rückseite der Werbeschreiben der Palaisverwaltung vor der Veranstaltung aufgebracht waren.
-
 
 ```
 10 Pfennig	Schwarz-weiß Fotokarten der Großherzoglichen Familie - günstigster Preis wohl um die möglichst hohe Verbreitung zu gewährleisten. Kein offizieller Verkauf in Frankfurt, da kein großherzogliches Gebiet, daher relativ seltene Verwendung (Bewertung!).
@@ -163,17 +162,22 @@ Inschrift rückseitig
 Stempel der Reichspost : Flugpost am Rhein u. Main _Beförderung durch Postluftschiff „Schwaben" - Flugpost am Rhein und Main_ Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein - Die wie üblich frankierte und mit Luftpostmarke (10 Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt
 
 Auflage
+
+```
 A	graubrauner (oliver) Karton	750.000 Stück
 B	oranger Karton	10.000 Stück
 C	roter Karton	2.000 Stück
-	
-Inschrift rückseitig
-Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. - Die rote Flugzeugkarte ist nur in wenigen numerierten Exemplaren hergestellt und wird nur in den Luftpostämtern verkauft. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 3 Mark) - Post-Flugmaschine
+```
 
 Inschrift rückseitig
-Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. Sie ist nur in einer kleinen Auflage erschienen. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 1 Mark) - Post-Flugmaschine
 
-Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luftschifftransport während der Veranstaltung dar. Der orangefarbene (sollte ursprünglich in gelber Ausfertigung, wie das Postflugzeug erscheinen) und rote Karton wurde zur besseren Unterscheidung für den Anspruch auf Flugzeugbeförderung herausgegeben. Diese Karten sollten beim Verteilen also auffallen. Der Druck der orangenen und roten Karten erfolgte im Buchdruck auf einseitig gerippten Kartonbahnen vorder- und rückseitig mit 16er Klischees in schwarz. Die roten Karten sind vorderseitig zusätzlich einzeln nummeriert. Die Paginierung der roten Karten erfolgte nach Zuschnitt in einem separaten Druckvorgang von No. 1 bis 2000. Als Abart sind wenige Karten mit Doppel- bzw. Schmitzdruck (Schattendruck) der Paginier-Nummern bekannt. Nach Schätzungen sind etwa hundert Jahre nach der Veranstaltung noch circa 750 rotfarbige Karten erhalten geblieben.
+_Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. - Die rote Flugzeugkarte ist nur in wenigen numerierten Exemplaren hergestellt und wird nur in den Luftpostämtern verkauft. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 3 Mark) - Post-Flugmaschine_
+
+Inschrift rückseitig
+
+_Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. Sie ist nur in einer kleinen Auflage erschienen. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 1 Mark) - Post-Flugmaschine_
+
+Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luftschifftransport während der Veranstaltung dar. Der orangefarbene (sollte ursprünglich in gelber Ausfertigung, wie das Postflugzeug erscheinen) und rote Karton wurde zur besseren Unterscheidung für den Anspruch auf Flugzeugbeförderung herausgegeben. Diese Karten sollten beim Verteilen also auffallen. Der Druck der orangenen und roten Karten erfolgte im Buchdruck auf einseitig gerippten Kartonbahnen vorder- und rückseitig mit 16er Klischees in schwarz. Die roten Karten sind vorderseitig zusätzlich einzeln nummeriert. Die Paginierung der roten Karten erfolgte nach Zuschnitt in einem separaten Druckvorgang von Nr. 1 bis 2000. Als Abart sind wenige Karten mit Doppel- bzw. Schmitzdruck (Schattendruck) der Paginier-Nummern bekannt. **Nach Schätzungen sind etwa hundert Jahre nach der Veranstaltung noch circa 750 rotfarbige Karten erhalten geblieben.**
 
 ### OFFIZIELLE POSTKARTEN (Fotos aus Darmstadt- Hessen)
 
@@ -229,24 +233,26 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
 
 #### Muster für die Anschriftenseite der Karten
 
-XBA1    \[1]   Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1910)
-XBA2    \[2]   Eleonore, Großherzogin von Hessen (bildgleich wie 1910)
-XBA3    \[3]   Ernst Ludwig und Eleonore (bildgleich wie 1910)
-XBB1    \[4]   Erbherzog Georg und Prinz Ludwig (bildgleich wie 1910)
-XBB2    \[5]   Großherzog von Hessen mit Familie auf Bank 
-XBB3    \[6]   Erbgroßherzog und Prinz von Hessen mit drei Kindern
+```
+XBA1    [1]   Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1910)
+XBA2    [2]   Eleonore, Großherzogin von Hessen (bildgleich wie 1910)
+XBA3    [3]   Ernst Ludwig und Eleonore (bildgleich wie 1910)
+XBB1    [4]   Erbherzog Georg und Prinz Ludwig (bildgleich wie 1910)
+XBB2    [5]   Großherzog von Hessen mit Familie auf Bank 
+XBB3    [6]   Erbgroßherzog und Prinz von Hessen mit drei Kindern
                    Thronfolger; Alexej mit Prinzessinnen Margharita und Theodora von Griechenland 
-XBB4    \[7]   Erbgroßherzog und Prinz (im Kinderwagen) mit Zarewitsch
-XBB5    \[8]   Erbgroßherzog und Prinz mit Zarewitsch (Großfürst Thronfolger) auf einer Bank
-XBB6    \[9]   Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1910)
-XBB7   \[10]  Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1910)
-XBB8   \[11]  Großherzog Ernst Ludwig und der Zar von Russland
-XBB9   \[12]  Die 5 Kinder der russischen Zarenfamilie
-XBB10  \[26]  Erbgroßherzog und Prinz von Hessen mit Blumensträußen
-XBB11  \[27]  Erbgroßherzog und Prinz von Hessen in der Pferdekutsche
-XBB12  \[28]  Großherzog und Großherzogin auf Balkon 
-XBB13  \[29]  Großherzog und Großherzogin mit beiden Söhnen auf Balkon
-XBB14  \[30]  Großherzog und Großherzogin mit beiden Söhnen (diese auf Teddy) auf Balkon
+XBB4    [7]   Erbgroßherzog und Prinz (im Kinderwagen) mit Zarewitsch
+XBB5    [8]   Erbgroßherzog und Prinz mit Zarewitsch (Großfürst Thronfolger) auf einer Bank
+XBB6    [9]   Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1910)
+XBB7   [10]  Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1910)
+XBB8   [11]  Großherzog Ernst Ludwig und der Zar von Russland
+XBB9   [12]  Die 5 Kinder der russischen Zarenfamilie
+XBB10  [26]  Erbgroßherzog und Prinz von Hessen mit Blumensträußen
+XBB11  [27]  Erbgroßherzog und Prinz von Hessen in der Pferdekutsche
+XBB12  [28]  Großherzog und Großherzogin auf Balkon 
+XBB13  [29]  Großherzog und Großherzogin mit beiden Söhnen auf Balkon
+XBB14  [30]  Großherzog und Großherzogin mit beiden Söhnen (diese auf Teddy) auf Balkon
+```
 
 Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Beliebtheit. Deshalb wurden auch Restmengen der Kartenausgaben aus den beiden Vorjahren im Rahmen der beiden Flugwochen des Jahres 1912 gelegentlich verwendet. Insgesamt werden noch rund 100 existierender Karten aus dem Jahre 1911, welche eine Serie von siebzehn verschiedenen Ausgaben umfasst, vermutet, welche sich durch die anschriftenseitig braune Druckfarbe u.a. des aufgebrachten Emblems von den Karten des Jahrgangs 1910 eindeutig unterscheiden lassen. 
 Auch der Autor dieser Homepage muss an dieser Stelle eingestehen, dass er noch keine derartige Karte in natura bewundern durfte.
