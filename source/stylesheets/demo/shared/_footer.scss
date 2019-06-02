@@ -1,12 +1,10 @@
 footer {
   position: relative;
   background-color: $text-color;
-
   .header-primary {
     position: relative;
     height: auto;
     border-bottom: 2px solid rgba(255, 255, 255, 0.1);
-
     .navigation {
       background-color: transparent;
       a {
@@ -14,17 +12,14 @@ footer {
       }
     }
   }
-
   .footer-content {
     padding: 30px 15px 60px;
   }
-
   .newsletter {
     @extend %column;
     @extend %col-md-6;
     @extend %col-sm-8;
   }
-
   .social {
     @extend %column;
     @extend %col-md-6;
@@ -37,28 +32,25 @@ footer {
       display: inline-block;
       text-align: right;
       margin-left: 15px;
-      width: 60px; 
+      width: 60px;
       height: 60px;
       padding: 15px;
       background-color: #fff;
       border-radius: 50%
-
     }
     img {
       width: 100%;
     }
   }
-
-
   label {
     display: block;
     margin-bottom: 15px;
     font-size: 18px;
     font-weight: 700;
     color: rgba(255, 255, 255, 1);
-    
   }
-  button, input {
+  button,
+  input {
     display: inline-block;
     height: 60px;
     padding: 15px;
@@ -72,7 +64,6 @@ footer {
     background-clip: padding-box;
     border-radius: 4px 0 0 4px;
   }
-
   button {
     width: 20%;
     background: $primary-color;
@@ -82,11 +73,10 @@ footer {
   }
 }
 
-  
 @media screen and (max-width: $screen-xs-max) {
   footer {
     .header-primary {
-      .logo  a {
+      .logo a {
         padding-left: 15px
       }
       .nav-button {
@@ -110,12 +100,10 @@ footer {
     }
     button {
       width: 40%;
-    } 
-
+    }
     .footer-content {
       padding: 15px 0 30px;
     }
-
     .social {
       margin-top: 30px;
       .icons {
