@@ -18,9 +18,7 @@ Taube mit Brief - Die Abbildung zeigt laut Pressenotiz „einen als Symbol der F
 ---
 Die Vignetten wurden von Professor Kleukens entworfen. Die Wertzeichen wurden im Buchdruckverfahren auf sämischen Papier in Bögen zu je 100 Exemplaren von der Druckerei Osterrieth in Frankfurt am Main hergestellt. Die halbamtlichen Marken wurden am 8. Juni 1912 (10 Pfennig) und am 11. Juni 1912 (20 Pfennig) sowie am 17. Juni 1912 (30 Pfennig) ausgegeben. Die Flugpostmarken sind mit einer Linienzähnung 11 ½ versehen. Bei der Linienzähnung wird ein Zähnungsmesser in regelmäßigen Abständen zunächst waagerecht und dann senkrecht durch die Markenbogen gestochen. Die Maßeinheit für die Zähnung ist die Anzahl der Zähnungslöcher (nicht der Zähne!) auf 2 cm Markenlänge und kann über entsprechende Schablonenschlüssel bestimmt werden.
 
-#### Auflagen
-
-- - -
+**Auflagen**
 
 | Name       | Stück         | Katalog                        |
 | ---------- | ------------- | ------------------------------ |
@@ -28,23 +26,21 @@ Die Vignetten wurden von Professor Kleukens entworfen. Die Wertzeichen wurden im
 | 20 Pfennig | 194.000 Stück | Michel-Nr. II ; Sieger-Nr. 11  |
 | 30 Pfennig | 100.000 Stück | Michel-Nr. III ; Sieger-Nr. 12 |
 
-- - -
-
 Das Porto deckte die Luftschiffbeförderung ab, welche zunächst mit einheitlich 30 Pfennig geplant war, aber tatsächlich bis auf eine Ausnahme auf 10 Pfennig herabgesetzt wurde. Die Marke zu 20 Pfennig verkörperte einen entsprechenden Spendenanteil.
 
 10 Pfennig Bogen mit 10 x 10 Marken
 	
-
 ### Flugpostmarken - Vignetten des Veranstalters (mit Aufdruck)
 
 Wie obige 10 Pfennig Marke jedoch mit dunkelblauem Aufdruck "- 1 M. - Gelber Hund" mit Ausgabedatum 10. Juni 1912. Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Marken mit schwarzem E. EL. P. Aufdruck verausgabt.
 
-```
-Auflagen 
-1 Mark 30.000 Stück (Michel-Nr. IV ; Sieger-Nr. 13)
-10 Pfennig 3.000 Stück (Michel-Nr. V ; Sieger-Nr. 14)
-20 Pfennig 6.000 Stück (Michel-Nr. VI; Sieger-Nr. 15)
-```
+**Auflagen**
+
+| Name       | Stück         | Katalog                        |
+| ---------- | ------------- | ------------------------------ |
+| 1 Mark     | 30.000 Stück  | Michel-Nr. IV ; Sieger-Nr. 13  |
+| 10 Pfennig | 3.000 Stück   | Michel-Nr. V ; Sieger-Nr. 14   |
+| 20 Pfennig | 6.000 Stück   | Michel-Nr. VI; Sieger-Nr. 15   |
 
 1 Mark beinhaltete die Portostufe für die Beförderung mit dem Postflugzeug. Die E.EL.P. Aufdruckmarken waren für ein Preisausschreiben des Veranstalters vorgesehen, wurden jedoch auch für Karten mit abweichenden Adressaten verwendet.
 
@@ -101,17 +97,15 @@ Natürlich sind im Eifer des Gefechts auch Fehler aufgetreten, die auf menschlic
 
 ### Stempel-Vorkommen
 
-Nach Schätzungen tragen von den beförderten Belegen folgende Stempelabschläge:
+Nach Schätzungen tragen von den beförderten Belegen folgende Stempelabschläge (ingesamt 460.700):
 
-```
-Stempel	absolut	relativ
-Darmstadt Typ I und II	189.000	41%
-Frankfurt	133.600	29%
-Mainz	64.500	14%
-Offenbach	36.800	8%
-Worms	36.800	8%
-Summe	460.700	100%
-```
+| Stempel                | absolut | relativ |
+| ---------------------- | ------- | ------- |
+| Darmstadt Typ I und II | 189.000 | 41%     |
+| Frankfurt              | 133.600 | 29%     |
+| Mainz                  | 64.500  | 14%     |
+| Offenbach              | 36.800  | 8%      |
+| Worms                  | 36.800  | 8%      |
 
 Eine vollständige Garnitur der Michel-Nr. I bis VI lässt sich nur für die Stempel Darmstadt und Mainz zusammenstellen. Dies liegt an der seltenen Verwendung der 10 Pfennig E. EL. P Marken.
 
@@ -166,22 +160,24 @@ Zudem sind gelegentlich Überfrankaturen (z.B. doppelte Verwendung der braunen 3
 ### FLUG-POST-KARTEN auf farbigem Karton, glatt oder gerippt
 
 Diese Karten stellte die Druckerei L. C. Wittlich in Darmstadt im Steindruckverfahren her.		
-Inschrift rückseitig
+
+**Inschrift rückseitig**
+
 Stempel der Reichspost : Flugpost am Rhein u. Main _Beförderung durch Postluftschiff „Schwaben" - Flugpost am Rhein und Main_ Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein - Die wie üblich frankierte und mit Luftpostmarke (10 Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt
 
-Auflage
+**Auflage**
 
-```
-A	graubrauner (oliver) Karton	750.000 Stück
-B	oranger Karton	10.000 Stück
-C	roter Karton	2.000 Stück
-```
+| Karte                       | Auflage       |
+| --------------------------- | ------------- |
+| graubrauner (oliver) Karton | 750.000 Stück |
+| oranger Karton              | 10.000 Stück  |
+| roter Karton                | 2.000 Stück   |
 
-Inschrift rückseitig
+**Inschrift rückseitig**
 
 _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. - Die rote Flugzeugkarte ist nur in wenigen numerierten Exemplaren hergestellt und wird nur in den Luftpostämtern verkauft. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 3 Mark) - Post-Flugmaschine_
 
-Inschrift rückseitig
+**Inschrift rückseitig**
 
 _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. Sie ist nur in einer kleinen Auflage erschienen. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 1 Mark) - Post-Flugmaschine_
 
