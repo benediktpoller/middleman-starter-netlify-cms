@@ -110,28 +110,43 @@ Eine vollständige Garnitur der Michel-Nr. I bis VI lässt sich nur für die Ste
 
 ### Flugpostmarken (Vignetten) des Veranstalters
 
+```
 Betrag	Leistung
 10 Pfennig	Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug, bei Verwendung der vom Veranstalter herausgegeben Karten und private Karten der ersten Veranstaltungswoche.
 20 Pfennig	Wie 10 Pfennig mit zusätzlicher Spende in Höhe von 10 Pfennig.
-30 Pfennig	Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin. In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karten, Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug.
+30 Pfennig	Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin. 
+```
+
+In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karten, Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug.
+
+
+```
 1 Mark	Überdruckte Vignette "- 1 Mark - gelber Hund" mit orangegelber Karte, Beförderungsanspruch per Flugzeug. Achtung bei Abstempelung 23. Juni 1912, ersatzweise Beförderung mit dem Zeppelin, da vorgesehenes Flugzeug nicht einsatzfähig war. Da die Karte zusammen mit Luftpostvignette für den Betrag herausgegeben wurden, sind postfrische Exemplare relativ selten anzutreffen.
 3 Mark	Rote nummerierte Karte, Beförderung per Flugzeug (2 Mark zusätzliche Spende).
+```
 
 ### Karten und sonstige Artikel des Veranstalters
 
 kostenlos	Siegelmarke welche auf der Rückseite der Werbeschreiben der Palaisverwaltung vor der Veranstaltung aufgebracht waren.
+
+
+```
 10 Pfennig	Schwarz-weiß Fotokarten der Großherzoglichen Familie - günstigster Preis wohl um die möglichst hohe Verbreitung zu gewährleisten. Kein offizieller Verkauf in Frankfurt, da kein großherzogliches Gebiet, daher relativ seltene Verwendung (Bewertung!).
 20 Pfennig	Standardgrußkarte (oliv - Auflage 750.000 Stück) sowie Sonderkarten der Veranstaltung (so genannter "weißer Hund") selbst.
 1 Mark	Farbige Bildkarten des Jugendstilmalers Eugen Bracht (ursprünglich sollten auch diese für 10 Pfennig an das Publikum abgegeben werden).
 1 Mark	Die mit dem Flugzeug zu beförderten Karten waren zur besseren Unterscheidung in orangefarbenen Ton in einer Auflage von 10.000 Stück erschienen. Die Karte sollte ursprünglich in gelblichem Farbton, wie das Flugzeug herausgegeben werden, der Preis versteht sich für Karte und der Flugpostvignette.
 1 Mark	Wohlfahrtsbilder mit denselben Aufnahmen in der Größe 19/26 cm mit zugehörigem Passepartout zum Aufstellen.
 3 Mark	wie unter ca): Rote von 1 bis 2000 durchnummerierte Karten mit den zugehörigen privaten Luftpostmarken (in der Regel 3 Stück à 1 Mark, oder 10 Stück à 30 Pfennig). Heutige Bezeichnung "roter Hund" bzw. "grüner Hund".
+```
 
 ### Reichspostbriefmarken
 
+```
 3 Pfennig	Drucksache Inland - in der Regel Verwendung der Michel-Nr. 84 braune Germania.
 5 Pfennig	Postkarte Inland - in der Regel mit Michel-Nr. 85 grüne Germania.
 10 Pfennig	Postkarte Ausland und Brief Inland - in der Regel Michel-Nr. 86 rosa Germania.
+```
+
 Die Karten mussten zusätzlich mit dem üblichen Porto der Reichspost freigemacht werden. Insoweit waren für die anschließende Beförderung im Inland 5 Pfennig aufzuwenden. Üblicherweise geschah dies durch die entsprechende grüne Germaniamarke (Michel-Nr. 85). Nach den allgemeinen Beförderungsbedingungen der Reichspost umfasste der damalige Inlandsportotarif auch den Versand nach Österreich-Ungarn und Luxemburg sowie die Destinationen zu den deutschen Kolonien (in Teilen Afrikas und im pazifischen Raum) und Auslandspostämtern (China, Marokko und Türkei). Die Karten mit Adresse ins Ausland mit portogerechtem Inlandstarif sind sehr selten und immer wieder gesucht. Da diese Karten nicht direkt durch ihre äußerliche Aufmachung auffallen, lohnt sich deshalb vielleicht ein Blick auf die Anschrift des Empfängers.
 
 Kaiserliche Zeiten - Beispiel Inlandstarif für die Beförderung auf eine pazifische Insel	
@@ -212,7 +227,7 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
 
 ### Fotokarten 1911
 
-Muster für die Anschriftenseite der Karten
+#### Muster für die Anschriftenseite der Karten
 
 XBA1    \[1]   Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1910)
 XBA2    \[2]   Eleonore, Großherzogin von Hessen (bildgleich wie 1910)
@@ -243,10 +258,10 @@ Blankoanschriftenseite der Karten 1910
 ```
 XAA1  [1]  Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911) 
 XAA2  [2]  Eleonore, Großherzogin von Hessen (bildgleich wie 1911)
-XAA3   [3]  Ernst Ludwig und Eleonore (bildgleich wie 1911)
+XAA3  [3]  Ernst Ludwig und Eleonore (bildgleich wie 1911)
 XAB4  [4]  Erbherzog Georg und Prinz Ludwig (bildgleich wie 1911)
 XAB5  [5]  Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1911)
-XAB6   [6]  Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911)
+XAB6  [6]  Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911)
 ```
 
 1910 verausgabte die Großherzogliche Fürsorgezentrale eine anschriftenseitig nummerierte Serie von sechs Fotokarten mit Bildmotiven aus dem Leben der großherzoglichen Familie, mit anschriftenseitig schwarzem Druck. Die Anzahl der heute noch belegbaren Karten des Jahrganges 1910 beläuft sich insgesamt auf weniger als 50 Stück. Allein diese Zahl gibt einen Hinweis auf den Grad der Seltenheit dieser "Vorläufer"- Karten.
@@ -255,7 +270,8 @@ XAB6   [6]  Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911
 
 Sehr selten sind private Karten, d.h. nicht vom Patronat extra für diese Veranstaltung herausgegebene Belege, mit der Flugpost befördert worden. Vereinzelte Briefbeförderungen stellen jeweils Unikate dar.
 
-Extrem selten: Muster für Briefbeförderung	
+#### Extrem selten: Muster für Briefbeförderung
+
 Y  Post-, Ansichts- und Ganzsachen-Karten
 Z  Briefe
 
