@@ -11,16 +11,24 @@ image: /images/uploads/schwaben.jpg
 
 ### Flugpostmarken - Vignetten des Veranstalters (ohne Aufdruck)
 
-Taube mit Brief - Die Abbildung zeigt laut Pressenotiz „einen als Symbol der Flugpost im Licht der aufgehenden Sonne über den Wolken schwebenden Phantasievogel".
+![Taube mit Brief](/images/uploads/10_postfrisch.jpg "Taube mit Brief")
 
+---
+Taube mit Brief - Die Abbildung zeigt laut Pressenotiz „einen als Symbol der Flugpost im Licht der aufgehenden Sonne über den Wolken schwebenden Phantasievogel".
+---
 Die Vignetten wurden von Professor Kleukens entworfen. Die Wertzeichen wurden im Buchdruckverfahren auf sämischen Papier in Bögen zu je 100 Exemplaren von der Druckerei Osterrieth in Frankfurt am Main hergestellt. Die halbamtlichen Marken wurden am 8. Juni 1912 (10 Pfennig) und am 11. Juni 1912 (20 Pfennig) sowie am 17. Juni 1912 (30 Pfennig) ausgegeben. Die Flugpostmarken sind mit einer Linienzähnung 11 ½ versehen. Bei der Linienzähnung wird ein Zähnungsmesser in regelmäßigen Abständen zunächst waagerecht und dann senkrecht durch die Markenbogen gestochen. Die Maßeinheit für die Zähnung ist die Anzahl der Zähnungslöcher (nicht der Zähne!) auf 2 cm Markenlänge und kann über entsprechende Schablonenschlüssel bestimmt werden.
 
-```
-Auflagen 
-10 Pfennig 497.000 Stück (Michel-Nr. I ; Sieger-Nr. 10)
-20 Pfennig 194.000 Stück (Michel-Nr. II ; Sieger-Nr. 11)
-30 Pfennig 100.000 Stück (Michel-Nr. III; Sieger-Nr. 12)
-```
+#### Auflagen
+
+- - -
+
+| Name       | Stück         | Katalog                        |
+| ---------- | ------------- | ------------------------------ |
+| 10 Pfennig | 497.000 Stück | Michel-Nr. I ; Sieger-Nr. 10   |
+| 20 Pfennig | 194.000 Stück | Michel-Nr. II ; Sieger-Nr. 11  |
+| 30 Pfennig | 100.000 Stück | Michel-Nr. III ; Sieger-Nr. 12 |
+
+- - -
 
 Das Porto deckte die Luftschiffbeförderung ab, welche zunächst mit einheitlich 30 Pfennig geplant war, aber tatsächlich bis auf eine Ausnahme auf 10 Pfennig herabgesetzt wurde. Die Marke zu 20 Pfennig verkörperte einen entsprechenden Spendenanteil.
 
