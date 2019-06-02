@@ -13,15 +13,14 @@ image: /images/uploads/schwaben.jpg
 
 ![Taube mit Brief](/images/uploads/10_postfrisch.jpg "Taube mit Brief")
 
----
 Taube mit Brief - Die Abbildung zeigt laut Pressenotiz „einen als Symbol der Flugpost im Licht der aufgehenden Sonne über den Wolken schwebenden Phantasievogel".
----
+
 Die Vignetten wurden von Professor Kleukens entworfen. Die Wertzeichen wurden im Buchdruckverfahren auf sämischen Papier in Bögen zu je 100 Exemplaren von der Druckerei Osterrieth in Frankfurt am Main hergestellt. Die halbamtlichen Marken wurden am 8. Juni 1912 (10 Pfennig) und am 11. Juni 1912 (20 Pfennig) sowie am 17. Juni 1912 (30 Pfennig) ausgegeben. Die Flugpostmarken sind mit einer Linienzähnung 11 ½ versehen. Bei der Linienzähnung wird ein Zähnungsmesser in regelmäßigen Abständen zunächst waagerecht und dann senkrecht durch die Markenbogen gestochen. Die Maßeinheit für die Zähnung ist die Anzahl der Zähnungslöcher (nicht der Zähne!) auf 2 cm Markenlänge und kann über entsprechende Schablonenschlüssel bestimmt werden.
 
 **Auflagen**
 
-| Name       | Stück         | Katalog                        |
-| ---------- | ------------- | ------------------------------ |
+| Name       | Stück         | Katalog                       |
+| ---------- | ------------- | ----------------------------- |
 | 10 Pfennig | 497.000 Stück | Michel-Nr. I; Sieger-Nr. 10   |
 | 20 Pfennig | 194.000 Stück | Michel-Nr. II; Sieger-Nr. 11  |
 | 30 Pfennig | 100.000 Stück | Michel-Nr. III; Sieger-Nr. 12 |
@@ -46,7 +45,7 @@ Wie obige 10 Pfennig Marke jedoch mit dunkelblauem Aufdruck "- 1 M. - Gelber Hun
 
 ### Reichspostmarken
 
-Da die Reichspost keinen extra Profit aus der Wohltätigkeitsaktion ziehen wollte, mussten die Karten zudem nur mit dem üblichem Reichspostporto, das heißt für Adressen im Inland mit 5 Pfennig und dem Ausland mit 10 Pfennig freigemacht werden. Dies war deshalb erforderlich, weil die Karten auf dem Landwege angeliefert und nach dem Lufttransport anschließend durch die Reichspost an den jeweiligen Adressaten zugestellt werden mussten. Weitere Einzelheiten sind der weiter unten stehenden Rubrik [**Tarife**](#Tarife) zu entnehmen.
+Da die Reichspost keinen extra Profit aus der Wohltätigkeitsaktion ziehen wollte, mussten die Karten zudem nur mit dem üblichem Reichspostporto, das heißt für Adressen im Inland mit 5 Pfennig und dem Ausland mit 10 Pfennig freigemacht werden. Dies war deshalb erforderlich, weil die Karten auf dem Landwege angeliefert und nach dem Lufttransport anschließend durch die Reichspost an den jeweiligen Adressaten zugestellt werden mussten. Weitere Einzelheiten sind der weiter unten stehenden Rubrik Tarife zu entnehmen.
 
 ## Stempel
 
@@ -54,7 +53,7 @@ Sonderstempel
 	
 Unverzichtbar sind die anlässlich der Veranstaltung extra produzierten Sonderstempel. Die amtlichen Flugpoststempel wurden von der Firma Gleichmann in Berlin auf Kosten des Veranstalters hergestellt, das heißt, die Stempelhoheit lag nicht etwa beim Veranstalter, sondern bei der Kaiserlichen Reichspost. Die Stempel wurden als Einkreisstempel von 39mm Durchmesser ausgeführt. Enthalten ist eine stilisierte Blume, welche wohl an die vorherigen Blumentage erinnern sollte. 
 
-Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7 mm Strichlänge unter dem Datum) bzw. in den Typ II (11,25 mm Strichlänge). Dieser Stempel auf den Belegen verkörperte die Garantie, dass ein Teil der Beförderung auf dem Luftwege stattgefunden hat.
+Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7mm Strichlänge unter dem Datum) bzw. in den Typ II (11,25mm Strichlänge). Dieser Stempel auf den Belegen verkörperte die Garantie, dass ein Teil der Beförderung auf dem Luftwege stattgefunden hat.
 
 ### Bordstempel (zusätzlich auf der Karte)
 
@@ -149,6 +148,7 @@ In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karte
 Die Karten mussten zusätzlich mit dem üblichen Porto der Reichspost freigemacht werden. Insoweit waren für die anschließende Beförderung im Inland 5 Pfennig aufzuwenden. Üblicherweise geschah dies durch die entsprechende grüne Germaniamarke (Michel-Nr. 85). Nach den allgemeinen Beförderungsbedingungen der Reichspost umfasste der damalige Inlandsportotarif auch den Versand nach Österreich-Ungarn und Luxemburg sowie die Destinationen zu den deutschen Kolonien (in Teilen Afrikas und im pazifischen Raum) und Auslandspostämtern (China, Marokko und Türkei). Die Karten mit Adresse ins Ausland mit portogerechtem Inlandstarif sind sehr selten und immer wieder gesucht. Da diese Karten nicht direkt durch ihre äußerliche Aufmachung auffallen, lohnt sich deshalb vielleicht ein Blick auf die Anschrift des Empfängers.
 
 Kaiserliche Zeiten - Beispiel Inlandstarif für die Beförderung auf eine pazifische Insel	
+
 Auch selten anzutreffen sind echte Auslandsfreimachungen, welche aber regelmäßig durch die aufgebrachte rosafarbene 10 Pfennig (Michel-Nr. 86) oder doppelte Verwendung der 5 Pfennig Marke ins Auge springen.
 
 Zudem sind gelegentlich Überfrankaturen (z.B. doppelte Verwendung der braunen 3 Pfennig Marke (Michel-Nr. 84) ebenso anzutreffen, wie auch in Einzelfällen Einschreiben gesichtet worden sind.
@@ -264,7 +264,7 @@ Blankoanschriftenseite der Karten 1910
 
 Sehr selten sind private Karten, d.h. nicht vom Patronat extra für diese Veranstaltung herausgegebene Belege, mit der Flugpost befördert worden. Vereinzelte Briefbeförderungen stellen jeweils Unikate dar.
 
-#### Extrem selten: Muster für Briefbeförderung
+Extrem selten: Muster für Briefbeförderung
 
 - Post-, Ansichts- und Ganzsachen-Karten
 - Briefe
