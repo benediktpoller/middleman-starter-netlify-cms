@@ -4,7 +4,7 @@ date: '2018-08-18T09:01+02:00'
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
   Mountain coffee beans in our store next week.
-image: /images/uploads/news_item-03.jpg
+image: /images/uploads/zeppelin_worms.jpg
 ---
 ## Veranstaltung
 
@@ -30,11 +30,11 @@ Der Deutschen Reichspost wurde die Aufgabe zugedacht, die in die regulären ört
 
 Schließlich lief parallel hierzu auch eine Werbekampagne an, welche auch nach heutigen Maßstäben als durchaus professionell bezeichnet werden kann. Aus dem Inhalt eines Schreibens des Patronates im Mai 1912 an die örtlichen Vereine:
 
-"Wie Ihnen wohl schon bekannt ist, veranstalten Ihre Königliche Hoheit die Frau Grossherzogin in der zweiten Woche des Juni eine allgemeine Postkartenwoche zum Besten der Mutter- und Säuglingsfürsorge. Es ist dabei beabsichtigt, auch Vereine, deren Wirkungskreis nicht unmittelbar auf dem Gebiet der Mutter- und Säuglingsfürsorge liegt, zu bitten, bei dem Verkauf der Postkarten- und Wohlfahrtsbilder mitzuwirken. Diese Vereine erhalten zu Gunsten ihres Vereinsvermögens den unten erwähnten Rabatt. Zum Verkauf gelangen:
-
-1. Postkarten in Bromsilber-Ausführung mit neuen Aufnahmen Seiner Königlichen Hoheit des Grossherzogs, Ihrer Königliche Hoheit der Frau Grossherzogin, der Grossherzoglichen Prinzen und eine neue Gruppenaufnahme der Grossherzoglichen Familie, sowie gut ausgeführte Buntdruckkarten nah Originalen von Eugen Bracht. Der Verkaufspreis an das Publikum beträgt 10 Pfg. pro Stück. Die eingangs erwähnten Vereine erhalten bei fester Bestellung von mindestens 50 Stück einen Rabatt von 2 Pfg. pro Karte. 
-2. Wohlfahrtsbilder mit denselben Aufnahmen in der Grösse von 19/26 cm und einem Passepartout zum Aufstellen. Der Verkaufspreis dieser Bilder beträgt 1 Mk. Die genannten Vereine erhalten bei einer festen Bestellung von mindestens 10 Stück einen Rabatt von 30 Pfg. pro Bild.
-   Restbestände können auch nach Ablauf der Postkartenwoche ohne Zeitgrenze vertrieben werden. Wir wären auch Ihrem Verein dankbar, wenn er sich an dem Verkauf der Postkarten und Bilder im Interesse der guten Sache beteiligte und eine wenn auch kleine Anzahl von Bildern oder Postkarten fest bestellte. Bestellungen bitten wir umgehend an das Kreiskomitee unseres Kreises (Adresse Großes Kreisamt) zu richten, da spätere Bestellungen von den liefernden Firmen vielleicht nicht mehr ausgeführt werden könnten. Probebilder und Probekarten sind in dem Laden in Darmstadt, Wilhelminenstr. 35 (Ecke Hügelstr.) und in mehreren anderen Läden ausgestellt."
+> "Wie Ihnen wohl schon bekannt ist, veranstalten Ihre Königliche Hoheit die Frau Grossherzogin in der zweiten Woche des Juni eine allgemeine Postkartenwoche zum Besten der Mutter- und Säuglingsfürsorge. Es ist dabei beabsichtigt, auch Vereine, deren Wirkungskreis nicht unmittelbar auf dem Gebiet der Mutter- und Säuglingsfürsorge liegt, zu bitten, bei dem Verkauf der Postkarten- und Wohlfahrtsbilder mitzuwirken. Diese Vereine erhalten zu Gunsten ihres Vereinsvermögens den unten erwähnten Rabatt. Zum Verkauf gelangen: 
+>
+> 1. Postkarten in Bromsilber-Ausführung mit neuen Aufnahmen Seiner Königlichen Hoheit des Grossherzogs, Ihrer Königliche Hoheit der Frau Grossherzogin, der Grossherzoglichen Prinzen und eine neue Gruppenaufnahme der Grossherzoglichen Familie, sowie gut ausgeführte Buntdruckkarten nah Originalen von Eugen Bracht. Der Verkaufspreis an das Publikum beträgt 10 Pfg. pro Stück. Die eingangs erwähnten Vereine erhalten bei fester Bestellung von mindestens 50 Stück einen Rabatt von 2 Pfg. pro Karte. 
+> 2. Wohlfahrtsbilder mit denselben Aufnahmen in der Grösse von 19/26 cm und einem Passepartout zum Aufstellen. Der Verkaufspreis dieser Bilder beträgt 1 Mk. Die genannten Vereine erhalten bei einer festen Bestellung von mindestens 10 Stück einen Rabatt von 30 Pfg. pro Bild.
+>    Restbestände können auch nach Ablauf der Postkartenwoche ohne Zeitgrenze vertrieben werden. Wir wären auch Ihrem Verein dankbar, wenn er sich an dem Verkauf der Postkarten und Bilder im Interesse der guten Sache beteiligte und eine wenn auch kleine Anzahl von Bildern oder Postkarten fest bestellte. Bestellungen bitten wir umgehend an das Kreiskomitee unseres Kreises (Adresse Großes Kreisamt) zu richten, da spätere Bestellungen von den liefernden Firmen vielleicht nicht mehr ausgeführt werden könnten. Probebilder und Probekarten sind in dem Laden in Darmstadt, Wilhelminenstr. 35 (Ecke Hügelstr.) und in mehreren anderen Läden ausgestellt."
 
 In einem Schreiben des Patronates (Regierungsrat Pistor) am 06. Juni 1912 an die örtlichen Zeitungsredaktionen heißt es: 
 
@@ -108,16 +108,27 @@ Die Reichspost achtete nicht auf die Beschaffenheit der Sendungen. Es wurde nur 
 
 ### Ablauf der Veranstaltung
 
-Das Ereignis wurde von einem respektablen Rahmenprogramm begleitet, welches die gesamte damalige Bevölkerung ansprechen sollte und öffentlich weit über die Zunft der reinen Briefmarkensammler hinaus beachtet wurde. So wurde der Exerzierplatz in Darmstadt für die Ankunft des Flugzeugs und des Luftschiffes extra abgesperrt und Eintritt (20 Pfg. bzw. 50 Pfg) erhoben. Trotzdem fanden sich vor Ort 15 000 begeisterte Zeitzeugen ein, welche eine Stimmung erzeugten, die keinen Vergleich zur Atmosphäre während eines heutigen Fußball-Bundesligaspiels in einem großen Stadion scheuen musste. Im Programm für Darmstadt heißt es:
+Das Ereignis wurde von einem respektablen Rahmenprogramm begleitet, welches die gesamte damalige Bevölkerung ansprechen sollte und öffentlich weit über die Zunft der reinen Briefmarkensammler hinaus beachtet wurde. So wurde der Exerzierplatz in Darmstadt für die Ankunft des Flugzeugs und des Luftschiffes extra abgesperrt und Eintritt (20 Pfg. bzw. 50 Pfg) erhoben. Trotzdem fanden sich vor Ort 15 000 begeisterte Zeitzeugen ein, welche eine Stimmung erzeugten, die keinen Vergleich zur Atmosphäre während eines heutigen Fußball-Bundesligaspiels in einem großen Stadion scheuen musste. 
 
-Sonntag, den 9. Juni 1912: Eröffnung der „Flugpost am Rhein und Main" (reichspostalischer Stempel: „Flugpost am Rhein und Main"). Das Luftpostamt, Rheinstraße 14, ist offen von vormittags 11-1 Uhr. - Großes Konzert sämtlicher Militärkapellen der Haupt- und Residenzstadt Darmstadt bei dem Luftpostamt 11 - 12 ½ Uhr. (Konzertprogramm in den Tageszeitungen.) Luftpostwertzeichen. (Die wie üblich frankierte und mit der Luftpostmarke (10 Pfg.) versehene Postkarte kann in jeden Briefkasten der Reichspost geworfen werden; sie wird dann mit dem Zeppelin-Postschiff „Schwaben" durch die Luft befördert und darauf an jede beliebige Adresse des Weltpostverkehrs gesandt.) - Ausgabe der nur in kleiner Auflage erscheinenden Flugzeugkarten, befördert durch Leutnant von Hiddessen nach aufgedrucktem Postweg.
-Montag, den 10. Juni 1912: Mittags 12-1 Uhr: Militärkonzert auf dem Luisenplatz. Nachmittags 4 Uhr: Monstrekonzert der vereinigten Militärkapellen Darmstadts auf dem Darmstädter Exerzierplatz. Eröffnung des Flugpostamtes auf dem Exerzierplatz (Südfront); Abholung der auf dem Flugpostamt und am Sonntag und Montag in der Stadt (in jeden Briefkasten) aufgegebenen Post. Gegen Abend: Ankunft der Postflugmaschine „Gelber Hund". Der Platz ist abgesperrt (Eintritt 20 Pfennig).
-Dienstag, den 11. Juni 1912: Verkauf der offiziellen Postkarten und Luftpostwertzeichen in den als Verkaufsstellen bezeichneten Läden und in dem Luftpostamt.
-Mittwoch, den 12. Juni 1912: Mittags 12-1 Uhr: Drei Militärkonzerte: Luisenplatz, Paradeplatz, Marktplatz. 4 Uhr nachmittags: Militärkonzert mehrerer Kapellen auf dem Darmstädter Exerzierplatz in der Nähe des Flugpostamtes (Südfront). Gegen Abend: Ankunft des Postluftschiffes (Zeppelinluftschiff) „Schwaben". Aufnahme der an diesem Tage und vorher aufgegebenen Luftpost durch das Postluftschiff „Schwaben" und Abgabe der Post Frankfurt-Darmstadt mittels besonderer Vorrichtungen (Postflugseil). Der Platz ist abgesperrt. Eintritt 50 Pfennig. Verkauf der Flugpostmarken und -karten.
-Donnerstag, den 13. Juni 1912 und Freitag, den 14. Juni 1912: Verkauf der offiziellen Postkarten und Luftpostwertzeichen in den als Verkaufsstellen bezeichneten Läden.
-Samstag, den 15. oder Sonntag, den 16. Juni 1912: Wie am Mittwoch (nach späterer Mitteilung).
+Im **Programm für Darmstadt** heißt es:
 
-* Änderungen vorbehalten. Bei Regen und Sturm werden die Veranstaltungen vom 10., 12., 15. (16.) Juni auf einen anderen Tag der Woche verlegt, was durch Anschlag bekannt gegeben wird.
+![Programm für Darmstadt](/images/uploads/programm.jpg "Programm für Darmstadt")
+
+_**Sonntag, den 9. Juni 1912**: Eröffnung der **„Flugpost am Rhein und Main"** (reichspostalischer Stempel: „Flugpost am Rhein und Main"). Das Luftpostamt, Rheinstraße 14, ist offen von vormittags 11-1 Uhr. - Großes Konzert sämtlicher Militärkapellen der Haupt- und Residenzstadt Darmstadt bei dem Luftpostamt 11 - 12 ½ Uhr. (Konzertprogramm in den Tageszeitungen.) Luftpostwertzeichen. (Die wie **üblich frankierte** und mit der Luftpostmarke (10 Pfg.) versehene Postkarte kann in jeden Briefkasten der Reichspost geworfen werden; sie wird dann mit dem **Zeppelin-Postschiff „Schwaben"** durch die Luft befördert und darauf an jede beliebige Adresse des Weltpostverkehrs gesandt.) - Ausgabe der nur in kleiner Auflage erscheinenden **Flugzeugkarten**, befördert durch Leutnant von Hiddessen nach aufgedrucktem Postweg._
+
+_**Montag, den 10. Juni 1912**: Mittags 12-1 Uhr: Militärkonzert auf dem Luisenplatz. Nachmittags 4 Uhr: Monstrekonzert der vereinigten Militärkapellen Darmstadts auf dem Darmstädter Exerzierplatz. Eröffnung des Flugpostamtes auf dem Exerzierplatz (Südfront); Abholung der auf dem Flugpostamt und am Sonntag und Montag in der Stadt (in jeden Briefkasten) aufgegebenen Post. Gegen Abend: **Ankunft der Postflugmaschine „Gelber Hund"**. Der Platz ist abgesperrt (Eintritt 20 Pfennig)._
+
+_**Dienstag, den 11. Juni 1912**: Verkauf der offiziellen Postkarten und Luftpostwertzeichen in den als Verkaufsstellen bezeichneten Läden und in dem Luftpostamt._
+
+_**Mittwoch, den 12. Juni 1912: Mittags 12-1 Uhr**: Drei Militärkonzerte: Luisenplatz, Paradeplatz, Marktplatz. 4 Uhr nachmittags: Militärkonzert mehrerer Kapellen auf dem Darmstädter Exerzierplatz in der Nähe des Flugpostamtes (Südfront). Gegen Abend: **Ankunft des Postluftschiffes (Zeppelinluftschiff) „Schwaben"**. Aufnahme der an diesem Tage und vorher aufgegebenen Luftpost durch das Postluftschiff „Schwaben" und Abgabe der Post Frankfurt-Darmstadt mittels besonderer Vorrichtungen (Postflugseil). Der Platz ist abgesperrt. Eintritt 50 Pfennig. Verkauf der Flugpostmarken und -karten._
+
+_**Donnerstag, den 13. Juni 1912 und Freitag, den 14. Juni 1912**: Verkauf der offiziellen Postkarten und Luftpostwertzeichen in den als Verkaufsstellen bezeichneten Läden._
+
+_**Samstag, den 15. oder Sonntag, den 16. Juni 1912: Wie am Mittwoch** (nach späterer Mitteilung)._ 
+
+- - -
+
+_Änderungen vorbehalten. Bei Regen und Sturm werden die Veranstaltungen vom 10., 12., 15. (16.) Juni auf einen anderen Tag der Woche verlegt, was durch Anschlag bekannt gegeben wird._
 
 Die Veranstaltung wurde daraufhin von größtem öffentlichen Interesse begleitet, wie das Darmstädter Tagblatt zu berichten wusste: 
 
