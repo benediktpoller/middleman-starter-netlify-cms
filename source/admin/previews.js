@@ -70,7 +70,7 @@ const NavigationPreview = ({ entry }) => {
     <header className="header-primary">
       <div className="logo">
         <a href="/">
-          <img src="/images/logo.svg" alt="Kaldi"/>
+          <img src="/images/logo.svg" alt="Flugpost am Rhein und am Main"/>
         </a>
       </div>
       <a className="nav-button">
