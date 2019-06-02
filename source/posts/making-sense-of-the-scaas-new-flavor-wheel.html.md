@@ -1,29 +1,48 @@
 ---
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2018-08-14T12:01+02:00
+title: Technik
+date: '2018-08-14T12:01+02:00'
 description: >-
   The Coffee Taster’s Flavor Wheel, the official resource used by coffee
   tasters, has been revised for the first time this year.
 image: /images/uploads/news_item-01.jpg
 ---
+## Flugmaschinen
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+### Zeppelin L.Z. 10 "Schwaben"
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Daten
 
-## What the updates mean to you
+```
+Länge:	          140,00 Meter
+Durchmesser:      14,00 Meter
+Tragkörper:       17 mit 17.800 m³
+Geschwindigkeit:  circa 80 km/h
+Motoren:          3 Maybach-Motoren mit je 145 PS
+Nutzlast:         4,6 Tonnen
+Steighöhe:        1.300 Meter
+```
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Die erste Probefahrt des L.Z. 10 erfolgte am 26. Juni 1911, die erste Passagierfahrt am 16. Juli 1911. 
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+Die ständig wechselnden Standorte waren Baden/Oos, Gotha, Potsdam, Düsseldorf, Berlin-Johannisthal sowie Frankfurt am Main.
+Am 28. Juni 1912 nach seiner 219. Fahrt im Auftrage der DELAG verbrannte das Luftschiff auf der Golzheimer Heide (Halle bei Düsseldorf).
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+### Flugzeug Euler Zweidecker "Gelber Hund" Nr. 33
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Im Führersitz ist Pilot Ferdinand von Hiddessen (1887-1971) und vor dem Flugzeug dessen Konstrukteur August Heinrich Euler (1868-1957) zu erkennen.
+	
+#### Daten
+```
+Spannweite:         10,50 Meter (obere Tragfläche)
+Rumpflänge:         vermutlich 9,00 Meter
+Materialien:        Stahl, Holz und Leinwand
+Geschwindigkeit:    circa 70 km/h (bei Windstille)
+Motor:              70 PS-Gnome 7 Zylinder 1.200 U./min
+Leergewicht:        262 kg
+Tragflächen:        circa 24 m²
+```
+
+Nach der Abnahme des Leichtflugzeugs am 25. August 1911 erfolgte der Erstflug am 15. September 1911. 
+
+Die Maschine selbst war kein Unikat, sondern wurde in einer kleinen Serie hergestellt. Das Flugzeug war ein leicht gebauter und zudem offener Doppeldecker, aus den ersten Entwicklungsstufen, welcher den Piloten viel an Wagemut abverlangte. Gleich bei der ersten Landung in Darmstadt brach beispielsweise eine Kufe.
