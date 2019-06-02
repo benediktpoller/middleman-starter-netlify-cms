@@ -22,9 +22,9 @@ Die Vignetten wurden von Professor Kleukens entworfen. Die Wertzeichen wurden im
 
 | Name       | Stück         | Katalog                        |
 | ---------- | ------------- | ------------------------------ |
-| 10 Pfennig | 497.000 Stück | Michel-Nr. I ; Sieger-Nr. 10   |
-| 20 Pfennig | 194.000 Stück | Michel-Nr. II ; Sieger-Nr. 11  |
-| 30 Pfennig | 100.000 Stück | Michel-Nr. III ; Sieger-Nr. 12 |
+| 10 Pfennig | 497.000 Stück | Michel-Nr. I; Sieger-Nr. 10   |
+| 20 Pfennig | 194.000 Stück | Michel-Nr. II; Sieger-Nr. 11  |
+| 30 Pfennig | 100.000 Stück | Michel-Nr. III; Sieger-Nr. 12 |
 
 Das Porto deckte die Luftschiffbeförderung ab, welche zunächst mit einheitlich 30 Pfennig geplant war, aber tatsächlich bis auf eine Ausnahme auf 10 Pfennig herabgesetzt wurde. Die Marke zu 20 Pfennig verkörperte einen entsprechenden Spendenanteil.
 
@@ -38,11 +38,11 @@ Wie obige 10 Pfennig Marke jedoch mit dunkelblauem Aufdruck "- 1 M. - Gelber Hun
 
 | Name       | Stück         | Katalog                        |
 | ---------- | ------------- | ------------------------------ |
-| 1 Mark     | 30.000 Stück  | Michel-Nr. IV ; Sieger-Nr. 13  |
-| 10 Pfennig | 3.000 Stück   | Michel-Nr. V ; Sieger-Nr. 14   |
+| 1 Mark     | 30.000 Stück  | Michel-Nr. IV; Sieger-Nr. 13  |
+| 10 Pfennig | 3.000 Stück   | Michel-Nr. V; Sieger-Nr. 14   |
 | 20 Pfennig | 6.000 Stück   | Michel-Nr. VI; Sieger-Nr. 15   |
 
-1 Mark beinhaltete die Portostufe für die Beförderung mit dem Postflugzeug. Die E.EL.P. Aufdruckmarken waren für ein Preisausschreiben des Veranstalters vorgesehen, wurden jedoch auch für Karten mit abweichenden Adressaten verwendet.
+1 Mark beinhaltete die Portostufe für die Beförderung mit dem Postflugzeug. Die E. EL. P. Aufdruckmarken waren für ein Preisausschreiben des Veranstalters vorgesehen, wurden jedoch auch für Karten mit abweichenden Adressaten verwendet.
 
 ### Reichspostmarken
 
@@ -107,38 +107,36 @@ Nach Schätzungen tragen von den beförderten Belegen folgende Stempelabschläge
 | Offenbach              | 36.800  | 8%      |
 | Worms                  | 36.800  | 8%      |
 
-Eine vollständige Garnitur der Michel-Nr. I bis VI lässt sich nur für die Stempel Darmstadt und Mainz zusammenstellen. Dies liegt an der seltenen Verwendung der 10 Pfennig E. EL. P Marken.
+Eine vollständige Garnitur der Michel-Nr. I bis VI lässt sich nur für die Stempel Darmstadt und Mainz zusammenstellen. Dies liegt an der seltenen Verwendung der 10 Pfennig E. EL. P. Marken.
 
 ## Tarife
 
 ### Flugpostmarken (Vignetten) des Veranstalters
 
-```
-Betrag	Leistung
-10 Pfennig	Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug, bei Verwendung der vom Veranstalter herausgegeben Karten und private Karten der ersten Veranstaltungswoche.
-20 Pfennig	Wie 10 Pfennig mit zusätzlicher Spende in Höhe von 10 Pfennig.
-30 Pfennig	Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin. 
-```
+| Betrag                | Leistung | 
+| ---------------------- | ------- |
+| 10 Pfennig | Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug, bei Verwendung der vom Veranstalter herausgegeben Karten und private Karten der ersten Veranstaltungswoche. |
+| 20 Pfennig | Wie 10 Pfennig mit zusätzlicher Spende in Höhe von 10 Pfennig. |
+| 30 Pfennig | Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin. |
 
 In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karten, Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug.
 
-```
-1 Mark	Überdruckte Vignette "- 1 Mark - gelber Hund" mit orangegelber Karte, Beförderungsanspruch per Flugzeug. Achtung bei Abstempelung 23. Juni 1912, ersatzweise Beförderung mit dem Zeppelin, da vorgesehenes Flugzeug nicht einsatzfähig war. Da die Karte zusammen mit Luftpostvignette für den Betrag herausgegeben wurden, sind postfrische Exemplare relativ selten anzutreffen.
-3 Mark	Rote nummerierte Karte, Beförderung per Flugzeug (2 Mark zusätzliche Spende).
-```
+| Betrag                | Leistung | 
+| ---------------------- | ------- |
+| 1 Mark | Überdruckte Vignette "- 1 Mark - gelber Hund" mit orangegelber Karte, Beförderungsanspruch per Flugzeug. Achtung bei Abstempelung 23. Juni 1912, ersatzweise Beförderung mit dem Zeppelin, da vorgesehenes Flugzeug nicht einsatzfähig war. Da die Karte zusammen mit Luftpostvignette für den Betrag herausgegeben wurden, sind postfrische Exemplare relativ selten anzutreffen. |
+| 3 Mark | Rote nummerierte Karte, Beförderung per Flugzeug (2 Mark zusätzliche Spende). |
 
 ### Karten und sonstige Artikel des Veranstalters
-
-kostenlos	Siegelmarke welche auf der Rückseite der Werbeschreiben der Palaisverwaltung vor der Veranstaltung aufgebracht waren.
-
-```
-10 Pfennig	Schwarz-weiß Fotokarten der Großherzoglichen Familie - günstigster Preis wohl um die möglichst hohe Verbreitung zu gewährleisten. Kein offizieller Verkauf in Frankfurt, da kein großherzogliches Gebiet, daher relativ seltene Verwendung (Bewertung!).
-20 Pfennig	Standardgrußkarte (oliv - Auflage 750.000 Stück) sowie Sonderkarten der Veranstaltung (so genannter "weißer Hund") selbst.
-1 Mark	Farbige Bildkarten des Jugendstilmalers Eugen Bracht (ursprünglich sollten auch diese für 10 Pfennig an das Publikum abgegeben werden).
-1 Mark	Die mit dem Flugzeug zu beförderten Karten waren zur besseren Unterscheidung in orangefarbenen Ton in einer Auflage von 10.000 Stück erschienen. Die Karte sollte ursprünglich in gelblichem Farbton, wie das Flugzeug herausgegeben werden, der Preis versteht sich für Karte und der Flugpostvignette.
-1 Mark	Wohlfahrtsbilder mit denselben Aufnahmen in der Größe 19/26 cm mit zugehörigem Passepartout zum Aufstellen.
-3 Mark	wie unter ca): Rote von 1 bis 2000 durchnummerierte Karten mit den zugehörigen privaten Luftpostmarken (in der Regel 3 Stück à 1 Mark, oder 10 Stück à 30 Pfennig). Heutige Bezeichnung "roter Hund" bzw. "grüner Hund".
-```
+	
+| Betrag                | Leistung | 
+| ---------------------- | ------- |
+| kostenlos | Siegelmarke welche auf der Rückseite der Werbeschreiben der Palaisverwaltung vor der Veranstaltung aufgebracht waren. |
+| 10 Pfennig | Schwarz-weiß Fotokarten der Großherzoglichen Familie - günstigster Preis wohl um die möglichst hohe Verbreitung zu gewährleisten. Kein offizieller Verkauf in Frankfurt, da kein großherzogliches Gebiet, daher relativ seltene Verwendung (Bewertung!). |
+| 20 Pfennig | Standardgrußkarte (oliv - Auflage 750.000 Stück) sowie Sonderkarten der Veranstaltung (so genannter "weißer Hund") selbst. |
+| 1 Mark | Farbige Bildkarten des Jugendstilmalers Eugen Bracht (ursprünglich sollten auch diese für 10 Pfennig an das Publikum abgegeben werden). |
+| 1 Mark | Die mit dem Flugzeug zu beförderten Karten waren zur besseren Unterscheidung in orangefarbenen Ton in einer Auflage von 10.000 Stück erschienen. Die Karte sollte ursprünglich in gelblichem Farbton, wie das Flugzeug herausgegeben werden, der Preis versteht sich für Karte und der Flugpostvignette. |
+| 1 Mark | Wohlfahrtsbilder mit denselben Aufnahmen in der Größe 19/26 cm mit zugehörigem Passepartout zum Aufstellen. |
+| 3 Mark | Rote von 1 bis 2000 durchnummerierte Karten mit den zugehörigen privaten Luftpostmarken (in der Regel 3 Stück à 1 Mark, oder 10 Stück à 30 Pfennig). Heutige Bezeichnung "roter Hund" bzw. "grüner Hund". |
 
 ### Reichspostbriefmarken
 
@@ -181,55 +179,46 @@ _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der
 
 _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. Sie ist nur in einer kleinen Auflage erschienen. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 1 Mark) - Post-Flugmaschine_
 
-Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luftschifftransport während der Veranstaltung dar. Der orangefarbene (sollte ursprünglich in gelber Ausfertigung, wie das Postflugzeug erscheinen) und rote Karton wurde zur besseren Unterscheidung für den Anspruch auf Flugzeugbeförderung herausgegeben. Diese Karten sollten beim Verteilen also auffallen. Der Druck der orangenen und roten Karten erfolgte im Buchdruck auf einseitig gerippten Kartonbahnen vorder- und rückseitig mit 16er Klischees in schwarz. Die roten Karten sind vorderseitig zusätzlich einzeln nummeriert. Die Paginierung der roten Karten erfolgte nach Zuschnitt in einem separaten Druckvorgang von Nr. 1 bis 2000. Als Abart sind wenige Karten mit Doppel- bzw. Schmitzdruck (Schattendruck) der Paginier-Nummern bekannt. **Nach Schätzungen sind etwa hundert Jahre nach der Veranstaltung noch circa 750 rotfarbige Karten erhalten geblieben.**
+Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luftschifftransport während der Veranstaltung dar. Der orangefarbene (sollte ursprünglich in gelber Ausfertigung, wie das Postflugzeug erscheinen) und rote Karton wurde zur besseren Unterscheidung für den Anspruch auf Flugzeugbeförderung herausgegeben. Diese Karten sollten beim Verteilen also auffallen. Der Druck der orangenen und roten Karten erfolgte im Buchdruck auf einseitig gerippten Kartonbahnen vorder- und rückseitig mit 16er Klischees in schwarz. Die roten Karten sind vorderseitig zusätzlich einzeln nummeriert. Die Paginierung der roten Karten erfolgte nach Zuschnitt in einem separaten Druckvorgang von Nr. 1 bis 2000. Als Abart sind wenige Karten mit Doppel- bzw. Schmitzdruck (Schattendruck) der Paginier-Nummern bekannt. **Nach Schätzungen sind über hundert Jahre nach der Veranstaltung noch circa 750 rotfarbige Karten erhalten geblieben.**
 
 ### OFFIZIELLE POSTKARTEN (Fotos aus Darmstadt- Hessen)
 
-```
-D   Familie - Großherzog mit Frau und beiden Söhnen
-E   Großherzog von Hessen in Uniform
-F   Großherzogin von Hessen 
-G   Hessische Prinzen (Söhne) im Sommerkleidung
-H   Hessische Prinzen (Söhne) in Kosaken-Uniform
-```
+- Familie - Großherzog mit Frau und beiden Söhnen
+- Großherzog von Hessen in Uniform
+- Großherzogin von Hessen 
+- Hessische Prinzen (Söhne) im Sommerkleidung
+- Hessische Prinzen (Söhne) in Kosaken-Uniform
 
 Hierbei handelt es sich um die neuesten Bilder der Großherzoglichen Familie, die im Jahre 1912 vom Hoffotografen Steinacker angefertigt wurden. Die Abbildungen beim Wenden der Karten erscheinen entweder normal oder kopfstehend. Drei Abbildungen weisen stehende Motive auf.
 Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,7 cm x 8,6 cm etwas geringere Maße auf, als die anderen Karten der Veranstaltung, bei denen jeweils eine Orginalabmessung von 14,2 cm x 9,5 cm zu verzeichnen ist.
 
 ### OFFIZIELLE POSTKARTEN (Fotos aus der Krim-Russland)
 
-```
-I   Hessische Prinzen (Söhne) auf einem Balkon
-J   Hessische Prinzen (Söhne) an einem Korbtisch
-K   Großfürst Thronfolger von Russland und der Erbgroßherzog von Hessen (ältester Sohn) 
-       am Strand von Livadia (Krim)
-L   Hessische Prinzen (Söhne) und russischer Thronfolger
-M   Hessische Prinzen und russischer Thronfolger mit zwei seiner Schwestern
-N   Hessische Prinzen und russischer Thronfolger mit seinen vier Schwestern
-```
+- Hessische Prinzen (Söhne) auf einem Balkon
+- Hessische Prinzen (Söhne) an einem Korbtisch
+- Großfürst Thronfolger von Russland und der Erbgroßherzog von Hessen (ältester Sohn) am Strand von Livadia (Krim)
+- Hessische Prinzen (Söhne) und russischer Thronfolger
+- Hessische Prinzen und russischer Thronfolger mit zwei seiner Schwestern
+- Hessische Prinzen und russischer Thronfolger mit seinen vier Schwestern
 
 Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
 
 ### OFFIZIELLE POSTKARTEN (mit farbigen Bildmotiven)
 
-```
-O   Jagdschloss Wolfsgarten bei Langen (Hessen)
-P   Otzberg (Lengfeld - Odenwald)
-Q   Frankenstein (Eberstadt) vom Felsberg aus gesehen
-```
+- Jagdschloss Wolfsgarten bei Langen (Hessen)
+- Otzberg (Lengfeld - Odenwald)
+- Frankenstein (Eberstadt) vom Felsberg aus gesehen
 
 Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) gestaltet, welcher diese mit drei Motiven der Darmstädter Umgebung versehen hat. Die Kartenserie wird auch als so genannter "bunter Hund" bezeichnet.
 
 ### FLUG-POST-KARTEN (mit Ereignismotiven)
 
-```
-R   Ankunft der Postflugmaschine
-S   Ankunft des Postluftschiffes
-T   Auswechslung der Postsäcke
-U   Galapostillone
-V   Verkauf der Luftpostkarten
-W   Luftpostamt II
-```
+- Ankunft der Postflugmaschine
+- Ankunft des Postluftschiffes
+- Auswechslung der Postsäcke
+- Galapostillone
+- Verkauf der Luftpostkarten
+- Luftpostamt II
 
 Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von Susanne Homann zur Ausgabe, welche in Darmstadt, auf dem damaligen Exerzierplatz anlässlich der ersten Flugpostbeförderungen am Montag, dem 10. Juni 1912 (Flugzeug) sowie am Mittwoch, dem 12. Juni 1912 (Luftschiff) aufgenommen wurden. 
 
@@ -237,26 +226,23 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
 
 #### Muster für die Anschriftenseite der Karten
 
-```
-XBA1    [1]   Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1910)
-XBA2    [2]   Eleonore, Großherzogin von Hessen (bildgleich wie 1910)
-XBA3    [3]   Ernst Ludwig und Eleonore (bildgleich wie 1910)
-XBB1    [4]   Erbherzog Georg und Prinz Ludwig (bildgleich wie 1910)
-XBB2    [5]   Großherzog von Hessen mit Familie auf Bank 
-XBB3    [6]   Erbgroßherzog und Prinz von Hessen mit drei Kindern
-                   Thronfolger; Alexej mit Prinzessinnen Margharita und Theodora von Griechenland 
-XBB4    [7]   Erbgroßherzog und Prinz (im Kinderwagen) mit Zarewitsch
-XBB5    [8]   Erbgroßherzog und Prinz mit Zarewitsch (Großfürst Thronfolger) auf einer Bank
-XBB6    [9]   Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1910)
-XBB7   [10]  Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1910)
-XBB8   [11]  Großherzog Ernst Ludwig und der Zar von Russland
-XBB9   [12]  Die 5 Kinder der russischen Zarenfamilie
-XBB10  [26]  Erbgroßherzog und Prinz von Hessen mit Blumensträußen
-XBB11  [27]  Erbgroßherzog und Prinz von Hessen in der Pferdekutsche
-XBB12  [28]  Großherzog und Großherzogin auf Balkon 
-XBB13  [29]  Großherzog und Großherzogin mit beiden Söhnen auf Balkon
-XBB14  [30]  Großherzog und Großherzogin mit beiden Söhnen (diese auf Teddy) auf Balkon
-```
+- Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1910)
+- Eleonore, Großherzogin von Hessen (bildgleich wie 1910)
+- Ernst Ludwig und Eleonore (bildgleich wie 1910)
+- Erbherzog Georg und Prinz Ludwig (bildgleich wie 1910)
+- Großherzog von Hessen mit Familie auf Bank 
+- Erbgroßherzog und Prinz von Hessen mit drei Kindern Thronfolger; Alexej mit Prinzessinnen Margharita und Theodora von Griechenland 
+- Erbgroßherzog und Prinz (im Kinderwagen) mit Zarewitsch
+- Erbgroßherzog und Prinz mit Zarewitsch (Großfürst Thronfolger) auf einer Bank
+- Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1910)
+- Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1910)
+- Großherzog Ernst Ludwig und der Zar von Russland
+- Die 5 Kinder der russischen Zarenfamilie
+- Erbgroßherzog und Prinz von Hessen mit Blumensträußen
+- Erbgroßherzog und Prinz von Hessen in der Pferdekutsche
+- Großherzog und Großherzogin auf Balkon 
+- Großherzog und Großherzogin mit beiden Söhnen auf Balkon
+- Großherzog und Großherzogin mit beiden Söhnen (diese auf Teddy) auf Balkon
 
 Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Beliebtheit. Deshalb wurden auch Restmengen der Kartenausgaben aus den beiden Vorjahren im Rahmen der beiden Flugwochen des Jahres 1912 gelegentlich verwendet. Insgesamt werden noch rund 100 existierender Karten aus dem Jahre 1911, welche eine Serie von siebzehn verschiedenen Ausgaben umfasst, vermutet, welche sich durch die anschriftenseitig braune Druckfarbe u.a. des aufgebrachten Emblems von den Karten des Jahrgangs 1910 eindeutig unterscheiden lassen. 
 Auch der Autor dieser Homepage muss an dieser Stelle eingestehen, dass er noch keine derartige Karte in natura bewundern durfte.
@@ -265,14 +251,12 @@ Auch der Autor dieser Homepage muss an dieser Stelle eingestehen, dass er noch k
 
 Blankoanschriftenseite der Karten 1910
 
-```
-XAA1  [1]  Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911) 
-XAA2  [2]  Eleonore, Großherzogin von Hessen (bildgleich wie 1911)
-XAA3  [3]  Ernst Ludwig und Eleonore (bildgleich wie 1911)
-XAB4  [4]  Erbherzog Georg und Prinz Ludwig (bildgleich wie 1911)
-XAB5  [5]  Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1911)
-XAB6  [6]  Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911)
-```
+- Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911) 
+- Eleonore, Großherzogin von Hessen (bildgleich wie 1911)
+- Ernst Ludwig und Eleonore (bildgleich wie 1911)
+- Erbherzog Georg und Prinz Ludwig (bildgleich wie 1911)
+- Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1911)
+- Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911)
 
 1910 verausgabte die Großherzogliche Fürsorgezentrale eine anschriftenseitig nummerierte Serie von sechs Fotokarten mit Bildmotiven aus dem Leben der großherzoglichen Familie, mit anschriftenseitig schwarzem Druck. Die Anzahl der heute noch belegbaren Karten des Jahrganges 1910 beläuft sich insgesamt auf weniger als 50 Stück. Allein diese Zahl gibt einen Hinweis auf den Grad der Seltenheit dieser "Vorläufer"- Karten.
 
@@ -282,7 +266,7 @@ Sehr selten sind private Karten, d.h. nicht vom Patronat extra für diese Verans
 
 #### Extrem selten: Muster für Briefbeförderung
 
-Y  Post-, Ansichts- und Ganzsachen-Karten
-Z  Briefe
+- Post-, Ansichts- und Ganzsachen-Karten
+- Briefe
 
 Auf Ansinnen der örtlichen Papierwarenhändler, die sich im Absatz ihrer Ansichtskartenvorräte beeinträchtigt fühlten, wurden alsbald Postkarten beliebiger Art offiziell zugelassen. Die Postkarten waren in der zweiten Veranstaltungswoche mit der 30 Pfennig Luftpostmarke freizumachen, nachdem bereits in der ersten Woche "private" Karten mit nur 10 Pfennig Luftpostfrankatur durchgerutscht waren. Zudem sind einzelne Briefe im Rahmen der Veranstaltung anstandslos mitbefördert worden, obwohl diese offiziell überhaupt nicht zulässig waren.
