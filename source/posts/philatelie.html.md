@@ -27,7 +27,7 @@ Die Vignetten wurden von Professor Kleukens entworfen. Die Wertzeichen wurden im
 
 Das Porto deckte die Luftschiffbeförderung ab, welche zunächst mit einheitlich 30 Pfennig geplant war, aber tatsächlich bis auf eine Ausnahme auf 10 Pfennig herabgesetzt wurde. Die Marke zu 20 Pfennig verkörperte einen entsprechenden Spendenanteil.
 
-10 Pfennig Bogen mit 10 x 10 Marken
+TODO 10 Pfennig Bogen mit 10 x 10 Marken
 	
 
 ### Flugpostmarken - Vignetten des Veranstalters (mit Aufdruck)
@@ -214,7 +214,7 @@ _Otzberg (Lengfeld - Odenwald)_
 * Otzberg (Lengfeld - Odenwald)
 * Frankenstein (Eberstadt) vom Felsberg aus gesehen
 
-Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) gestaltet, welcher diese mit drei Motiven der Darmstädter Umgebung versehen hat. Die Kartenserie wird auch als so genannter "bunter Hund" bezeichnet.
+Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) gestaltet, welcher diese mit drei Motiven der Darmstädter Umgebung versehen hat. Die Kartenserie wird auch als so genannter **"bunter Hund"** bezeichnet.
 
 ### FLUG-POST-KARTEN (mit Ereignismotiven)
 
