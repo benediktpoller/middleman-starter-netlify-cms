@@ -49,8 +49,8 @@ Da die Reichspost keinen extra Profit aus der Wohltätigkeitsaktion ziehen wollt
 
 ## Stempel
 
-Sonderstempel
-	
+### Sonderstempel
+
 Unverzichtbar sind die anlässlich der Veranstaltung extra produzierten Sonderstempel. Die amtlichen Flugpoststempel wurden von der Firma Gleichmann in Berlin auf Kosten des Veranstalters hergestellt, das heißt, die Stempelhoheit lag nicht etwa beim Veranstalter, sondern bei der Kaiserlichen Reichspost. Die Stempel wurden als Einkreisstempel von 39mm Durchmesser ausgeführt. Enthalten ist eine stilisierte Blume, welche wohl an die vorherigen Blumentage erinnern sollte. 
 
 Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7mm Strichlänge unter dem Datum) bzw. in den Typ II (11,25mm Strichlänge). Dieser Stempel auf den Belegen verkörperte die Garantie, dass ein Teil der Beförderung auf dem Luftwege stattgefunden hat.
@@ -61,7 +61,7 @@ Nun begegnen wir einem echten Highlight der frühen Zeppelinpostgeschichte. Dem 
 
 Zusätzlich abgebildet ist (rechts) der erste Bordpoststempel des Luftschiffes "Schwaben", welcher zur Abstempelung der Marken selbst ab dem 21. Juni 1912 verwendet wurde. Ob dieser auch im Rahmen der Flugpostwoche zum Einsatz gelangte, ist nicht bekannt, aber wenig wahrscheinlich, weil die Marken bereits mit dem Sonderstempel der Veranstaltung versehen wurden. Warum sollten also doppelte oder gar dreifache Abstempelung vorgenommen worden sein, zumal eine offizielle Postbetriebsstelle an Bord der „Schwaben" niemals eingerichtet worden war? 
 
-Flugpostkarte mit zusätzlichem Bordstempel Typ II (mit kritischen Anmerkungen)	
+TODO Flugpostkarte mit zusätzlichem Bordstempel Typ II (mit kritischen Anmerkungen)	
 
 ### Verwendungszeitraum - Flugpoststempeldaten
 
@@ -139,11 +139,11 @@ In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karte
 
 ### Reichspostbriefmarken
 
-```
-3 Pfennig	Drucksache Inland - in der Regel Verwendung der Michel-Nr. 84 braune Germania.
-5 Pfennig	Postkarte Inland - in der Regel mit Michel-Nr. 85 grüne Germania.
-10 Pfennig	Postkarte Ausland und Brief Inland - in der Regel Michel-Nr. 86 rosa Germania.
-```
+| Betrag                | TODO Leistung | 
+| ---------------------- | ------- |
+| 3 Pfennig |	Drucksache Inland - in der Regel Verwendung der Michel-Nr. 84 braune Germania. |
+| 5 Pfennig | Postkarte Inland - in der Regel mit Michel-Nr. 85 grüne Germania. |
+| 10 Pfennig | Postkarte Ausland und Brief Inland - in der Regel Michel-Nr. 86 rosa Germania.|
 
 Die Karten mussten zusätzlich mit dem üblichen Porto der Reichspost freigemacht werden. Insoweit waren für die anschließende Beförderung im Inland 5 Pfennig aufzuwenden. Üblicherweise geschah dies durch die entsprechende grüne Germaniamarke (Michel-Nr. 85). Nach den allgemeinen Beförderungsbedingungen der Reichspost umfasste der damalige Inlandsportotarif auch den Versand nach Österreich-Ungarn und Luxemburg sowie die Destinationen zu den deutschen Kolonien (in Teilen Afrikas und im pazifischen Raum) und Auslandspostämtern (China, Marokko und Türkei). Die Karten mit Adresse ins Ausland mit portogerechtem Inlandstarif sind sehr selten und immer wieder gesucht. Da diese Karten nicht direkt durch ihre äußerliche Aufmachung auffallen, lohnt sich deshalb vielleicht ein Blick auf die Anschrift des Empfängers.
 
@@ -159,10 +159,6 @@ Zudem sind gelegentlich Überfrankaturen (z.B. doppelte Verwendung der braunen 3
 
 Diese Karten stellte die Druckerei L. C. Wittlich in Darmstadt im Steindruckverfahren her.		
 
-**Inschrift rückseitig**
-
-Stempel der Reichspost : Flugpost am Rhein u. Main _Beförderung durch Postluftschiff „Schwaben" - Flugpost am Rhein und Main_ Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein - Die wie üblich frankierte und mit Luftpostmarke (10 Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt
-
 **Auflage**
 
 | Karte                       | Auflage       |
@@ -171,11 +167,15 @@ Stempel der Reichspost : Flugpost am Rhein u. Main _Beförderung durch Postlufts
 | oranger Karton              | 10.000 Stück  |
 | roter Karton                | 2.000 Stück   |
 
-**Inschrift rückseitig**
+**TODO Inschrift rückseitig**
+
+Stempel der Reichspost: Flugpost am Rhein u. Main _Beförderung durch Postluftschiff „Schwaben" - Flugpost am Rhein und Main_ Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein - Die wie üblich frankierte und mit Luftpostmarke (10 Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt.
+
+**TODO Inschrift rückseitig**
 
 _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. - Die rote Flugzeugkarte ist nur in wenigen numerierten Exemplaren hergestellt und wird nur in den Luftpostämtern verkauft. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 3 Mark) - Post-Flugmaschine_
 
-**Inschrift rückseitig**
+**TODO Inschrift rückseitig**
 
 _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. Sie ist nur in einer kleinen Auflage erschienen. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 1 Mark) - Post-Flugmaschine_
 
@@ -244,8 +244,7 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
 - Großherzog und Großherzogin mit beiden Söhnen auf Balkon
 - Großherzog und Großherzogin mit beiden Söhnen (diese auf Teddy) auf Balkon
 
-Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Beliebtheit. Deshalb wurden auch Restmengen der Kartenausgaben aus den beiden Vorjahren im Rahmen der beiden Flugwochen des Jahres 1912 gelegentlich verwendet. Insgesamt werden noch rund 100 existierender Karten aus dem Jahre 1911, welche eine Serie von siebzehn verschiedenen Ausgaben umfasst, vermutet, welche sich durch die anschriftenseitig braune Druckfarbe u.a. des aufgebrachten Emblems von den Karten des Jahrgangs 1910 eindeutig unterscheiden lassen. 
-Auch der Autor dieser Homepage muss an dieser Stelle eingestehen, dass er noch keine derartige Karte in natura bewundern durfte.
+Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Beliebtheit. Deshalb wurden auch Restmengen der Kartenausgaben aus den beiden Vorjahren im Rahmen der beiden Flugwochen des Jahres 1912 gelegentlich verwendet. Insgesamt werden noch rund 100 existierender Karten aus dem Jahre 1911, welche eine Serie von siebzehn verschiedenen Ausgaben umfasst, vermutet, welche sich durch die anschriftenseitig braune Druckfarbe u.a. des aufgebrachten Emblems von den Karten des Jahrgangs 1910 eindeutig unterscheiden lassen.
 
 ### Fotokarten 1910
 
