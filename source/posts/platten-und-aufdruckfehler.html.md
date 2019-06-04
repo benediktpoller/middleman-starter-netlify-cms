@@ -10,10 +10,6 @@ image: /images/uploads/686999-000000.jpg
 | -- | -- |
 | ![Plattenfehler: Rahmenbruch oben (Feld 98)](/images/uploads/686999-000000.jpg "Plattenfehler: Rahmenbruch oben (Feld 98)") |  Plattenfehler: Rahmenbruch oben (Feld 98) |
 
-Plattenfehler: Rahmenbruch oben (Feld 98)
-
-![Plattenfehler: Rahmenbruch oben (Feld 98)](/images/uploads/686999-000000.jpg "Plattenfehler: Rahmenbruch oben (Feld 98)")
-
 ## Aufdruckfehler
 TODO Gelber Huna
 TODO E. EL, P.
