@@ -140,15 +140,15 @@ In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karte
 
 ### Reichspostbriefmarken
 
-```
-3 Pfennig	Drucksache Inland - in der Regel Verwendung der Michel-Nr. 84 braune Germania.
-5 Pfennig	Postkarte Inland - in der Regel mit Michel-Nr. 85 grüne Germania.
-10 Pfennig	Postkarte Ausland und Brief Inland - in der Regel Michel-Nr. 86 rosa Germania.
-```
+| Betrag     | Leistung                                                                       |
+| ---------- | ------------------------------------------------------------------------------ |
+| 3 Pfennig  | Drucksache Inland - in der Regel Verwendung der Michel-Nr. 84 braune Germania. |
+| 5 Pfennig  | Postkarte Inland - in der Regel mit Michel-Nr. 85 grüne Germania.              |
+| 10 Pfennig | Postkarte Ausland und Brief Inland - in der Regel Michel-Nr. 86 rosa Germania. |
 
 Die Karten mussten zusätzlich mit dem üblichen Porto der Reichspost freigemacht werden. Insoweit waren für die anschließende Beförderung im Inland 5 Pfennig aufzuwenden. Üblicherweise geschah dies durch die entsprechende grüne Germaniamarke (Michel-Nr. 85). Nach den allgemeinen Beförderungsbedingungen der Reichspost umfasste der damalige Inlandsportotarif auch den Versand nach Österreich-Ungarn und Luxemburg sowie die Destinationen zu den deutschen Kolonien (in Teilen Afrikas und im pazifischen Raum) und Auslandspostämtern (China, Marokko und Türkei). Die Karten mit Adresse ins Ausland mit portogerechtem Inlandstarif sind sehr selten und immer wieder gesucht. Da diese Karten nicht direkt durch ihre äußerliche Aufmachung auffallen, lohnt sich deshalb vielleicht ein Blick auf die Anschrift des Empfängers.
 
-Kaiserliche Zeiten - Beispiel Inlandstarif für die Beförderung auf eine pazifische Insel	
+TODO Kaiserliche Zeiten - Beispiel Inlandstarif für die Beförderung auf eine pazifische Insel	
 
 Auch selten anzutreffen sind echte Auslandsfreimachungen, welche aber regelmäßig durch die aufgebrachte rosafarbene 10 Pfennig (Michel-Nr. 86) oder doppelte Verwendung der 5 Pfennig Marke ins Auge springen.
 
@@ -160,10 +160,6 @@ Zudem sind gelegentlich Überfrankaturen (z.B. doppelte Verwendung der braunen 3
 
 Diese Karten stellte die Druckerei L. C. Wittlich in Darmstadt im Steindruckverfahren her.		
 
-**Inschrift rückseitig**
-
-Stempel der Reichspost : Flugpost am Rhein u. Main _Beförderung durch Postluftschiff „Schwaben" - Flugpost am Rhein und Main_ Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein - Die wie üblich frankierte und mit Luftpostmarke (10 Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt
-
 **Auflage**
 
 | Karte                       | Auflage       |
@@ -172,11 +168,15 @@ Stempel der Reichspost : Flugpost am Rhein u. Main _Beförderung durch Postlufts
 | oranger Karton              | 10.000 Stück  |
 | roter Karton                | 2.000 Stück   |
 
-**Inschrift rückseitig**
+**TODO Inschrift rückseitig**
+
+Stempel der Reichspost: Flugpost am Rhein u. Main _Beförderung durch Postluftschiff „Schwaben" - Flugpost am Rhein und Main_ Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein - Die wie üblich frankierte und mit Luftpostmarke (10 Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt.
+
+**TODO Inschrift rückseitig**
 
 _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. - Die rote Flugzeugkarte ist nur in wenigen numerierten Exemplaren hergestellt und wird nur in den Luftpostämtern verkauft. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 3 Mark) - Post-Flugmaschine_
 
-**Inschrift rückseitig**
+**TODO Inschrift rückseitig**
 
 _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. Sie ist nur in einer kleinen Auflage erschienen. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 1 Mark) - Post-Flugmaschine_
 
@@ -249,7 +249,7 @@ Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Be
 
 ### Fotokarten 1910
 
-Blankoanschriftenseite der Karten 1910
+TODO Blankoanschriftenseite der Karten 1910
 
 * Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911) 
 * Eleonore, Großherzogin von Hessen (bildgleich wie 1911)
@@ -263,6 +263,12 @@ Blankoanschriftenseite der Karten 1910
 ### Nicht offizielle Karten und Briefe
 
 Sehr selten sind private Karten, d.h. nicht vom Patronat extra für diese Veranstaltung herausgegebene Belege, mit der Flugpost befördert worden. Vereinzelte Briefbeförderungen stellen jeweils Unikate dar.
+
+![](/images/uploads/s546682.jpg)
+
+![](/images/uploads/s629301.jpg)
+
+![](/images/uploads/s629302.jpg)
 
 Extrem selten: Muster für Briefbeförderung
 
