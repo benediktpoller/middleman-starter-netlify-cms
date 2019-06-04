@@ -29,17 +29,18 @@ Das Porto deckte die Luftschiffbeförderung ab, welche zunächst mit einheitlich
 
 10 Pfennig Bogen mit 10 x 10 Marken
 	
+
 ### Flugpostmarken - Vignetten des Veranstalters (mit Aufdruck)
 
 Wie obige 10 Pfennig Marke jedoch mit dunkelblauem Aufdruck "- 1 M. - Gelber Hund" mit Ausgabedatum 10. Juni 1912. Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Marken mit schwarzem E. EL. P. Aufdruck verausgabt.
 
 **Auflagen**
 
-| Name       | Stück         | Katalog                        |
-| ---------- | ------------- | ------------------------------ |
-| 1 Mark     | 30.000 Stück  | Michel-Nr. IV; Sieger-Nr. 13  |
-| 10 Pfennig | 3.000 Stück   | Michel-Nr. V; Sieger-Nr. 14   |
-| 20 Pfennig | 6.000 Stück   | Michel-Nr. VI; Sieger-Nr. 15   |
+| Name       | Stück        | Katalog                      |
+| ---------- | ------------ | ---------------------------- |
+| 1 Mark     | 30.000 Stück | Michel-Nr. IV; Sieger-Nr. 13 |
+| 10 Pfennig | 3.000 Stück  | Michel-Nr. V; Sieger-Nr. 14  |
+| 20 Pfennig | 6.000 Stück  | Michel-Nr. VI; Sieger-Nr. 15 |
 
 1 Mark beinhaltete die Portostufe für die Beförderung mit dem Postflugzeug. Die E. EL. P. Aufdruckmarken waren für ein Preisausschreiben des Veranstalters vorgesehen, wurden jedoch auch für Karten mit abweichenden Adressaten verwendet.
 
@@ -49,8 +50,8 @@ Da die Reichspost keinen extra Profit aus der Wohltätigkeitsaktion ziehen wollt
 
 ## Stempel
 
-Sonderstempel
-	
+TODO Sonderstempel
+
 Unverzichtbar sind die anlässlich der Veranstaltung extra produzierten Sonderstempel. Die amtlichen Flugpoststempel wurden von der Firma Gleichmann in Berlin auf Kosten des Veranstalters hergestellt, das heißt, die Stempelhoheit lag nicht etwa beim Veranstalter, sondern bei der Kaiserlichen Reichspost. Die Stempel wurden als Einkreisstempel von 39mm Durchmesser ausgeführt. Enthalten ist eine stilisierte Blume, welche wohl an die vorherigen Blumentage erinnern sollte. 
 
 Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7mm Strichlänge unter dem Datum) bzw. in den Typ II (11,25mm Strichlänge). Dieser Stempel auf den Belegen verkörperte die Garantie, dass ein Teil der Beförderung auf dem Luftwege stattgefunden hat.
@@ -61,7 +62,7 @@ Nun begegnen wir einem echten Highlight der frühen Zeppelinpostgeschichte. Dem 
 
 Zusätzlich abgebildet ist (rechts) der erste Bordpoststempel des Luftschiffes "Schwaben", welcher zur Abstempelung der Marken selbst ab dem 21. Juni 1912 verwendet wurde. Ob dieser auch im Rahmen der Flugpostwoche zum Einsatz gelangte, ist nicht bekannt, aber wenig wahrscheinlich, weil die Marken bereits mit dem Sonderstempel der Veranstaltung versehen wurden. Warum sollten also doppelte oder gar dreifache Abstempelung vorgenommen worden sein, zumal eine offizielle Postbetriebsstelle an Bord der „Schwaben" niemals eingerichtet worden war? 
 
-Flugpostkarte mit zusätzlichem Bordstempel Typ II (mit kritischen Anmerkungen)	
+TODO Flugpostkarte mit zusätzlichem Bordstempel Typ II (mit kritischen Anmerkungen)	
 
 ### Verwendungszeitraum - Flugpoststempeldaten
 
@@ -88,7 +89,7 @@ Diesem Antrag wurde sodann entsprochen. Der telegrafische Schriftwechsel mit dem
 
 Der Vollständigkeit sei erwähnt, dass auch aus anderen Gründen in Frankfurt bereits ab 10. Juni 1912 als nicht flugpostbeförderungswürdig (z.B. gewöhnliche Postkarten) bestimmten Postbelege als Stempelverbotskarten bezeichnet werden.
 
-Beispiel Stempelverbotskarte Worms 15.06.1912
+![Stempelverbotskarte Darmstadt 15.06.1912](/images/uploads/s546626.jpg "Stempelverbotskarte Darmstadt 15.06.1912")
 
 ### Stempelfehler
 
@@ -112,30 +113,30 @@ Eine vollständige Garnitur der Michel-Nr. I bis VI lässt sich nur für die Ste
 
 ### Flugpostmarken (Vignetten) des Veranstalters
 
-| Betrag                | Leistung | 
-| ---------------------- | ------- |
+| Betrag     | Leistung                                                                                                                                                                                 |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 10 Pfennig | Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug, bei Verwendung der vom Veranstalter herausgegeben Karten und private Karten der ersten Veranstaltungswoche. |
-| 20 Pfennig | Wie 10 Pfennig mit zusätzlicher Spende in Höhe von 10 Pfennig. |
-| 30 Pfennig | Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin. |
+| 20 Pfennig | Wie 10 Pfennig mit zusätzlicher Spende in Höhe von 10 Pfennig.                                                                                                                           |
+| 30 Pfennig | Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin.                                                                                                               |
 
 In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karten, Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug.
 
-| Betrag                | Leistung | 
-| ---------------------- | ------- |
+| Betrag | Leistung                                                                                                                                                                                                                                                                                                                                                                           |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 Mark | Überdruckte Vignette "- 1 Mark - gelber Hund" mit orangegelber Karte, Beförderungsanspruch per Flugzeug. Achtung bei Abstempelung 23. Juni 1912, ersatzweise Beförderung mit dem Zeppelin, da vorgesehenes Flugzeug nicht einsatzfähig war. Da die Karte zusammen mit Luftpostvignette für den Betrag herausgegeben wurden, sind postfrische Exemplare relativ selten anzutreffen. |
-| 3 Mark | Rote nummerierte Karte, Beförderung per Flugzeug (2 Mark zusätzliche Spende). |
+| 3 Mark | Rote nummerierte Karte, Beförderung per Flugzeug (2 Mark zusätzliche Spende).                                                                                                                                                                                                                                                                                                      |
 
 ### Karten und sonstige Artikel des Veranstalters
-	
-| Betrag                | Leistung | 
-| ---------------------- | ------- |
-| kostenlos | Siegelmarke welche auf der Rückseite der Werbeschreiben der Palaisverwaltung vor der Veranstaltung aufgebracht waren. |
-| 10 Pfennig | Schwarz-weiß Fotokarten der Großherzoglichen Familie - günstigster Preis wohl um die möglichst hohe Verbreitung zu gewährleisten. Kein offizieller Verkauf in Frankfurt, da kein großherzogliches Gebiet, daher relativ seltene Verwendung (Bewertung!). |
-| 20 Pfennig | Standardgrußkarte (oliv - Auflage 750.000 Stück) sowie Sonderkarten der Veranstaltung (so genannter "weißer Hund") selbst. |
-| 1 Mark | Farbige Bildkarten des Jugendstilmalers Eugen Bracht (ursprünglich sollten auch diese für 10 Pfennig an das Publikum abgegeben werden). |
-| 1 Mark | Die mit dem Flugzeug zu beförderten Karten waren zur besseren Unterscheidung in orangefarbenen Ton in einer Auflage von 10.000 Stück erschienen. Die Karte sollte ursprünglich in gelblichem Farbton, wie das Flugzeug herausgegeben werden, der Preis versteht sich für Karte und der Flugpostvignette. |
-| 1 Mark | Wohlfahrtsbilder mit denselben Aufnahmen in der Größe 19/26 cm mit zugehörigem Passepartout zum Aufstellen. |
-| 3 Mark | Rote von 1 bis 2000 durchnummerierte Karten mit den zugehörigen privaten Luftpostmarken (in der Regel 3 Stück à 1 Mark, oder 10 Stück à 30 Pfennig). Heutige Bezeichnung "roter Hund" bzw. "grüner Hund". |
+
+| Betrag     | Leistung                                                                                                                                                                                                                                                                                                 |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| kostenlos  | Siegelmarke welche auf der Rückseite der Werbeschreiben der Palaisverwaltung vor der Veranstaltung aufgebracht waren.                                                                                                                                                                                    |
+| 10 Pfennig | Schwarz-weiß Fotokarten der Großherzoglichen Familie - günstigster Preis wohl um die möglichst hohe Verbreitung zu gewährleisten. Kein offizieller Verkauf in Frankfurt, da kein großherzogliches Gebiet, daher relativ seltene Verwendung (Bewertung!).                                                 |
+| 20 Pfennig | Standardgrußkarte (oliv - Auflage 750.000 Stück) sowie Sonderkarten der Veranstaltung (so genannter "weißer Hund") selbst.                                                                                                                                                                               |
+| 1 Mark     | Farbige Bildkarten des Jugendstilmalers Eugen Bracht (ursprünglich sollten auch diese für 10 Pfennig an das Publikum abgegeben werden).                                                                                                                                                                  |
+| 1 Mark     | Die mit dem Flugzeug zu beförderten Karten waren zur besseren Unterscheidung in orangefarbenen Ton in einer Auflage von 10.000 Stück erschienen. Die Karte sollte ursprünglich in gelblichem Farbton, wie das Flugzeug herausgegeben werden, der Preis versteht sich für Karte und der Flugpostvignette. |
+| 1 Mark     | Wohlfahrtsbilder mit denselben Aufnahmen in der Größe 19/26 cm mit zugehörigem Passepartout zum Aufstellen.                                                                                                                                                                                              |
+| 3 Mark     | Rote von 1 bis 2000 durchnummerierte Karten mit den zugehörigen privaten Luftpostmarken (in der Regel 3 Stück à 1 Mark, oder 10 Stück à 30 Pfennig). Heutige Bezeichnung "roter Hund" bzw. "grüner Hund".                                                                                                |
 
 ### Reichspostbriefmarken
 
@@ -183,42 +184,42 @@ Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luf
 
 ### OFFIZIELLE POSTKARTEN (Fotos aus Darmstadt- Hessen)
 
-- Familie - Großherzog mit Frau und beiden Söhnen
-- Großherzog von Hessen in Uniform
-- Großherzogin von Hessen 
-- Hessische Prinzen (Söhne) im Sommerkleidung
-- Hessische Prinzen (Söhne) in Kosaken-Uniform
+* Familie - Großherzog mit Frau und beiden Söhnen
+* Großherzog von Hessen in Uniform
+* Großherzogin von Hessen 
+* Hessische Prinzen (Söhne) im Sommerkleidung
+* Hessische Prinzen (Söhne) in Kosaken-Uniform
 
 Hierbei handelt es sich um die neuesten Bilder der Großherzoglichen Familie, die im Jahre 1912 vom Hoffotografen Steinacker angefertigt wurden. Die Abbildungen beim Wenden der Karten erscheinen entweder normal oder kopfstehend. Drei Abbildungen weisen stehende Motive auf.
 Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,7 cm x 8,6 cm etwas geringere Maße auf, als die anderen Karten der Veranstaltung, bei denen jeweils eine Orginalabmessung von 14,2 cm x 9,5 cm zu verzeichnen ist.
 
 ### OFFIZIELLE POSTKARTEN (Fotos aus der Krim-Russland)
 
-- Hessische Prinzen (Söhne) auf einem Balkon
-- Hessische Prinzen (Söhne) an einem Korbtisch
-- Großfürst Thronfolger von Russland und der Erbgroßherzog von Hessen (ältester Sohn) am Strand von Livadia (Krim)
-- Hessische Prinzen (Söhne) und russischer Thronfolger
-- Hessische Prinzen und russischer Thronfolger mit zwei seiner Schwestern
-- Hessische Prinzen und russischer Thronfolger mit seinen vier Schwestern
+* Hessische Prinzen (Söhne) auf einem Balkon
+* Hessische Prinzen (Söhne) an einem Korbtisch
+* Großfürst Thronfolger von Russland und der Erbgroßherzog von Hessen (ältester Sohn) am Strand von Livadia (Krim)
+* Hessische Prinzen (Söhne) und russischer Thronfolger
+* Hessische Prinzen und russischer Thronfolger mit zwei seiner Schwestern
+* Hessische Prinzen und russischer Thronfolger mit seinen vier Schwestern
 
 Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
 
 ### OFFIZIELLE POSTKARTEN (mit farbigen Bildmotiven)
 
-- Jagdschloss Wolfsgarten bei Langen (Hessen)
-- Otzberg (Lengfeld - Odenwald)
-- Frankenstein (Eberstadt) vom Felsberg aus gesehen
+* Jagdschloss Wolfsgarten bei Langen (Hessen)
+* Otzberg (Lengfeld - Odenwald)
+* Frankenstein (Eberstadt) vom Felsberg aus gesehen
 
 Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) gestaltet, welcher diese mit drei Motiven der Darmstädter Umgebung versehen hat. Die Kartenserie wird auch als so genannter "bunter Hund" bezeichnet.
 
 ### FLUG-POST-KARTEN (mit Ereignismotiven)
 
-- Ankunft der Postflugmaschine
-- Ankunft des Postluftschiffes
-- Auswechslung der Postsäcke
-- Galapostillone
-- Verkauf der Luftpostkarten
-- Luftpostamt II
+* Ankunft der Postflugmaschine
+* Ankunft des Postluftschiffes
+* Auswechslung der Postsäcke
+* Galapostillone
+* Verkauf der Luftpostkarten
+* Luftpostamt II
 
 Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von Susanne Homann zur Ausgabe, welche in Darmstadt, auf dem damaligen Exerzierplatz anlässlich der ersten Flugpostbeförderungen am Montag, dem 10. Juni 1912 (Flugzeug) sowie am Mittwoch, dem 12. Juni 1912 (Luftschiff) aufgenommen wurden. 
 
@@ -226,23 +227,23 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
 
 #### Muster für die Anschriftenseite der Karten
 
-- Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1910)
-- Eleonore, Großherzogin von Hessen (bildgleich wie 1910)
-- Ernst Ludwig und Eleonore (bildgleich wie 1910)
-- Erbherzog Georg und Prinz Ludwig (bildgleich wie 1910)
-- Großherzog von Hessen mit Familie auf Bank 
-- Erbgroßherzog und Prinz von Hessen mit drei Kindern Thronfolger; Alexej mit Prinzessinnen Margharita und Theodora von Griechenland 
-- Erbgroßherzog und Prinz (im Kinderwagen) mit Zarewitsch
-- Erbgroßherzog und Prinz mit Zarewitsch (Großfürst Thronfolger) auf einer Bank
-- Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1910)
-- Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1910)
-- Großherzog Ernst Ludwig und der Zar von Russland
-- Die 5 Kinder der russischen Zarenfamilie
-- Erbgroßherzog und Prinz von Hessen mit Blumensträußen
-- Erbgroßherzog und Prinz von Hessen in der Pferdekutsche
-- Großherzog und Großherzogin auf Balkon 
-- Großherzog und Großherzogin mit beiden Söhnen auf Balkon
-- Großherzog und Großherzogin mit beiden Söhnen (diese auf Teddy) auf Balkon
+* Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1910)
+* Eleonore, Großherzogin von Hessen (bildgleich wie 1910)
+* Ernst Ludwig und Eleonore (bildgleich wie 1910)
+* Erbherzog Georg und Prinz Ludwig (bildgleich wie 1910)
+* Großherzog von Hessen mit Familie auf Bank 
+* Erbgroßherzog und Prinz von Hessen mit drei Kindern Thronfolger; Alexej mit Prinzessinnen Margharita und Theodora von Griechenland 
+* Erbgroßherzog und Prinz (im Kinderwagen) mit Zarewitsch
+* Erbgroßherzog und Prinz mit Zarewitsch (Großfürst Thronfolger) auf einer Bank
+* Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1910)
+* Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1910)
+* Großherzog Ernst Ludwig und der Zar von Russland
+* Die 5 Kinder der russischen Zarenfamilie
+* Erbgroßherzog und Prinz von Hessen mit Blumensträußen
+* Erbgroßherzog und Prinz von Hessen in der Pferdekutsche
+* Großherzog und Großherzogin auf Balkon 
+* Großherzog und Großherzogin mit beiden Söhnen auf Balkon
+* Großherzog und Großherzogin mit beiden Söhnen (diese auf Teddy) auf Balkon
 
 Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Beliebtheit. Deshalb wurden auch Restmengen der Kartenausgaben aus den beiden Vorjahren im Rahmen der beiden Flugwochen des Jahres 1912 gelegentlich verwendet. Insgesamt werden noch rund 100 existierender Karten aus dem Jahre 1911, welche eine Serie von siebzehn verschiedenen Ausgaben umfasst, vermutet, welche sich durch die anschriftenseitig braune Druckfarbe u.a. des aufgebrachten Emblems von den Karten des Jahrgangs 1910 eindeutig unterscheiden lassen.
 
@@ -250,12 +251,12 @@ Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Be
 
 Blankoanschriftenseite der Karten 1910
 
-- Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911) 
-- Eleonore, Großherzogin von Hessen (bildgleich wie 1911)
-- Ernst Ludwig und Eleonore (bildgleich wie 1911)
-- Erbherzog Georg und Prinz Ludwig (bildgleich wie 1911)
-- Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1911)
-- Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911)
+* Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911) 
+* Eleonore, Großherzogin von Hessen (bildgleich wie 1911)
+* Ernst Ludwig und Eleonore (bildgleich wie 1911)
+* Erbherzog Georg und Prinz Ludwig (bildgleich wie 1911)
+* Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1911)
+* Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911)
 
 1910 verausgabte die Großherzogliche Fürsorgezentrale eine anschriftenseitig nummerierte Serie von sechs Fotokarten mit Bildmotiven aus dem Leben der großherzoglichen Familie, mit anschriftenseitig schwarzem Druck. Die Anzahl der heute noch belegbaren Karten des Jahrganges 1910 beläuft sich insgesamt auf weniger als 50 Stück. Allein diese Zahl gibt einen Hinweis auf den Grad der Seltenheit dieser "Vorläufer"- Karten.
 
@@ -265,7 +266,7 @@ Sehr selten sind private Karten, d.h. nicht vom Patronat extra für diese Verans
 
 Extrem selten: Muster für Briefbeförderung
 
-- Post-, Ansichts- und Ganzsachen-Karten
-- Briefe
+* Post-, Ansichts- und Ganzsachen-Karten
+* Briefe
 
 Auf Ansinnen der örtlichen Papierwarenhändler, die sich im Absatz ihrer Ansichtskartenvorräte beeinträchtigt fühlten, wurden alsbald Postkarten beliebiger Art offiziell zugelassen. Die Postkarten waren in der zweiten Veranstaltungswoche mit der 30 Pfennig Luftpostmarke freizumachen, nachdem bereits in der ersten Woche "private" Karten mit nur 10 Pfennig Luftpostfrankatur durchgerutscht waren. Zudem sind einzelne Briefe im Rahmen der Veranstaltung anstandslos mitbefördert worden, obwohl diese offiziell überhaupt nicht zulässig waren.
