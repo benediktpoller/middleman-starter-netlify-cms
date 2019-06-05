@@ -274,7 +274,9 @@ Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Be
 
 ### Fotokarten 1910
 
-Blankoanschriftenseite der Karten 1910
+TODO Blankoanschriftenseite der Karten 1910
+
+![Eleonore, Großherzogin von Hessen](/images/uploads/685631-000001.jpg "Eleonore, Großherzogin von Hessen")
 
 * Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911) 
 * Eleonore, Großherzogin von Hessen (bildgleich wie 1911)
