@@ -247,7 +247,10 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
 
 ### Fotokarten 1911
 
-#### Muster für die Anschriftenseite der Karten
+TODO Muster für die Anschriftenseite der Karten
+
+![Erbgroßherzog und Prinz von Hessen mit Blumensträußen](/images/uploads/702061-000006.jpg "Erbgroßherzog und Prinz von Hessen mit Blumensträußen")
+Erbgroßherzog und Prinz von Hessen mit Blumensträußen
 
 * Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1910)
 * Eleonore, Großherzogin von Hessen (bildgleich wie 1910)
