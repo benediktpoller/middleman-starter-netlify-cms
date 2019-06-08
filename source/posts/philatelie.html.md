@@ -56,7 +56,7 @@ Da die Reichspost keinen extra Profit aus der Wohltätigkeitsaktion ziehen wollt
 
 Unverzichtbar sind die anlässlich der Veranstaltung extra produzierten Sonderstempel. Die amtlichen Flugpoststempel wurden von der Firma Gleichmann in Berlin auf Kosten des Veranstalters hergestellt, das heißt, die Stempelhoheit lag nicht etwa beim Veranstalter, sondern bei der Kaiserlichen Reichspost. Die Stempel wurden als Einkreisstempel von 39mm Durchmesser ausgeführt. Enthalten ist eine stilisierte Blume, welche wohl an die vorherigen Blumentage erinnern sollte. 
 
-Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7mm Strichlänge unter dem Datum) bzw. in den Typ II (11,25mm Strichlänge). Dieser Stempel auf den Belegen verkörperte die Garantie, dass ein Teil der Beförderung auf dem Luftwege stattgefunden hat.
+Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7mm Strichlänge unter dem Datum) bzw. in den Typ II (11,25 mm Strichlänge). Dieser Stempel auf den Belegen verkörperte die Garantie, dass ein Teil der Beförderung auf dem Luftwege stattgefunden hat.
 
 ### Bordstempel (zusätzlich auf der Karte)
 
@@ -70,9 +70,9 @@ TODO Flugpostkarte mit zusätzlichem Bordstempel Typ II (mit kritischen Anmerkun
 
 ### Verwendungszeitraum - Flugpoststempeldaten
 
-Aus der Anweisung der Kaiserlichen Ober-Postdirektion Darmstadt vom 07. Juni 1912 an die Postämter in Darmstadt, Offenbach, Mainz und Worms geht klar hervor, dass das erste Verwendungsdatum des Sonderstempels der 12. Juni 1912 sein musste, gleichgültig ob die Postkarten am 09., 10., 11. oder 12. Juni eingeliefert wurden. Deshalb existiert vom Ersttag in diesen Städten eine relativ hohe Auflage (Bewertung). Die Kaiserliche Ober- Postdirektion Frankfurt am Main gab keine derartige Anweisung. Deshalb wurde der Sonderstempel in Frankfurt am Main vom 10. Juni an jeweils mit dem gültigen Datum verwendet. Ein Stempelabdruck Frankfurt am Main vom 09. Juni 1912 ist auf einer Postkarte bekannt, deren Absender jedoch der Hersteller des Stempels ist. Hieraus lässt sich ableiten, dass der 9. Juni kein echtes Verwendungsdatum ist. 
+Aus der Anweisung der Kaiserlichen Ober-Postdirektion Darmstadt vom 07. Juni 1912 an die Postämter in Darmstadt, Offenbach, Mainz und Worms geht klar hervor, dass das erste Verwendungsdatum des Sonderstempels der 12. Juni 1912 sein musste, gleichgültig ob die Postkarten am 09., 10., 11. oder 12. Juni eingeliefert wurden. Deshalb existiert vom Ersttag in diesen Städten eine relativ hohe Auflage (Bewertung). Die Kaiserliche Ober- Postdirektion Frankfurt am Main gab keine derartige Anweisung. Deshalb wurde der Sonderstempel in Frankfurt am Main vom 10. Juni an jeweils mit dem gültigen Datum verwendet. Ein Stempelabdruck Frankfurt am Main vom 09. Juni 1912 ist auf einer Postkarte bekannt, deren Absender jedoch der Hersteller des Stempels ist. Hieraus lässt sich ableiten, dass der 09. Juni kein echtes Verwendungsdatum ist. 
 
-Bekannt geworden ist jedoch eine Garnitur Musterabschläge mit Datum 9.6.12 (bzw. für Worms als Stempelfehler 6.9.12). Von Darmstadt existieren Karten mit Stempeldatum 10.6.12.
+Bekannt geworden ist jedoch eine Garnitur Musterabschläge mit Datum 09.6.12 (bzw. für Worms als Stempelfehler 06.9.12). Von Darmstadt existieren Karten mit Stempeldatum 10.6.12.
 
 Um missbräuchliche Verwendung zu vermeiden, mussten die Stempel mit Ablauf der Veranstaltung, also am 24. Juni 1912 wieder vernichtet werden. Das letzte Verwendungsdatum ist mithin der 23. Juni 1912.
 
