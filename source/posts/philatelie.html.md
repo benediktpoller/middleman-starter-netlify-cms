@@ -38,8 +38,8 @@ Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Ma
 
 **Auflagen**
 
-| Name       | Stück        | Katalog                      |
-| ---------- | ------------ | ---------------------------- |
+| Name           | Stück        | Katalog                      |
+| -------------- | ------------ | ---------------------------- |
 | **1 Mark**     | 30.000 Stück | Michel-Nr. IV; Sieger-Nr. 13 |
 | **10 Pfennig** | 3.000 Stück  | Michel-Nr. V; Sieger-Nr. 14  |
 | **20 Pfennig** | 6.000 Stück  | Michel-Nr. VI; Sieger-Nr. 15 |
@@ -61,8 +61,6 @@ Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7&nbsp;mm Stri
 ### Bordstempel (zusätzlich auf der Karte)
 
 Dem passionierten Zeppelinsammler ist es selbstverständlich bekannt, das die Karten (nicht die Briefmarke selbst) mit privatem Bordstempel versehen wurden. Dieser Vorgang war im Jahre 1912, vor der offiziellen Einrichtung der späteren so genannten Postbetriebsstellen in den Zeppelinkabinen, noch nicht ganz so geläufig wie in der Folgezeit der Zeppelinepoche bis ins Katastrophenjahr 1937 (LZ 129 Hindenburg verbrannte am 6. Mai 1937 in Nordamerika beim Landeanflug auf den New Yorker Luftschiffflughafen Lakehurst). Dieser Stempel wurde an Bord des Luftschiffes (manchmal auch nachträglich) zur Kennzeichnung an Bord geschriebener oder aufgelieferter Post angebracht, hatte demnach keinen Entwertungs- sondern lediglich Dokumentationscharakter. Einige wenige Exemplare mit zusätzlichem Bordstempel existieren auch von der Flugpost am Rhein und Main. Bislang bekannt geworden sind Kombinationen mit Sonderstempel Darmstadt, Frankfurt am Main sowie Worms. Diese absolute Ausnahme stellt jeweils eine Rarität dar. Von den Bordstempeln existieren zwei verschiedene Typen. Obwohl hierzu teilweise auch Atteste der zuständigen Briefmarkenverbandsprüfer vorliegen, gibt es zu dieser Verwendung auch kritische Stimmen mit nicht ganz von der Hand zu weisenden Argumenten.
-
-![Flugpostkarte mit zusätzlichem Bordstempel](https://ucarecdn.com/c4725150-5c65-4506-824b-2f5faf285bcc/ "Flugpostkarte mit zusätzlichem Bordstempel")
 
 <figure class="image">
   <img src="https://ucarecdn.com/c4725150-5c65-4506-824b-2f5faf285bcc/" alt="Flugpostkarte mit zusätzlichem Bordstempel">
@@ -216,13 +214,28 @@ Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herz
 
 ### OFFIZIELLE POSTKARTEN (mit farbigen Bildmotiven)
 
-![Otzberg (Lengfeld - Odenwald)](/images/uploads/702061-000004.jpg "Otzberg (Lengfeld - Odenwald)")
-
-_Otzberg (Lengfeld - Odenwald)_
-
 * Jagdschloss Wolfsgarten bei Langen (Hessen)
 * Otzberg (Lengfeld - Odenwald)
 * Frankenstein (Eberstadt) vom Felsberg aus gesehen
+
+![](https://ucarecdn.com/b4a17a24-0c3c-409d-be37-6f44c7a77ee4/-/crop/499x354/27,256/-/preview/)
+
+![](https://ucarecdn.com/927d77b2-9991-46ab-bba0-d69005c135d0/-/crop/502x350/24,888/-/preview/)
+
+<figure class="image">
+  <img src="https://ucarecdn.com/b4a17a24-0c3c-409d-be37-6f44c7a77ee4" alt="Jagdschloss Wolfsgarten bei Langen (Hessen)">
+  <figcaption>Jagdschloss Wolfsgarten bei Langen (Hessen)</figcaption>
+</figure>
+
+<figure class="image">
+  <img src="/images/uploads/702061-000004.jpg" alt="Otzberg (Lengfeld - Odenwald)">
+  <figcaption>Otzberg (Lengfeld - Odenwald)</figcaption>
+</figure>
+
+<figure class="image">
+  <img src="https://ucarecdn.com/927d77b2-9991-46ab-bba0-d69005c135d0" alt="Frankenstein (Eberstadt) vom Felsberg aus gesehen">
+  <figcaption>Frankenstein (Eberstadt) vom Felsberg aus gesehen</figcaption>
+</figure>
 
 Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) gestaltet, welcher diese mit drei Motiven der Darmstädter Umgebung versehen hat. Die Kartenserie wird auch als so genannter **"bunter Hund"** bezeichnet.
 
