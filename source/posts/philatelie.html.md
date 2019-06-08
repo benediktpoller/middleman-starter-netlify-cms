@@ -22,8 +22,8 @@ Die Vignetten wurden von Professor Kleukens entworfen. Die Wertzeichen wurden im
 
 **Auflagen**
 
-| Name       | Stück         | Katalog                       |
-| ---------- | ------------- | ----------------------------- |
+| Name                | Stück         | Katalog                       |
+| ------------------- | ------------- | ----------------------------- |
 | **10&nbsp;Pfennig** | 497.000 Stück | Michel-Nr. I; Sieger-Nr. 10   |
 | **20&nbsp;Pfennig** | 194.000 Stück | Michel-Nr. II; Sieger-Nr. 11  |
 | **30&nbsp;Pfennig** | 100.000 Stück | Michel-Nr. III; Sieger-Nr. 12 |
@@ -123,35 +123,35 @@ Eine vollständige Garnitur der Michel-Nr. I bis VI lässt sich nur für die Ste
 
 ### Flugpostmarken (Vignetten) des Veranstalters
 
-| Betrag     | Leistung                                                                                                                                                                                 |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 10&nbsp;Pfennig | Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug, bei Verwendung der vom Veranstalter herausgegeben Karten und private Karten der ersten Veranstaltungswoche. |
-| 20&nbsp;Pfennig | Wie 10 Pfennig mit zusätzlicher Spende in Höhe von 10 Pfennig.                                                                                                                           |
-| 30&nbsp;Pfennig | Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin.                                                                                                               |
+| Betrag              | Leistung                                                                                                                                                                                 |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **10&nbsp;Pfennig** | Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug, bei Verwendung der vom Veranstalter herausgegeben Karten und private Karten der ersten Veranstaltungswoche. |
+| **20&nbsp;Pfennig** | Wie 10 Pfennig mit zusätzlicher Spende in Höhe von 10 Pfennig.                                                                                                                           |
+| **30&nbsp;Pfennig** | Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin.                                                                                                               |
 
 In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karten, Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug.
 
-| Betrag | Leistung                                                                                                                                                                                                                                                                                                                                                                           |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Betrag          | Leistung                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1&nbsp;Mark** | Überdruckte Vignette "- 1 Mark - gelber Hund" mit orangegelber Karte, Beförderungsanspruch per Flugzeug. Achtung bei Abstempelung 23.&nbsp;Juni&nbsp;1912, ersatzweise Beförderung mit dem Zeppelin, da vorgesehenes Flugzeug nicht einsatzfähig war. Da die Karte zusammen mit Luftpostvignette für den Betrag herausgegeben wurden, sind postfrische Exemplare relativ selten anzutreffen. |
-| **3&nbsp;Mark** | Rote nummerierte Karte, Beförderung per Flugzeug (2&nbsp;Mark zusätzliche Spende).                                                                                                                                                                                                                                                                                                      |
+| **3&nbsp;Mark** | Rote nummerierte Karte, Beförderung per Flugzeug (2&nbsp;Mark zusätzliche Spende).                                                                                                                                                                                                                                                                                                           |
 
 ### Karten und sonstige Artikel des Veranstalters
 
-| Betrag     | Leistung                                                                                                                                                                                                                                                                                                 |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **kostenlos**  | Siegelmarke welche auf der Rückseite der Werbeschreiben der Palaisverwaltung vor der Veranstaltung aufgebracht waren.                                                                                                                                                                                    |
+| Betrag              | Leistung                                                                                                                                                                                                                                                                                                 |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **kostenlos**       | Siegelmarke welche auf der Rückseite der Werbeschreiben der Palaisverwaltung vor der Veranstaltung aufgebracht waren.                                                                                                                                                                                    |
 | **10&nbsp;Pfennig** | Schwarz-weiß Fotokarten der Großherzoglichen Familie - günstigster Preis wohl um die möglichst hohe Verbreitung zu gewährleisten. Kein offizieller Verkauf in Frankfurt, da kein großherzogliches Gebiet, daher relativ seltene Verwendung (Bewertung!).                                                 |
 | **20&nbsp;Pfennig** | Standardgrußkarte (oliv - Auflage 750.000 Stück) sowie Sonderkarten der Veranstaltung (so genannter "weißer Hund") selbst.                                                                                                                                                                               |
 | **1&nbsp;Mark**     | Farbige Bildkarten des Jugendstilmalers Eugen Bracht (ursprünglich sollten auch diese für 10 Pfennig an das Publikum abgegeben werden).                                                                                                                                                                  |
-| **1&nbsp;Mark**    | Die mit dem Flugzeug zu beförderten Karten waren zur besseren Unterscheidung in orangefarbenen Ton in einer Auflage von 10.000 Stück erschienen. Die Karte sollte ursprünglich in gelblichem Farbton, wie das Flugzeug herausgegeben werden, der Preis versteht sich für Karte und der Flugpostvignette. |
-| 1 Mark     | Wohlfahrtsbilder mit denselben Aufnahmen in der Größe 19/26 cm mit zugehörigem Passepartout zum Aufstellen.                                                                                                                                                                                              |
+| **1&nbsp;Mark**     | Die mit dem Flugzeug zu beförderten Karten waren zur besseren Unterscheidung in orangefarbenen Ton in einer Auflage von 10.000 Stück erschienen. Die Karte sollte ursprünglich in gelblichem Farbton, wie das Flugzeug herausgegeben werden, der Preis versteht sich für Karte und der Flugpostvignette. |
+| **1 Mark**          | Wohlfahrtsbilder mit denselben Aufnahmen in der Größe 19/26 cm mit zugehörigem Passepartout zum Aufstellen.                                                                                                                                                                                              |
 | **3&nbsp;Mark**     | Rote von 1 bis 2000 durchnummerierte Karten mit den zugehörigen privaten Luftpostmarken (in der Regel 3 Stück à 1 Mark, oder 10 Stück à 30 Pfennig). Heutige Bezeichnung "roter Hund" bzw. "grüner Hund".                                                                                                |
 
 ### Reichspostbriefmarken
 
-| Betrag     | TODO Leistung                                                                  |
-| ---------- | ------------------------------------------------------------------------------ |
+| Betrag              | TODO Leistung                                                                  |
+| ------------------- | ------------------------------------------------------------------------------ |
 | **3&nbsp;Pfennig**  | Drucksache Inland - in der Regel Verwendung der Michel-Nr. 84 braune Germania. |
 | **5&nbsp;Pfennig**  | Postkarte Inland - in der Regel mit Michel-Nr. 85 grüne Germania.              |
 | **10&nbsp;Pfennig** | Postkarte Ausland und Brief Inland - in der Regel Michel-Nr. 86 rosa Germania. |
@@ -166,17 +166,23 @@ Zudem sind gelegentlich Überfrankaturen (z.B. doppelte Verwendung der braunen 3
 
 ## Karten
 
-### FLUG-POST-KARTEN auf farbigem Karton, glatt oder gerippt
+### Flug-Post-Karten auf farbigem Karton, glatt oder gerippt
 
 Diese Karten stellte die Druckerei L. C. Wittlich in Darmstadt im Steindruckverfahren her.		
 
 **Auflage**
 
-| Karte                       | Auflage       |
-| --------------------------- | ------------- |
+| Karte                           | Auflage       |
+| ------------------------------- | ------------- |
 | **graubrauner (oliver) Karton** | 750.000 Stück |
 | **oranger Karton**              | 10.000 Stück  |
 | **roter Karton**                | 2.000 Stück   |
+
+![](https://ucarecdn.com/44d0b7ef-7faa-4503-8af4-1f48364004fd/)
+
+![](https://ucarecdn.com/7f5764c3-9c65-4949-9112-da61ea6b0f54/)
+
+![](https://ucarecdn.com/8e8dc4d1-877d-4554-83a5-2fd957652479/)
 
 **TODO Inschrift rückseitig**
 
@@ -192,7 +198,7 @@ _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der
 
 Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luftschifftransport während der Veranstaltung dar. Der orangefarbene (sollte ursprünglich in gelber Ausfertigung, wie das Postflugzeug erscheinen) und rote Karton wurde zur besseren Unterscheidung für den Anspruch auf Flugzeugbeförderung herausgegeben. Diese Karten sollten beim Verteilen also auffallen. Der Druck der orangenen und roten Karten erfolgte im Buchdruck auf einseitig gerippten Kartonbahnen vorder- und rückseitig mit 16er Klischees in schwarz. Die roten Karten sind vorderseitig zusätzlich einzeln nummeriert. Die Paginierung der roten Karten erfolgte nach Zuschnitt in einem separaten Druckvorgang von Nr. 1 bis 2000. Als Abart sind wenige Karten mit Doppel- bzw. Schmitzdruck (Schattendruck) der Paginier-Nummern bekannt. **Nach Schätzungen sind über hundert Jahre nach der Veranstaltung noch circa 750 rotfarbige Karten erhalten geblieben.**
 
-### OFFIZIELLE POSTKARTEN 
+### OFFIZIELLE POSTKARTEN
 
 #### Fotos aus Darmstadt- Hessen
 
