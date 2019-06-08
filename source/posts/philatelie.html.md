@@ -9,7 +9,7 @@ image: /images/uploads/schwaben.jpg
 ---
 ## Briefmarken
 
-### Flugpostmarken - Vignetten des Veranstalters (ohne Aufdruck
+### Flugpostmarken - Vignetten des Veranstalters (ohne Aufdruck)
 
 <figure class="image">
   <img src="/images/uploads/10_postfrisch.jpg" alt="Taube mit Brief">
@@ -198,9 +198,11 @@ _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der
 
 Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luftschifftransport während der Veranstaltung dar. Der orangefarbene (sollte ursprünglich in gelber Ausfertigung, wie das Postflugzeug erscheinen) und rote Karton wurde zur besseren Unterscheidung für den Anspruch auf Flugzeugbeförderung herausgegeben. Diese Karten sollten beim Verteilen also auffallen. Der Druck der orangenen und roten Karten erfolgte im Buchdruck auf einseitig gerippten Kartonbahnen vorder- und rückseitig mit 16er Klischees in schwarz. Die roten Karten sind vorderseitig zusätzlich einzeln nummeriert. Die Paginierung der roten Karten erfolgte nach Zuschnitt in einem separaten Druckvorgang von Nr. 1 bis 2000. Als Abart sind wenige Karten mit Doppel- bzw. Schmitzdruck (Schattendruck) der Paginier-Nummern bekannt. **Nach Schätzungen sind über hundert Jahre nach der Veranstaltung noch circa 750 rotfarbige Karten erhalten geblieben.**
 
-### OFFIZIELLE POSTKARTEN
+### Offizielle Postkarten
 
 #### Fotos aus Darmstadt- Hessen
+
+
 
 * Familie - Großherzog mit Frau und beiden Söhnen
 * Großherzog von Hessen in Uniform
