@@ -38,8 +38,8 @@ Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Ma
 
 **Auflagen**
 
-| Name           | Stück        | Katalog                      |
-| -------------- | ------------ | ---------------------------- |
+| Name                | Stück        | Katalog                      |
+| ------------------- | ------------ | ---------------------------- |
 | **1&nbsp;Mark**     | 30.000 Stück | Michel-Nr. IV; Sieger-Nr. 13 |
 | **10&nbsp;Pfennig** | 3.000 Stück  | Michel-Nr. V; Sieger-Nr. 14  |
 | **20&nbsp;Pfennig** | 6.000 Stück  | Michel-Nr. VI; Sieger-Nr. 15 |
@@ -210,7 +210,6 @@ TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,
 * Großherzog von Hessen in Uniform
 * Großherzogin von Hessen 
 * Hessische Prinzen (Söhne) im Sommerkleidung
-* Hessische Prinzen (Söhne) in Kosaken-Uniform
 
 <figure class="image">
   <img src="https://ucarecdn.com/efc93b99-6fb2-4347-baad-072c74a9660e/" alt="Hessische Prinzen (Söhne) in Kosaken-Uniform">
@@ -324,14 +323,17 @@ TODO Muster für die Anschriftenseite der Karten
 
 TODO Blankoanschriftenseite der Karten 1910
 
-* Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911) 
-* Eleonore, Großherzogin von Hessen (bildgleich wie 1911)
 * Ernst Ludwig und Eleonore (bildgleich wie 1911)
 * Erbherzog Georg und Prinz Ludwig (bildgleich wie 1911)
 
 <figure class="image">
-  <img src="/images/uploads/685631-000001.jpg" alt="Eleonore, Großherzogin von Hessen">
-  <figcaption>Eleonore, Großherzogin von Hessen</figcaption>
+  <img src="https://ucarecdn.com/b72f5e43-e6bf-4664-a114-e9a728b754c0/" alt="Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911)">
+  <figcaption>Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911)</figcaption>
+</figure>
+
+<figure class="image">
+  <img src="https://ucarecdn.com/d8f95884-64d9-4f56-a114-61b263ac9eaa/" alt="Eleonore, Großherzogin von Hessen (bildgleich wie 1911)">
+  <figcaption>Eleonore, Großherzogin von Hessen (bildgleich wie 1911)</figcaption>
 </figure>
 
 <figure class="image">
