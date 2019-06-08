@@ -178,7 +178,7 @@ Diese Karten stellte die Druckerei L. C. Wittlich in Darmstadt im Steindruckverf
 
 ![](https://ucarecdn.com/aa116d18-2374-46a1-ae47-a99f9d0d894b/)
 
-![](https://ucarecdn.com/7f5764c3-9c65-4949-9112-da61ea6b0f54/)
+![](https://ucarecdn.com/09e7ed10-b8e2-43b7-aeb4-590231bbdd92/-/crop/583x374/24,20/-/preview/)
 
 ![](https://ucarecdn.com/8e8dc4d1-877d-4554-83a5-2fd957652479/)
 
@@ -219,6 +219,8 @@ TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,
 #### Fotos aus der Krim-Russland
 
 Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
+
+![](https://ucarecdn.com/6e011e20-8a5e-46f9-a66e-713d9bd6a048/)
 
 * Hessische Prinzen (Söhne) auf einem Balkon
 * Hessische Prinzen (Söhne) an einem Korbtisch
