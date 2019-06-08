@@ -4,7 +4,7 @@ date: '2018-08-14T12:01+02:00'
 description: >-
   The Coffee Taster’s Flavor Wheel, the official resource used by coffee
   tasters, has been revised for the first time this year.
-image: /images/uploads/news_item-01.jpg
+image: /images/uploads/schwaben.jpg
 ---
 ## Flugmaschinen
 
@@ -12,14 +12,14 @@ image: /images/uploads/news_item-01.jpg
 
 #### Daten
 
-| **Länge** | 140,00 Meter |
+| **Länge** | 140 m |
 | - | - |
-| **Durchmesser** | 14,00 Meter |
+| **Durchmesser** | 14 m |
 | **Tragkörper** | 17 mit 17.800 m³ |
 | **Geschwindigkeit** | circa 80 km/h |
 | **Motoren** | 3 Maybach-Motoren mit je 145 PS |
 | **Nutzlast** | 4,6 Tonnen |
-| **Steighöhe** | 1.300 Meter |
+| **Steighöhe** | 1.300 m |
 
 Die erste Probefahrt des L.Z. 10 erfolgte am 26. Juni 1911, die erste Passagierfahrt am 16. Juli 1911. 
 
@@ -33,9 +33,9 @@ Im Führersitz ist Pilot Ferdinand von Hiddessen (1887-1971) und vor dem Flugzeu
 	
 #### Daten
 
-| **Spannweite** | 10,50 Meter (obere Tragfläche) |
+| **Spannweite** | 10,50 m (obere Tragfläche) |
 | - | - |
-| **Rumpflänge** | vermutlich 9,00 Meter |
+| **Rumpflänge** | vermutlich 9 m |
 | **Materialien** | Stahl, Holz und Leinwand |
 | **Geschwindigkeit** | circa 70 km/h (bei Windstille) |
 | **Motor** | 70 PS-Gnome 7 Zylinder 1.200 U./min |
