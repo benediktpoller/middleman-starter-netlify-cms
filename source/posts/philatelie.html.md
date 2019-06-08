@@ -16,8 +16,6 @@ image: /images/uploads/schwaben.jpg
   <figcaption>Taube mit Brief - Die Abbildung zeigt laut Pressenotiz „einen als Symbol der Flugpost im Licht der aufgehenden Sonne über den Wolken schwebenden Phantasievogel".</figcaption>
 </figure>
 
-Taube mit Brief - Die Abbildung zeigt laut Pressenotiz „einen als Symbol der Flugpost im Licht der aufgehenden Sonne über den Wolken schwebenden Phantasievogel".
-
 Die Vignetten wurden von Professor Kleukens entworfen. Die Wertzeichen wurden im Buchdruckverfahren auf sämischen Papier in Bögen zu je 100 Exemplaren von der Druckerei Osterrieth in Frankfurt am Main hergestellt. Die halbamtlichen Marken wurden am 8. Juni 1912 (10&nbsp;Pfennig) und am 11. Juni 1912 (20&nbsp;Pfennig) sowie am 17. Juni 1912 (30&nbsp;Pfennig) ausgegeben. Die Flugpostmarken sind mit einer Linienzähnung 11&nbsp;½ versehen. Bei der Linienzähnung wird ein Zähnungsmesser in regelmäßigen Abständen zunächst waagerecht und dann senkrecht durch die Markenbogen gestochen. Die Maßeinheit für die Zähnung ist die Anzahl der Zähnungslöcher (nicht der Zähne!) auf 2&nbsp;cm Markenlänge und kann über entsprechende Schablonenschlüssel bestimmt werden.
 
 **Auflagen**
@@ -42,9 +40,9 @@ Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Ma
 
 | Name           | Stück        | Katalog                      |
 | -------------- | ------------ | ---------------------------- |
-| **1 Mark**     | 30.000 Stück | Michel-Nr. IV; Sieger-Nr. 13 |
-| **10 Pfennig** | 3.000 Stück  | Michel-Nr. V; Sieger-Nr. 14  |
-| **20 Pfennig** | 6.000 Stück  | Michel-Nr. VI; Sieger-Nr. 15 |
+| **1&nbsp;Mark**     | 30.000 Stück | Michel-Nr. IV; Sieger-Nr. 13 |
+| **10&nbsp;Pfennig** | 3.000 Stück  | Michel-Nr. V; Sieger-Nr. 14  |
+| **20&nbsp;Pfennig** | 6.000 Stück  | Michel-Nr. VI; Sieger-Nr. 15 |
 
 1 Mark beinhaltete die Portostufe für die Beförderung mit dem Postflugzeug. Die E. EL. P. Aufdruckmarken waren für ein Preisausschreiben des Veranstalters vorgesehen, wurden jedoch auch für Karten mit abweichenden Adressaten verwendet.
 
@@ -62,7 +60,7 @@ Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7&nbsp;mm Stri
 
 ### Bordstempel (zusätzlich auf der Karte)
 
-Dem passionierten Zeppelinsammler ist es selbstverständlich bekannt, das die Karten (nicht die Briefmarke selbst) mit privatem Bordstempel versehen wurden. Dieser Vorgang war im Jahre 1912, vor der offiziellen Einrichtung der späteren so genannten Postbetriebsstellen in den Zeppelinkabinen, noch nicht ganz so geläufig wie in der Folgezeit der Zeppelinepoche bis ins Katastrophenjahr 1937 (LZ 129 Hindenburg verbrannte am 6. Mai 1937 in Nordamerika beim Landeanflug auf den New Yorker Luftschiffflughafen Lakehurst). Dieser Stempel wurde an Bord des Luftschiffes (manchmal auch nachträglich) zur Kennzeichnung an Bord geschriebener oder aufgelieferter Post angebracht, hatte demnach keinen Entwertungs- sondern lediglich Dokumentationscharakter. Einige wenige Exemplare mit zusätzlichem Bordstempel existieren auch von der Flugpost am Rhein und Main. Bislang bekannt geworden sind Kombinationen mit Sonderstempel Darmstadt, Frankfurt am Main sowie Worms. Diese absolute Ausnahme stellt jeweils eine Rarität dar. Von den Bordstempeln existieren zwei verschiedene Typen. Obwohl hierzu teilweise auch Atteste der zuständigen Briefmarkenverbandsprüfer vorliegen, gibt es zu dieser Verwendung auch kritische Stimmen mit nicht ganz von der Hand zu weisenden Argumenten.
+Dem passionierten Zeppelinsammler ist es selbstverständlich bekannt, das die Karten (nicht die Briefmarke selbst) mit privatem Bordstempel versehen wurden. Dieser Vorgang war im Jahre 1912, vor der offiziellen Einrichtung der späteren so genannten Postbetriebsstellen in den Zeppelinkabinen, noch nicht ganz so geläufig wie in der Folgezeit der Zeppelinepoche bis ins Katastrophenjahr 1937 (LZ 129 Hindenburg verbrannte am 6. Mai 1937 in Nordamerika beim Landeanflug auf den New Yorker Luftschiffflughafen Lakehurst). Dieser Stempel wurde an Bord des Luftschiffes (manchmal auch nachträglich) zur Kennzeichnung an Bord geschriebener oder aufgelieferter Post angebracht, hatte demnach keinen Entwertungs- sondern lediglich Dokumentationscharakter. Einige wenige Exemplare mit zusätzlichem Bordstempel existieren auch von der Flugpost am Rhein und Main. Bislang bekannt geworden sind Kombinationen mit Sonderstempel Darmstadt, Frankfurt am Main sowie Worms. Diese absolute Ausnahme stellt jeweils eine Rarität dar. Von den Bordstempeln existieren zwei verschiedene Typen. Obwohl hierzu teilweise auch Atteste der zuständigen Briefmarken&shy;verbandsprüfer vorliegen, gibt es zu dieser Verwendung auch kritische Stimmen mit nicht ganz von der Hand zu weisenden Argumenten.
 
 <figure class="image">
   <img src="https://ucarecdn.com/c4725150-5c65-4506-824b-2f5faf285bcc/" alt="Flugpostkarte mit zusätzlichem Bordstempel">
