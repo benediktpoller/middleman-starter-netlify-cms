@@ -218,12 +218,8 @@ Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herz
 * Otzberg (Lengfeld - Odenwald)
 * Frankenstein (Eberstadt) vom Felsberg aus gesehen
 
-![](https://ucarecdn.com/b4a17a24-0c3c-409d-be37-6f44c7a77ee4/-/crop/499x354/27,256/-/preview/)
-
-![](https://ucarecdn.com/927d77b2-9991-46ab-bba0-d69005c135d0/-/crop/502x350/24,888/-/preview/)
-
 <figure class="image">
-  <img src="https://ucarecdn.com/b4a17a24-0c3c-409d-be37-6f44c7a77ee4" alt="Jagdschloss Wolfsgarten bei Langen (Hessen)">
+  <img src="https://ucarecdn.com/b4a17a24-0c3c-409d-be37-6f44c7a77ee4/-/crop/499x354/27,256/-/preview/" alt="Jagdschloss Wolfsgarten bei Langen (Hessen)">
   <figcaption>Jagdschloss Wolfsgarten bei Langen (Hessen)</figcaption>
 </figure>
 
@@ -233,7 +229,7 @@ Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herz
 </figure>
 
 <figure class="image">
-  <img src="https://ucarecdn.com/927d77b2-9991-46ab-bba0-d69005c135d0" alt="Frankenstein (Eberstadt) vom Felsberg aus gesehen">
+  <img src="https://ucarecdn.com/927d77b2-9991-46ab-bba0-d69005c135d0/-/crop/502x350/24,888/-/preview/" alt="Frankenstein (Eberstadt) vom Felsberg aus gesehen">
   <figcaption>Frankenstein (Eberstadt) vom Felsberg aus gesehen</figcaption>
 </figure>
 
@@ -241,13 +237,24 @@ Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) 
 
 ### FLUG-POST-KARTEN (mit Ereignismotiven)
 
-![Luftpostamt II](/images/uploads/s629323-1.jpg "Luftpostamt II")
+- Luftpostamt II
+- Ankunft der Postflugmaschine
+- Ankunft des Postluftschiffes
+- Auswechslung der Postsäcke
+- Galapostillone
+- Verkauf der Luftpostkarten
 
-_Luftpostamt II_
+<figure class="image">
+  <img src="/images/uploads/s629323-1.jpg" alt="Luftpostamt II">
+  <figcaption>Luftpostamt II</figcaption>
+</figure>
+
+<figure class="image">
+  <img src="/images/uploads/s629322-1.jpg" alt="Ankunft der Postflugmaschine">
+  <figcaption>Ankunft der Postflugmaschine</figcaption>
+</figure>
 
 ![Ankunft der Postflugmaschine](/images/uploads/s629322-1.jpg "Ankunft der Postflugmaschine")
-
-_Ankunft der Postflugmaschine_
 
 TODO Ankunft des Postluftschiffes
 
@@ -255,9 +262,7 @@ TODO Auswechslung der Postsäcke
 
 TODO Galapostillone
 
-![Ankunft der Postflugmaschine](/images/uploads/683590-000001.jpg "Ankunft der Postflugmaschine")
-
-Verkauf der Luftpostkarten
+TODO Verkauf der Luftpostkarten
 
 * Ankunft der Postflugmaschine
 * Ankunft des Postluftschiffes
