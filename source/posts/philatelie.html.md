@@ -184,7 +184,6 @@ Diese Karten stellte die Druckerei L. C. Wittlich in Darmstadt im Steindruckverf
 
 ![](https://ucarecdn.com/8e8dc4d1-877d-4554-83a5-2fd957652479/)
 
-
 <figure class="image">
   <img src="https://ucarecdn.com/7f5764c3-9c65-4949-9112-da61ea6b0f54/" alt="graubrauner (oliver) Karton">
   <figcaption><strong>Inschrift rückseitig:</strong><br>Stempel der Reichspost: Flugpost am Rhein u. Main &bull; Beförderung durch Postluftschiff „Schwaben"<br>Flugpost am Rhein und Main &bull; Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein<br><br>Die wie üblich frankierte und mit Luftpostmarke (10&nbsp;Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt.
@@ -205,7 +204,9 @@ Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luf
 
 #### Fotos aus Darmstadt- Hessen
 
+Hierbei handelt es sich um die neuesten Bilder der Großherzoglichen Familie, die im Jahre 1912 vom Hoffotografen Steinacker angefertigt wurden. Die Abbildungen beim Wenden der Karten erscheinen entweder normal oder kopfstehend. Drei Abbildungen weisen stehende Motive auf.
 
+TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,7&nbsp;cm x 8,6&nbsp;cm etwas geringere Maße auf, als die anderen Karten der Veranstaltung, bei denen jeweils eine Orginalabmessung von 14,2&nbsp;cm x 9,5&nbsp;cm zu verzeichnen ist.
 
 * Familie - Großherzog mit Frau und beiden Söhnen
 * Großherzog von Hessen in Uniform
@@ -218,10 +219,9 @@ Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luf
   <figcaption>Hessische Prinzen (Söhne) in Kosaken-Uniform</figcaption>
 </figure>
 
-Hierbei handelt es sich um die neuesten Bilder der Großherzoglichen Familie, die im Jahre 1912 vom Hoffotografen Steinacker angefertigt wurden. Die Abbildungen beim Wenden der Karten erscheinen entweder normal oder kopfstehend. Drei Abbildungen weisen stehende Motive auf.
-Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,7&nbsp;cm x 8,6&nbsp;cm etwas geringere Maße auf, als die anderen Karten der Veranstaltung, bei denen jeweils eine Orginalabmessung von 14,2&nbsp;cm x 9,5&nbsp;cm zu verzeichnen ist.
-
 #### Fotos aus der Krim-Russland
+
+Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
 
 * Hessische Prinzen (Söhne) auf einem Balkon
 * Hessische Prinzen (Söhne) an einem Korbtisch
@@ -230,9 +230,9 @@ Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,7&nbs
 * Hessische Prinzen und russischer Thronfolger mit zwei seiner Schwestern
 * Hessische Prinzen und russischer Thronfolger mit seinen vier Schwestern
 
-Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
-
 #### Postkarten mit farbigen Bildmotiven
+
+Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) gestaltet, welcher diese mit drei Motiven der Darmstädter Umgebung versehen hat. Die Kartenserie wird auch als so genannter **"bunter Hund"** bezeichnet.
 
 <figure class="image">
   <img src="https://ucarecdn.com/b4a17a24-0c3c-409d-be37-6f44c7a77ee4/-/crop/499x354/27,256/-/preview/" alt="Jagdschloss Wolfsgarten bei Langen (Hessen)">
@@ -248,8 +248,6 @@ Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herz
   <img src="https://ucarecdn.com/927d77b2-9991-46ab-bba0-d69005c135d0/-/crop/502x350/24,888/-/preview/" alt="Frankenstein (Eberstadt) vom Felsberg aus gesehen">
   <figcaption>Frankenstein (Eberstadt) vom Felsberg aus gesehen</figcaption>
 </figure>
-
-Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) gestaltet, welcher diese mit drei Motiven der Darmstädter Umgebung versehen hat. Die Kartenserie wird auch als so genannter **"bunter Hund"** bezeichnet.
 
 #### Flug-Post-Karten mit Ereignismotiven
 
@@ -287,11 +285,23 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
 
 ### Fotokarten 1911
 
+Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Beliebtheit. Deshalb wurden auch Restmengen der Kartenausgaben aus den beiden Vorjahren im Rahmen der beiden Flugwochen des Jahres 1912 gelegentlich verwendet. Insgesamt werden noch rund 100 existierender Karten aus dem Jahre 1911, welche eine Serie von siebzehn verschiedenen Ausgaben umfasst, vermutet, welche sich durch die anschriftenseitig braune Druckfarbe u.a. des aufgebrachten Emblems von den Karten des Jahrgangs 1910 eindeutig unterscheiden lassen.
+
 TODO Muster für die Anschriftenseite der Karten
 
 <figure class="image">
   <img src="/images/uploads/702061-000006.jpg" alt="Erbgroßherzog Georg und Prinz Ludwig von Hessen mit Blumensträußen">
   <figcaption>Erbgroßherzog Georg und Prinz Ludwig von Hessen (mit Blumensträußen), aufgenommen von Ihrer Königl. Hoheit der Frau Großherzogin von Hessen.</figcaption>
+</figure>
+
+<figure class="image">
+  <img src="https://ucarecdn.com/6034074a-4365-4679-88e6-f5ee8d6c683d/" alt="Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1910)">
+  <figcaption>Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1910)</figcaption>
+</figure>
+
+<figure class="image">
+  <img src="https://ucarecdn.com/61dcc4c7-d144-4eb6-9545-58aa63b7f08f/" alt="Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1910)">
+  <figcaption>Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1910)</figcaption>
 </figure>
 
 * Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1910)
@@ -302,8 +312,6 @@ TODO Muster für die Anschriftenseite der Karten
 * Erbgroßherzog und Prinz von Hessen mit drei Kindern Thronfolger; Alexej mit Prinzessinnen Margharita und Theodora von Griechenland 
 * Erbgroßherzog und Prinz (im Kinderwagen) mit Zarewitsch
 * Erbgroßherzog und Prinz mit Zarewitsch (Großfürst Thronfolger) auf einer Bank
-* Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1910)
-* Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1910)
 * Großherzog Ernst Ludwig und der Zar von Russland
 * Die 5 Kinder der russischen Zarenfamilie
 * Erbgroßherzog und Prinz von Hessen mit Blumensträußen
@@ -312,25 +320,31 @@ TODO Muster für die Anschriftenseite der Karten
 * Großherzog und Großherzogin mit beiden Söhnen auf Balkon
 * Großherzog und Großherzogin mit beiden Söhnen (diese auf Teddy) auf Balkon
 
-Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Beliebtheit. Deshalb wurden auch Restmengen der Kartenausgaben aus den beiden Vorjahren im Rahmen der beiden Flugwochen des Jahres 1912 gelegentlich verwendet. Insgesamt werden noch rund 100 existierender Karten aus dem Jahre 1911, welche eine Serie von siebzehn verschiedenen Ausgaben umfasst, vermutet, welche sich durch die anschriftenseitig braune Druckfarbe u.a. des aufgebrachten Emblems von den Karten des Jahrgangs 1910 eindeutig unterscheiden lassen.
-
 ### Fotokarten 1910
 
+1910 verausgabte die Großherzogliche Fürsorgezentrale eine anschriftenseitig nummerierte Serie von sechs Fotokarten mit Bildmotiven aus dem Leben der großherzoglichen Familie, mit anschriftenseitig schwarzem Druck. **Die Anzahl der heute noch belegbaren Karten des Jahrganges 1910 beläuft sich insgesamt auf weniger als 50 Stück.** Allein diese Zahl gibt einen Hinweis auf den Grad der Seltenheit dieser "Vorläufer"-Karten.
+
 TODO Blankoanschriftenseite der Karten 1910
+
+* Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911) 
+* Eleonore, Großherzogin von Hessen (bildgleich wie 1911)
+* Ernst Ludwig und Eleonore (bildgleich wie 1911)
+* Erbherzog Georg und Prinz Ludwig (bildgleich wie 1911)
 
 <figure class="image">
   <img src="/images/uploads/685631-000001.jpg" alt="Eleonore, Großherzogin von Hessen">
   <figcaption>Eleonore, Großherzogin von Hessen</figcaption>
 </figure>
 
-* Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911) 
-* Eleonore, Großherzogin von Hessen (bildgleich wie 1911)
-* Ernst Ludwig und Eleonore (bildgleich wie 1911)
-* Erbherzog Georg und Prinz Ludwig (bildgleich wie 1911)
-* Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1911)
-* Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911)
+<figure class="image">
+  <img src="https://ucarecdn.com/6034074a-4365-4679-88e6-f5ee8d6c683d/" alt="Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1911)">
+  <figcaption>Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1911)</figcaption>
+</figure>
 
-1910 verausgabte die Großherzogliche Fürsorgezentrale eine anschriftenseitig nummerierte Serie von sechs Fotokarten mit Bildmotiven aus dem Leben der großherzoglichen Familie, mit anschriftenseitig schwarzem Druck. **Die Anzahl der heute noch belegbaren Karten des Jahrganges 1910 beläuft sich insgesamt auf weniger als 50 Stück.** Allein diese Zahl gibt einen Hinweis auf den Grad der Seltenheit dieser "Vorläufer"- Karten.
+<figure class="image">
+  <img src="https://ucarecdn.com/61dcc4c7-d144-4eb6-9545-58aa63b7f08f/" alt="Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911)">
+  <figcaption>Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911)</figcaption>
+</figure>
 
 ### Nicht offizielle Karten und Briefe
 
