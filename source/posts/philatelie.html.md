@@ -34,15 +34,15 @@ TODO 10 Pfennig Bogen mit 10 x 10 Marken
 
 TODO Wie obige 10 Pfennig Marke jedoch mit dunkelblauem Aufdruck "- 1 M. - Gelber Hund" mit Ausgabedatum 10. Juni 1912. 
 
-Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Marken mit schwarzem E. EL. P. Aufdruck verausgabt.
+Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Marken mit schwarzem E.&nbsp;EL.&nbsp;P. Aufdruck verausgabt.
 
 **Auflagen**
 
 | Name       | Stück        | Katalog                      |
 | ---------- | ------------ | ---------------------------- |
-| 1 Mark     | 30.000 Stück | Michel-Nr. IV; Sieger-Nr. 13 |
-| 10 Pfennig | 3.000 Stück  | Michel-Nr. V; Sieger-Nr. 14  |
-| 20 Pfennig | 6.000 Stück  | Michel-Nr. VI; Sieger-Nr. 15 |
+| **1 Mark**     | 30.000 Stück | Michel-Nr. IV; Sieger-Nr. 13 |
+| **10 Pfennig** | 3.000 Stück  | Michel-Nr. V; Sieger-Nr. 14  |
+| **20 Pfennig** | 6.000 Stück  | Michel-Nr. VI; Sieger-Nr. 15 |
 
 1 Mark beinhaltete die Portostufe für die Beförderung mit dem Postflugzeug. Die E. EL. P. Aufdruckmarken waren für ein Preisausschreiben des Veranstalters vorgesehen, wurden jedoch auch für Karten mit abweichenden Adressaten verwendet.
 
@@ -54,15 +54,20 @@ Da die Reichspost keinen extra Profit aus der Wohltätigkeitsaktion ziehen wollt
 
 ### Sonderstempel
 
-Unverzichtbar sind die anlässlich der Veranstaltung extra produzierten Sonderstempel. Die amtlichen Flugpoststempel wurden von der Firma Gleichmann in Berlin auf Kosten des Veranstalters hergestellt, das heißt, die Stempelhoheit lag nicht etwa beim Veranstalter, sondern bei der Kaiserlichen Reichspost. Die Stempel wurden als Einkreisstempel von 39mm Durchmesser ausgeführt. Enthalten ist eine stilisierte Blume, welche wohl an die vorherigen Blumentage erinnern sollte. 
+Unverzichtbar sind die anlässlich der Veranstaltung extra produzierten Sonderstempel. Die amtlichen Flugpoststempel wurden von der Firma Gleichmann in Berlin auf Kosten des Veranstalters hergestellt, das heißt, die Stempelhoheit lag nicht etwa beim Veranstalter, sondern bei der Kaiserlichen Reichspost. Die Stempel wurden als Einkreisstempel von 39&nbsp;mm Durchmesser ausgeführt. Enthalten ist eine stilisierte Blume, welche wohl an die vorherigen Blumentage erinnern sollte. 
 
-Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7mm Strichlänge unter dem Datum) bzw. in den Typ II (11,25 mm Strichlänge). Dieser Stempel auf den Belegen verkörperte die Garantie, dass ein Teil der Beförderung auf dem Luftwege stattgefunden hat.
+Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7&nbsp;mm Strichlänge unter dem Datum) bzw. in den Typ II (11,25&nbsp;mm Strichlänge). Dieser Stempel auf den Belegen verkörperte die Garantie, dass ein Teil der Beförderung auf dem Luftwege stattgefunden hat.
 
 ### Bordstempel (zusätzlich auf der Karte)
 
-Nun begegnen wir einem echten Highlight der frühen Zeppelinpostgeschichte. Dem passionierten Zeppelinsammler ist es selbstverständlich bekannt, das die Karten (nicht die Briefmarke selbst) mit privatem Bordstempel versehen wurden. Dieser Vorgang war im Jahre 1912, vor der offiziellen Einrichtung der späteren so genannten Postbetriebsstellen in den Zeppelinkabinen, noch nicht ganz so geläufig wie in der Folgezeit der Zeppelinepoche bis ins Katastrophenjahr 1937 (LZ 129 Hindenburg verbrannte am 6. Mai 1937 in Nordamerika beim Landeanflug auf den New Yorker Luftschiffflughafen Lakehurst). Dieser Stempel wurde an Bord des Luftschiffes (manchmal auch nachträglich) zur Kennzeichnung an Bord geschriebener oder aufgelieferter Post angebracht, hatte demnach keinen Entwertungs- sondern lediglich Dokumentationscharakter. Einige wenige Exemplare mit zusätzlichem Bordstempel existieren auch von der Flugpost am Rhein und Main. Bislang bekannt geworden sind Kombinationen mit Sonderstempel Darmstadt, Frankfurt am Main sowie Worms. Diese absolute Ausnahme stellt jeweils eine Rarität dar. Von den Bordstempeln existieren zwei verschiedene Typen. Obwohl hierzu teilweise auch Atteste der zuständigen Briefmarkenverbandsprüfer vorliegen, gibt es zu dieser Verwendung auch kritische Stimmen mit nicht ganz von der Hand zu weisenden Argumenten.
+Dem passionierten Zeppelinsammler ist es selbstverständlich bekannt, das die Karten (nicht die Briefmarke selbst) mit privatem Bordstempel versehen wurden. Dieser Vorgang war im Jahre 1912, vor der offiziellen Einrichtung der späteren so genannten Postbetriebsstellen in den Zeppelinkabinen, noch nicht ganz so geläufig wie in der Folgezeit der Zeppelinepoche bis ins Katastrophenjahr 1937 (LZ 129 Hindenburg verbrannte am 6. Mai 1937 in Nordamerika beim Landeanflug auf den New Yorker Luftschiffflughafen Lakehurst). Dieser Stempel wurde an Bord des Luftschiffes (manchmal auch nachträglich) zur Kennzeichnung an Bord geschriebener oder aufgelieferter Post angebracht, hatte demnach keinen Entwertungs- sondern lediglich Dokumentationscharakter. Einige wenige Exemplare mit zusätzlichem Bordstempel existieren auch von der Flugpost am Rhein und Main. Bislang bekannt geworden sind Kombinationen mit Sonderstempel Darmstadt, Frankfurt am Main sowie Worms. Diese absolute Ausnahme stellt jeweils eine Rarität dar. Von den Bordstempeln existieren zwei verschiedene Typen. Obwohl hierzu teilweise auch Atteste der zuständigen Briefmarkenverbandsprüfer vorliegen, gibt es zu dieser Verwendung auch kritische Stimmen mit nicht ganz von der Hand zu weisenden Argumenten.
 
 ![Flugpostkarte mit zusätzlichem Bordstempel](https://ucarecdn.com/c4725150-5c65-4506-824b-2f5faf285bcc/ "Flugpostkarte mit zusätzlichem Bordstempel")
+
+<figure class="image">
+  <img src="https://ucarecdn.com/c4725150-5c65-4506-824b-2f5faf285bcc/" alt="Flugpostkarte mit zusätzlichem Bordstempel">
+  <figcaption>Flugpostkarte mit zusätzlichem Bordstempel</figcaption>
+</figure>
 
 TODO Zusätzlich abgebildet ist (rechts) der erste Bordpoststempel des Luftschiffes "Schwaben", welcher zur Abstempelung der Marken selbst ab dem 21. Juni 1912 verwendet wurde. Ob dieser auch im Rahmen der Flugpostwoche zum Einsatz gelangte, ist nicht bekannt, aber wenig wahrscheinlich, weil die Marken bereits mit dem Sonderstempel der Veranstaltung versehen wurden. Warum sollten also doppelte oder gar dreifache Abstempelung vorgenommen worden sein, zumal eine offizielle Postbetriebsstelle an Bord der „Schwaben" niemals eingerichtet worden war? 
 
