@@ -1,11 +1,15 @@
 backend:
   name: git-gateway
 
-media_folder: source/images/uploads
+#media_folder: source/images/uploads
 public_folder: /images/uploads
 
 #publish_mode: editorial_workflow #optional, enables publishing workflow
-
+media_library:
+  name: uploadcare
+  config:
+    publicKey: dff229536a11ff6c1f2a
+    
 collections:
   #yaml middleman data example
   - name: product
