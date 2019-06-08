@@ -286,6 +286,8 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
 
 Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Beliebtheit. Deshalb wurden auch Restmengen der Kartenausgaben aus den beiden Vorjahren im Rahmen der beiden Flugwochen des Jahres 1912 gelegentlich verwendet. Insgesamt werden noch rund 100 existierender Karten aus dem Jahre 1911, welche eine Serie von siebzehn verschiedenen Ausgaben umfasst, vermutet, welche sich durch die anschriftenseitig braune Druckfarbe u.a. des aufgebrachten Emblems von den Karten des Jahrgangs 1910 eindeutig unterscheiden lassen.
 
+![](https://ucarecdn.com/1b22fa1e-8354-40d2-9cb8-07b7218df3d4/)
+
 TODO Muster für die Anschriftenseite der Karten
 
 <figure class="image">
@@ -313,7 +315,6 @@ TODO Muster für die Anschriftenseite der Karten
 * Erbgroßherzog und Prinz mit Zarewitsch (Großfürst Thronfolger) auf einer Bank
 * Großherzog Ernst Ludwig und der Zar von Russland
 * Die 5 Kinder der russischen Zarenfamilie
-* Erbgroßherzog und Prinz von Hessen mit Blumensträußen
 * Erbgroßherzog und Prinz von Hessen in der Pferdekutsche
 * Großherzog und Großherzogin auf Balkon 
 * Großherzog und Großherzogin mit beiden Söhnen auf Balkon
