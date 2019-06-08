@@ -5,7 +5,7 @@ description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
   ordeal, but once you get used to the process, it becomes a soothing ritual
   that's worth the effort every time.
-image: /images/uploads/news_item-02.jpg
+image: 'https://ucarecdn.com/b5456133-48fd-407f-8f71-a91327f3babc/'
 ---
 Vor rund einhundert Jahren kam es der damaligen Epoche einer Sensation gleich, wenn es hieß: „Der Zeppelin kommt". War es im Kaiserreich den meisten Zeitgenossen aus finanziellen Gründen unmöglich, diesem Ereignis persönlich an Bord beizuwohnen, so konnte die Teilhabe daran wenigstens über die Post ermöglich werden. Ebenso stand die Flugzeugentwicklung erst am Anfang ihrer Geschichte und die Reise mit einer „Flugmaschine" war, an heutigen Maßstäben gemessen, etwas ganz Außergewöhnliches. 
 
