@@ -29,10 +29,11 @@ Das Porto deckte die Luftschiffbeförderung ab, welche zunächst mit einheitlich
 
 TODO 10 Pfennig Bogen mit 10 x 10 Marken
 	
-
 ### Flugpostmarken - Vignetten des Veranstalters (mit Aufdruck)
 
-Wie obige 10 Pfennig Marke jedoch mit dunkelblauem Aufdruck "- 1 M. - Gelber Hund" mit Ausgabedatum 10. Juni 1912. Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Marken mit schwarzem E. EL. P. Aufdruck verausgabt.
+TODO Wie obige 10 Pfennig Marke jedoch mit dunkelblauem Aufdruck "- 1 M. - Gelber Hund" mit Ausgabedatum 10. Juni 1912. 
+
+Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Marken mit schwarzem E. EL. P. Aufdruck verausgabt.
 
 **Auflagen**
 
@@ -60,7 +61,7 @@ Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7mm Strichlän
 
 Nun begegnen wir einem echten Highlight der frühen Zeppelinpostgeschichte. Dem passionierten Zeppelinsammler ist es selbstverständlich bekannt, das die Karten (nicht die Briefmarke selbst) mit privatem Bordstempel versehen wurden. Dieser Vorgang war im Jahre 1912, vor der offiziellen Einrichtung der späteren so genannten Postbetriebsstellen in den Zeppelinkabinen, noch nicht ganz so geläufig wie in der Folgezeit der Zeppelinepoche bis ins Katastrophenjahr 1937 (LZ 129 Hindenburg verbrannte am 6. Mai 1937 in Nordamerika beim Landeanflug auf den New Yorker Luftschiffflughafen Lakehurst). Dieser Stempel wurde an Bord des Luftschiffes (manchmal auch nachträglich) zur Kennzeichnung an Bord geschriebener oder aufgelieferter Post angebracht, hatte demnach keinen Entwertungs- sondern lediglich Dokumentationscharakter. Einige wenige Exemplare mit zusätzlichem Bordstempel existieren auch von der Flugpost am Rhein und Main. Bislang bekannt geworden sind Kombinationen mit Sonderstempel Darmstadt, Frankfurt am Main sowie Worms. Diese absolute Ausnahme stellt jeweils eine Rarität dar. Von den Bordstempeln existieren zwei verschiedene Typen. Obwohl hierzu teilweise auch Atteste der zuständigen Briefmarkenverbandsprüfer vorliegen, gibt es zu dieser Verwendung auch kritische Stimmen mit nicht ganz von der Hand zu weisenden Argumenten.
 
-Zusätzlich abgebildet ist (rechts) der erste Bordpoststempel des Luftschiffes "Schwaben", welcher zur Abstempelung der Marken selbst ab dem 21. Juni 1912 verwendet wurde. Ob dieser auch im Rahmen der Flugpostwoche zum Einsatz gelangte, ist nicht bekannt, aber wenig wahrscheinlich, weil die Marken bereits mit dem Sonderstempel der Veranstaltung versehen wurden. Warum sollten also doppelte oder gar dreifache Abstempelung vorgenommen worden sein, zumal eine offizielle Postbetriebsstelle an Bord der „Schwaben" niemals eingerichtet worden war? 
+TODO Zusätzlich abgebildet ist (rechts) der erste Bordpoststempel des Luftschiffes "Schwaben", welcher zur Abstempelung der Marken selbst ab dem 21. Juni 1912 verwendet wurde. Ob dieser auch im Rahmen der Flugpostwoche zum Einsatz gelangte, ist nicht bekannt, aber wenig wahrscheinlich, weil die Marken bereits mit dem Sonderstempel der Veranstaltung versehen wurden. Warum sollten also doppelte oder gar dreifache Abstempelung vorgenommen worden sein, zumal eine offizielle Postbetriebsstelle an Bord der „Schwaben" niemals eingerichtet worden war? 
 
 TODO Flugpostkarte mit zusätzlichem Bordstempel Typ II (mit kritischen Anmerkungen)	
 
@@ -69,13 +70,14 @@ TODO Flugpostkarte mit zusätzlichem Bordstempel Typ II (mit kritischen Anmerkun
 Aus der Anweisung der Kaiserlichen Ober-Postdirektion Darmstadt vom 07. Juni 1912 an die Postämter in Darmstadt, Offenbach, Mainz und Worms geht klar hervor, dass das erste Verwendungsdatum des Sonderstempels der 12. Juni 1912 sein musste, gleichgültig ob die Postkarten am 09., 10., 11. oder 12. Juni eingeliefert wurden. Deshalb existiert vom Ersttag in diesen Städten eine relativ hohe Auflage (Bewertung). Die Kaiserliche Ober- Postdirektion Frankfurt am Main gab keine derartige Anweisung. Deshalb wurde der Sonderstempel in Frankfurt am Main vom 10. Juni an jeweils mit dem gültigen Datum verwendet. Ein Stempelabdruck Frankfurt am Main vom 09. Juni 1912 ist auf einer Postkarte bekannt, deren Absender jedoch der Hersteller des Stempels ist. Hieraus lässt sich ableiten, dass der 9. Juni kein echtes Verwendungsdatum ist. 
 
 Bekannt geworden ist jedoch eine Garnitur Musterabschläge mit Datum 9.6.12 (bzw. für Worms als Stempelfehler 6.9.12). Von Darmstadt existieren Karten mit Stempeldatum 10.6.12.
+
 Um missbräuchliche Verwendung zu vermeiden, mussten die Stempel mit Ablauf der Veranstaltung, also am 24. Juni 1912 wieder vernichtet werden. Das letzte Verwendungsdatum ist mithin der 23. Juni 1912.
 
 ### Stempelverbotskarten
 
 Den Postaufgabe- Sonderstempel sollte laut Anordnung des Reichspostamtes in Berlin nur die Reichspostmarke erhalten, die so genannte Luftmarke dagegen hatte, da sie eine private Ausgabe war, unentwertet zu bleiben. Aus Unachtsamkeit wurde diese Weisung von den Ober- Postdirektionen Frankfurt und Darmstadt so nicht weitergeben. In der Verfügung der Kaiserlichen Ober-Postdirektion Darmstadt vom Freitag, dem 07. Juni 1912 wurden die Kaiserlichen Postämter Darmstadt 1, Offenbach, Mainz 1, sowie Worms u.a. wie folgt angewiesen:
 
-> ... „Die mit den von der Zentrale als Luftpostkarten gekennzeichneten offiziellen Wohltätigkeits- Postkarten sind bei jeder Kastenleerung auszusondern, zu zählen und mit dem Sonderstempel sowohl auf dem Postwertzeichen als auch auf der Luftmarke deutlich zu bedrucken. ..."
+> „ [...] Die mit den von der Zentrale als Luftpostkarten gekennzeichneten offiziellen Wohltätigkeits- Postkarten sind bei jeder Kastenleerung auszusondern, zu zählen und mit dem Sonderstempel sowohl auf dem Postwertzeichen als auch auf der Luftmarke deutlich zu bedrucken. [...]"
 
 Daraufhin erhielt die Kaiserliche Ober- Postdirektion Frankfurt am Main vom Reichspostamt Berlin am 14. Juni 1912 folgendes Telegramm: 
 
@@ -83,13 +85,13 @@ Daraufhin erhielt die Kaiserliche Ober- Postdirektion Frankfurt am Main vom Reic
 
 Die telegrafische Rückantwort vom 16. Juni 1912 lautete:
 
-> „Damit wird der ganze Zweck wohltätiger Bestrebungen lahm gelegt. Da das Verfahren bereits 1 Woche besteht, wird weitere Genehmigung desselben beantragt." ….
+> „Damit wird der ganze Zweck wohltätiger Bestrebungen lahm gelegt. Da das Verfahren bereits 1 Woche besteht, wird weitere Genehmigung desselben beantragt. [...]"
 
 Diesem Antrag wurde sodann entsprochen. Der telegrafische Schriftwechsel mit dem Reichspostamt hatte zur Folge, dass die Flugmarken auf den Karten am 14. und 15. Juni 1912 teilweise nicht gestempelt wurden. Es war auch möglich, dass bei späterer Vorlage der Karten die jeweilige Flugmarke nachgestempelt wurde. Etliche dieser Karten sind deshalb einige Tage später bezüglich der Flugpostmarke nachentwertet worden. Daher gibt es Karten, deren beide Stempel im Datum (bei der Flugmarke später) oder gar im Ort unterschiedlich sind. Hierbei handelt es sich um besonders begehrte Sammlerstücke. Zuzustimmen ist der Meinung, dass vom Standpunkt des Briefmarkensammlers die Luftmarken erst durch den postamtlichen Aufgabestempel voll sammelfähig und begehrenswert wurden. 
 
 Der Vollständigkeit sei erwähnt, dass auch aus anderen Gründen in Frankfurt bereits ab 10. Juni 1912 als nicht flugpostbeförderungswürdig (z.B. gewöhnliche Postkarten) bestimmten Postbelege als Stempelverbotskarten bezeichnet werden.
 
-Beispiel Stempelverbotskarte Worms 15.06.1912
+TODO Stempelverbotskarte Worms 15.06.1912
 
 ### Stempelfehler
 
@@ -148,7 +150,7 @@ In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karte
 
 Die Karten mussten zusätzlich mit dem üblichen Porto der Reichspost freigemacht werden. Insoweit waren für die anschließende Beförderung im Inland 5 Pfennig aufzuwenden. Üblicherweise geschah dies durch die entsprechende grüne Germaniamarke (Michel-Nr. 85). Nach den allgemeinen Beförderungsbedingungen der Reichspost umfasste der damalige Inlandsportotarif auch den Versand nach Österreich-Ungarn und Luxemburg sowie die Destinationen zu den deutschen Kolonien (in Teilen Afrikas und im pazifischen Raum) und Auslandspostämtern (China, Marokko und Türkei). Die Karten mit Adresse ins Ausland mit portogerechtem Inlandstarif sind sehr selten und immer wieder gesucht. Da diese Karten nicht direkt durch ihre äußerliche Aufmachung auffallen, lohnt sich deshalb vielleicht ein Blick auf die Anschrift des Empfängers.
 
-Kaiserliche Zeiten - Beispiel Inlandstarif für die Beförderung auf eine pazifische Insel	
+TODO Kaiserliche Zeiten - Beispiel Inlandstarif für die Beförderung auf eine pazifische Insel	
 
 Auch selten anzutreffen sind echte Auslandsfreimachungen, welche aber regelmäßig durch die aufgebrachte rosafarbene 10 Pfennig (Michel-Nr. 86) oder doppelte Verwendung der 5 Pfennig Marke ins Auge springen.
 
@@ -174,7 +176,7 @@ Stempel der Reichspost: Flugpost am Rhein u. Main _Beförderung durch Postluftsc
 
 **TODO Inschrift rückseitig**
 
-_Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. - Die rote Flugzeugkarte ist nur in wenigen numerierten Exemplaren hergestellt und wird nur in den Luftpostämtern verkauft. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 3 Mark) - Post-Flugmaschine_
+_Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. - Die rote Flugzeugkarte ist nur in wenigen nummerierten Exemplaren hergestellt und wird nur in den Luftpostämtern verkauft. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 3 Mark) - Post-Flugmaschine_
 
 **TODO Inschrift rückseitig**
 
