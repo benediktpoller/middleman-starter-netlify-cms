@@ -256,8 +256,6 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
   <figcaption>Ankunft der Postflugmaschine</figcaption>
 </figure>
 
-![Ankunft der Postflugmaschine](/images/uploads/s629322-1.jpg "Ankunft der Postflugmaschine")
-
 TODO Ankunft des Postluftschiffes
 
 TODO Auswechslung der Postsäcke
