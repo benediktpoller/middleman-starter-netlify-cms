@@ -239,12 +239,12 @@ Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) 
 
 Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von Susanne Homann zur Ausgabe, welche in Darmstadt, auf dem damaligen Exerzierplatz anlässlich der ersten Flugpostbeförderungen am Montag, dem 10. Juni 1912 (Flugzeug) sowie am Mittwoch, dem 12. Juni 1912 (Luftschiff) aufgenommen wurden. 
 
-- Luftpostamt II
-- Ankunft der Postflugmaschine
-- Ankunft des Postluftschiffes
-- Auswechslung der Postsäcke
-- Galapostillone
-- Verkauf der Luftpostkarten
+* Luftpostamt II
+* Ankunft der Postflugmaschine
+* Ankunft des Postluftschiffes
+* Auswechslung der Postsäcke
+* Galapostillone
+* Verkauf der Luftpostkarten
 
 <figure class="image">
   <img src="/images/uploads/s629323-1.jpg" alt="Luftpostamt II">
@@ -255,6 +255,14 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
   <img src="/images/uploads/s629322-1.jpg" alt="Ankunft der Postflugmaschine">
   <figcaption>Ankunft der Postflugmaschine</figcaption>
 </figure>
+
+![](https://ucarecdn.com/9fe4c99f-2a0d-4355-97fc-7c0d582d8fdb/)
+
+![](https://ucarecdn.com/897412d7-af2b-4d48-9bf9-8a50f44925e4/)
+
+![](https://ucarecdn.com/e8d43afc-1e8e-4b04-865c-20986de8bbda/)
+
+![Verkauf der Luftpostkarten](https://ucarecdn.com/aa9d450d-ca99-477a-91b5-71483486cfc7/ "Verkauf der Luftpostkarten")
 
 TODO Ankunft des Postluftschiffes
 
