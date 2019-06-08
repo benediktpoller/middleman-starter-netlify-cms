@@ -178,15 +178,18 @@ Diese Karten stellte die Druckerei L. C. Wittlich in Darmstadt im Steindruckverf
 | **oranger Karton**              | 10.000 Stück  |
 | **roter Karton**                | 2.000 Stück   |
 
-![](https://ucarecdn.com/44d0b7ef-7faa-4503-8af4-1f48364004fd/)
+![](https://ucarecdn.com/aa116d18-2374-46a1-ae47-a99f9d0d894b/)
 
 ![](https://ucarecdn.com/7f5764c3-9c65-4949-9112-da61ea6b0f54/)
 
 ![](https://ucarecdn.com/8e8dc4d1-877d-4554-83a5-2fd957652479/)
 
-**TODO Inschrift rückseitig**
 
-Stempel der Reichspost: Flugpost am Rhein u. Main _Beförderung durch Postluftschiff „Schwaben" - Flugpost am Rhein und Main_ Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein - Die wie üblich frankierte und mit Luftpostmarke (10&nbsp;Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt.
+<figure class="image">
+  <img src="https://ucarecdn.com/7f5764c3-9c65-4949-9112-da61ea6b0f54/" alt="graubrauner (oliver) Karton">
+  <figcaption><strong>Inschrift rückseitig:</strong><br>Stempel der Reichspost: Flugpost am Rhein u. Main &bull; Beförderung durch Postluftschiff „Schwaben"<br>Flugpost am Rhein und Main &bull; Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein<br><br>Die wie üblich frankierte und mit Luftpostmarke (10&nbsp;Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt.
+</figcaption>
+</figure>
 
 **TODO Inschrift rückseitig**
 
