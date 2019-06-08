@@ -235,7 +235,9 @@ Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herz
 
 Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) gestaltet, welcher diese mit drei Motiven der Darmstädter Umgebung versehen hat. Die Kartenserie wird auch als so genannter **"bunter Hund"** bezeichnet.
 
-### FLUG-POST-KARTEN (mit Ereignismotiven)
+### Flug-Post-Karten mit Ereignismotiven
+
+Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von Susanne Homann zur Ausgabe, welche in Darmstadt, auf dem damaligen Exerzierplatz anlässlich der ersten Flugpostbeförderungen am Montag, dem 10. Juni 1912 (Flugzeug) sowie am Mittwoch, dem 12. Juni 1912 (Luftschiff) aufgenommen wurden. 
 
 - Luftpostamt II
 - Ankunft der Postflugmaschine
@@ -263,15 +265,6 @@ TODO Auswechslung der Postsäcke
 TODO Galapostillone
 
 TODO Verkauf der Luftpostkarten
-
-* Ankunft der Postflugmaschine
-* Ankunft des Postluftschiffes
-* Auswechslung der Postsäcke
-* Galapostillone
-* Verkauf der Luftpostkarten
-* Luftpostamt II
-
-Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von Susanne Homann zur Ausgabe, welche in Darmstadt, auf dem damaligen Exerzierplatz anlässlich der ersten Flugpostbeförderungen am Montag, dem 10. Juni 1912 (Flugzeug) sowie am Mittwoch, dem 12. Juni 1912 (Luftschiff) aufgenommen wurden. 
 
 ### Fotokarten 1911
 
