@@ -59,6 +59,58 @@ collections:
           - label: Story
             name: story
             widget: markdown
+      - file: "data/pages/intro.yml"
+        label: Einleitung
+        name: intro
+        fields:
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Image, name: image, widget: image}
+          - label: Story
+            name: story
+            widget: markdown
+      - file: "data/pages/philatelie.yml"
+        label: Philatelie
+        name: philatelie
+        fields:
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Image, name: image, widget: image}
+          - label: Story
+            name: story
+            widget: markdown
+      - file: "data/pages/technik.yml"
+        label: Technik
+        name: technik
+        fields:
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Image, name: image, widget: image}
+          - label: Story
+            name: story
+            widget: markdown
+      - file: "data/pages/event.yml"
+        label: Veranstaltung
+        name: veranstaltung
+        fields:
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Image, name: image, widget: image}
+          - label: Story
+            name: story
+            widget: markdown
 
   - name: settings
     label: Settings
