@@ -1,11 +1,9 @@
 nav_items:
-  - label: Home
-    path: /
   - label: Einleitung
     path: /news
-  - label: Philatelie
+  - label: Veranstaltung
     path: /news
   - label: Technik
     path: /news
-  - label: Veranstaltung
+  - label: Philatelie
     path: /news
