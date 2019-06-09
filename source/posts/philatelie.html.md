@@ -189,6 +189,11 @@ Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luf
   <figcaption>Graubrauner (oliver) Karton</figcaption>
 </figure>
 
+<figure>
+  <img src="https://ucarecdn.com/b809e656-788e-4190-be8c-cd99c409eb4e/" alt="Graubrauner (oliver) Karton - Rückseite">
+  <figcaption>Graubrauner (oliver) Karton - Rückseite</figcaption>
+</figure>
+
 **Inschrift rückseitig**
 
 > _Stempel der Reichspost: Flugpost am Rhein u. Main  Beförderung durch Postluftschiff „Schwaben"  Flugpost am Rhein und Main * Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein_
