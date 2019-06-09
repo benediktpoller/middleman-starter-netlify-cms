@@ -125,12 +125,7 @@ Eine vollständige Garnitur der Michel-Nr. I bis VI lässt sich nur für die Ste
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **10&nbsp;Pfennig** | Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug, bei Verwendung der vom Veranstalter herausgegeben Karten und private Karten der ersten Veranstaltungswoche. |
 | **20&nbsp;Pfennig** | Wie 10 Pfennig mit zusätzlicher Spende in Höhe von 10 Pfennig.                                                                                                                           |
-| **30&nbsp;Pfennig** | Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin.                                                                                                               |
-
-In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karten, Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug.
-
-| Betrag          | Leistung                                                                                                                                                                                                                                                                                                                                                                                     |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **30&nbsp;Pfennig** | Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin, in der zweiten Woche, Verwendung für nicht vom Veranstalter herausgegebene Karten, Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug. |
 | **1&nbsp;Mark** | Überdruckte Vignette "- 1 Mark - gelber Hund" mit orangegelber Karte, Beförderungsanspruch per Flugzeug. Achtung bei Abstempelung 23.&nbsp;Juni&nbsp;1912, ersatzweise Beförderung mit dem Zeppelin, da vorgesehenes Flugzeug nicht einsatzfähig war. Da die Karte zusammen mit Luftpostvignette für den Betrag herausgegeben wurden, sind postfrische Exemplare relativ selten anzutreffen. |
 | **3&nbsp;Mark** | Rote nummerierte Karte, Beförderung per Flugzeug (2&nbsp;Mark zusätzliche Spende).                                                                                                                                                                                                                                                                                                           |
 
@@ -148,7 +143,7 @@ In der zweiten Woche Verwendung für nicht vom Veranstalter herausgegebene Karte
 
 ### Reichspostbriefmarken
 
-| Betrag              | TODO Leistung                                                                  |
+| Betrag              | Verwendung                                                                  |
 | ------------------- | ------------------------------------------------------------------------------ |
 | **3&nbsp;Pfennig**  | Drucksache Inland - in der Regel Verwendung der Michel-Nr. 84 braune Germania. |
 | **5&nbsp;Pfennig**  | Postkarte Inland - in der Regel mit Michel-Nr. 85 grüne Germania.              |
@@ -284,11 +279,14 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
 
 ### Fotokarten 1911
 
-Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Beliebtheit. Deshalb wurden auch Restmengen der Kartenausgaben aus den beiden Vorjahren im Rahmen der beiden Flugwochen des Jahres 1912 gelegentlich verwendet. Insgesamt werden noch rund 100 existierender Karten aus dem Jahre 1911, welche eine Serie von siebzehn verschiedenen Ausgaben umfasst, vermutet, welche sich durch die anschriftenseitig braune Druckfarbe u.a. des aufgebrachten Emblems von den Karten des Jahrgangs 1910 eindeutig unterscheiden lassen.
+Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Beliebtheit. Deshalb wurden auch Restmengen der Kartenausgaben aus den beiden Vorjahren im Rahmen der beiden Flugwochen des Jahres 1912 gelegentlich verwendet. 
 
-![](https://ucarecdn.com/1b22fa1e-8354-40d2-9cb8-07b7218df3d4/)
+<figure class="image">
+  <img src="https://ucarecdn.com/1b22fa1e-8354-40d2-9cb8-07b7218df3d4/" alt="Muster für die Anschriftenseite der Karten">
+  <figcaption>Muster für die Anschriftenseite der Karten</figcaption>
+</figure>
 
-TODO Muster für die Anschriftenseite der Karten
+Insgesamt werden noch rund 100 existierender Karten aus dem Jahre 1911, welche eine Serie von siebzehn verschiedenen Ausgaben umfasst, vermutet, welche sich durch die anschriftenseitig braune Druckfarbe u.a. des aufgebrachten Emblems von den Karten des Jahrgangs 1910 eindeutig unterscheiden lassen.
 
 <figure class="image">
   <img src="/images/uploads/702061-000006.jpg" alt="Erbgroßherzog Georg und Prinz Ludwig von Hessen mit Blumensträußen">
