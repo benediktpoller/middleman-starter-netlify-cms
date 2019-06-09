@@ -16,7 +16,7 @@ Insoweit kommt der Initiatorin, Ihre Königliche Hoheit Großherzogin Eleonore v
 
 Bereits im Jahre 1906 wurde anlässlich der Geburt ihres Sohnes, Erbgroßherzog Georg Donatus, die „Ernst Ludwig und Eleonore-Stiftung" gegründet, welche die „Großherzogliche Zentrale für Mütter- und Säuglingsfürsorge", ausgestattet mit einem gezeichneten Grundvermögen von 50.000 Mark, ins Leben gerufen hatte und auch gegenwärtig noch als Trägerin einer Kinderklinik in Darmstadt fungiert. Da die Mittel des Stiftungsvermögens allein für den Zweck bei weitem nicht ausreichten, sind Spendensammlungen verschiedenster Art durchgeführt worden.
 
-<figure class="image">
+<figure>
   <img src="/images/uploads/eleonore_zu_solms-hohensolms-lich_1871.jpg" alt="Eleonore Großherzogin von Hessen und bei Rhein (geb. Solms-Hohensolms-Lich) 1871-1937">
   <figcaption>Eleonore Großherzogin von Hessen und bei Rhein (geb. Solms-Hohensolms-Lich) 1871-1937</figcaption>
 </figure>
@@ -40,12 +40,12 @@ In einem Schreiben des Patronates (Regierungsrat Pistor) am 06. Juni 1912 an die
 
 > "Unikum für Markensammler. Die erste deutsche Luftpostmarke ist soeben erschienen und gelangt zur Postkartenwoche der Großherzogin von Hessen am 09. Juni erstmalig und nur für wenige Tage im Großherzogtum und in Frankfurt a. M. zur Ausgabe. Die von Prof. Kleukens entworfene Marke zeigt auf rotbraunem Grund als Symbol der Flugpost einen im Licht der aufgehenden Sonne über den Wolken schwebenden Phantasievogel. Die Auflage ist beschränkt; die Marken erhalten also einen besonderen Wert. Bedingung der Genehmigung des Reichspostamtes war die Garantie, dass alle Luftpostkarten wenigstens einen Teil des Postwegs durch die Luft zurücklegen (Postluftschiff "Schwaben"; Flugzeuge). Der Stempel der Reichspost lautet: "Flugpost am Rhein und Main, Frankfurt oder Darmstadt - (folgt Datum)". Die Flugpost befördert vom 9. Juni ab die offiziellen Karten, die in die Briefkästen der Reichspost zu werfen sind, überall hin. Die Postkartenwoche steht unter dem Patronate der Großherzogin von Hessen. Der Ertrag dient den von ihr verfolgten gemeinnützigen Zwecken (Anfragen unter Postkartenwoche, Altes Palais, Darmstadt)."
 
-<figure class="image">
+<figure>
   <img src="/images/uploads/siegel.jpg" alt="Siegelmarke auf Werbebrief">
   <figcaption>Siegelmarke auf Werbebrief</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="/images/uploads/anzeige.jpg" alt="Werbeanzeige Darmstädter Tagblatt Montag, 10. Juni 1912">
   <figcaption>Werbeanzeige Darmstädter Tagblatt Montag, 10. Juni 1912</figcaption>
 </figure>	
@@ -114,7 +114,7 @@ Das Ereignis wurde von einem respektablen Rahmenprogramm begleitet, welches die 
 
 Im **Programm für Darmstadt** heißt es:
 
-<figure class="image">
+<figure>
   <img src="/images/uploads/programm.jpg" alt="Programm für Darmstadt">
   <figcaption>Programm für Darmstadt</figcaption>
 </figure>
@@ -182,7 +182,7 @@ TODO Eine der 600 eingesendeten Karten.
 
 Richtig war die Lösung **E**X **E**ST **L**UFT**P**OST (übersetzt: Aus ist Luftpost). Nur einmal ging diese ein, und zwar von Fräulein Lilli Eiermann aus Nürnberg, auf dem Luftweg mit Sonderstempel Frankfurt (Main), 23.6.1912, übermittelt. Soweit die offizielle Version. 
 
-Klare Überlegung hierbei, der Veranstalter war daran interessiert, nur eine richtige Antwort zu bekommen, sonst hätte der Betrag entweder der Armenkasse zugeführt, oder aber unter den mehreren Gewinnern aufgeteilt werden müssen. Der Freiplatz ließ sich dagegen leicht zu günstigeren Konditionen einschieben. Daher ist es eher wahrscheinlich, dass die Lösung erst im Nachhinein zu der richtigen erklärt wurde. Denn dass der Veranstalter einen derart kuriosen, eher sinnfreien Satz, der zudem noch lateinische Begriffe enthält, vorgab und dazu noch eine entsprechende Lösung einging, ist weniger wahrscheinlich als ein Hauptgewinn im Lotto. Deshalb wurde mitunter spekuliert, dass die Lösung der Gewinnerin zuvor verraten worden sei. Was die Buchstaben wohl wirklich bedeutet haben, erklärt sich aus dem Namen der Schirmherren, des hessischen Großherzogpaares, und dem der Veranstaltung: E.EL.P. hieß mit hoher Wahrscheinlichkeit "Eleonore-Ernst-Ludwig-Postkartenwoche". Und deshalb wurde diese Deutung auch viel zu häufig als Lösung eingesandt. Gleichwohl wird hier die offizielle Version vertreten, auch wenn bestimmt ein kleiner Schwindel dahinter steckt.
+Klare Überlegung hierbei, der Veranstalter war daran interessiert, nur eine richtige Antwort zu bekommen, sonst hätte der Betrag entweder der Armenkasse zugeführt, oder aber unter den mehreren Gewinnern aufgeteilt werden müssen. Der Freiplatz ließ sich dagegen leicht zu günstigeren Konditionen einschieben. Daher ist es eher wahrscheinlich, dass die Lösung erst im Nachhinein zu der richtigen erklärt wurde. Denn dass der Veranstalter einen derart kuriosen, eher sinnfreien Satz, der zudem noch lateinische Begriffe enthält, vorgab und dazu noch eine entsprechende Lösung einging, ist weniger wahrscheinlich als ein Hauptgewinn im Lotto. Deshalb wurde mitunter spekuliert, dass die Lösung der Gewinnerin zuvor verraten worden sei. Was die Buchstaben wohl wirklich bedeutet haben, erklärt sich aus dem Namen der Schirmherren, des hessischen Großherzogpaares, und dem der Veranstaltung: E. EL. P. hieß mit hoher Wahrscheinlichkeit "Eleonore-Ernst-Ludwig-Postkartenwoche". Und deshalb wurde diese Deutung auch viel zu häufig als Lösung eingesandt. Gleichwohl wird hier die offizielle Version vertreten, auch wenn bestimmt ein kleiner Schwindel dahinter steckt.
 
 Zu allem Unglück ist das Luftschiff "Schwaben" knapp eine Woche nach der Veranstaltung bei der Landung in Düsseldorf abgebrannt, so dass der Preis über ein Schwesterluftschiff der Gewinnerin zuteil geworden ist.
 

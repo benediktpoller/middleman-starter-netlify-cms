@@ -6,6 +6,13 @@
   z-index: 999;
   background-color: rgba(0, 46, 102, 0.8);
   color: #fff;
+  .logo span {
+    font-size: 26px;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 16px;
+    margin-top: 22px;
+  }
   a {
     color: #fff;
   }

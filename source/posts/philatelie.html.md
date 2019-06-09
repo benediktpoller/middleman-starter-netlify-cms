@@ -11,7 +11,7 @@ image: /images/uploads/schwaben.jpg
 
 ### Flugpostmarken - Vignetten des Veranstalters (ohne Aufdruck)
 
-<figure class="image">
+<figure>
   <img src="/images/uploads/10_postfrisch.jpg" alt="Taube mit Brief">
   <figcaption>Taube mit Brief - Die Abbildung zeigt laut Pressenotiz „einen als Symbol der Flugpost im Licht der aufgehenden Sonne über den Wolken schwebenden Phantasievogel".</figcaption>
 </figure>
@@ -28,7 +28,7 @@ Die Vignetten wurden von Professor Kleukens entworfen. Die Wertzeichen wurden im
 
 Das Porto deckte die Luftschiffbeförderung ab, welche zunächst mit einheitlich 30&nbsp;Pfennig geplant war, aber tatsächlich bis auf eine Ausnahme auf 10&nbsp;Pfennig herabgesetzt wurde. Die Marke zu 20&nbsp;Pfennig verkörperte einen entsprechenden Spendenanteil.
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/06666c68-7749-46e8-a5d3-a4424b4a3ba5/" alt="10 Pfennig Block mit 5 x 2 Marken">
   <figcaption>10 Pfennig Block mit 5 x 2 Marken</figcaption>
 </figure>
@@ -65,7 +65,7 @@ Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7&nbsp;mm Stri
 
 Dem passionierten Zeppelinsammler ist es selbstverständlich bekannt, dass die Karten (nicht die Briefmarke selbst) mit privatem Bordstempel versehen wurden. Dieser Vorgang war im Jahre 1912, vor der offiziellen Einrichtung der späteren so genannten Postbetriebsstellen in den Zeppelinkabinen, noch nicht ganz so geläufig wie in der Folgezeit der Zeppelinepoche bis ins Katastrophenjahr 1937 (LZ 129 Hindenburg verbrannte am 6. Mai 1937 in Nordamerika beim Landeanflug auf den New Yorker Luftschiffflughafen Lakehurst). Dieser Stempel wurde an Bord des Luftschiffes (manchmal auch nachträglich) zur Kennzeichnung an Bord geschriebener oder aufgelieferter Post angebracht, hatte demnach keinen Entwertungs- sondern lediglich Dokumentationscharakter. Einige wenige Exemplare mit zusätzlichem Bordstempel existieren auch von der Flugpost am Rhein und Main. Bislang bekannt geworden sind Kombinationen mit Sonderstempel Darmstadt, Frankfurt am Main sowie Worms. Diese absolute Ausnahme stellt jeweils eine Rarität dar. Von den Bordstempeln existieren zwei verschiedene Typen. Obwohl hierzu teilweise auch Atteste der zuständigen Briefmarken&shy;verbandsprüfer vorliegen, gibt es zu dieser Verwendung auch kritische Stimmen mit nicht ganz von der Hand zu weisenden Argumenten.
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/c4725150-5c65-4506-824b-2f5faf285bcc/" alt="Flugpostkarte mit zusätzlichem Bordstempel">
   <figcaption>Flugpostkarte mit zusätzlichem Bordstempel</figcaption>
 </figure>
@@ -176,7 +176,7 @@ Diese Karten stellte die Druckerei L. C. Wittlich in Darmstadt im Steindruckverf
 
 Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luftschifftransport während der Veranstaltung dar.
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/09e7ed10-b8e2-43b7-aeb4-590231bbdd92/-/crop/583x374/24,20/-/preview/" alt="Graubrauner (oliver) Karton">
   <figcaption>Graubrauner (oliver) Karton</figcaption>
 </figure>
@@ -189,7 +189,7 @@ Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luf
 
 Der orangefarbene (sollte ursprünglich in gelber Ausfertigung, wie das Postflugzeug erscheinen) und rote Karton wurde zur besseren Unterscheidung für den Anspruch auf Flugzeugbeförderung herausgegeben. Diese Karten sollten beim Verteilen also auffallen. Der Druck der orangenen und roten Karten erfolgte im Buchdruck auf einseitig gerippten Kartonbahnen vorder- und rückseitig mit 16er Klischees in schwarz.
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/aa116d18-2374-46a1-ae47-a99f9d0d894b/" alt="Oranger Karton">
   <figcaption>Oranger Karton</figcaption>
 </figure>
@@ -200,7 +200,7 @@ Der orangefarbene (sollte ursprünglich in gelber Ausfertigung, wie das Postflug
 
 Die roten Karten sind vorderseitig zusätzlich einzeln nummeriert. Die Paginierung der roten Karten erfolgte nach Zuschnitt in einem separaten Druckvorgang von Nr. 1 bis 2000. Als Abart sind wenige Karten mit Doppel- bzw. Schmitzdruck (Schattendruck) der Paginier-Nummern bekannt. **Nach Schätzungen sind über hundert Jahre nach der Veranstaltung noch circa 750 rotfarbige Karten erhalten geblieben.**
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/8e8dc4d1-877d-4554-83a5-2fd957652479/" alt="Roter Karton">
   <figcaption>Roter Karton</figcaption>
 </figure>
@@ -222,7 +222,7 @@ TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,
 * Großherzogin von Hessen 
 * Hessische Prinzen (Söhne) im Sommerkleidung
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/efc93b99-6fb2-4347-baad-072c74a9660e/" alt="Hessische Prinzen (Söhne) in Kosaken-Uniform">
   <figcaption>Hessische Prinzen (Söhne) in Kosaken-Uniform</figcaption>
 </figure>
@@ -231,7 +231,7 @@ TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,
 
 Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/6e011e20-8a5e-46f9-a66e-713d9bd6a048/" alt="Hessische Prinzen (Söhne) an einem Korbtisch">
   <figcaption>Hessische Prinzen (Söhne) an einem Korbtisch</figcaption>
 </figure>
@@ -246,17 +246,17 @@ Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herz
 
 Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) gestaltet, welcher diese mit drei Motiven der Darmstädter Umgebung versehen hat. Die Kartenserie wird auch als so genannter **"bunter Hund"** bezeichnet.
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/b4a17a24-0c3c-409d-be37-6f44c7a77ee4/-/crop/499x354/27,256/-/preview/" alt="Jagdschloss Wolfsgarten bei Langen (Hessen)">
   <figcaption>Jagdschloss Wolfsgarten bei Langen (Hessen)</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="/images/uploads/702061-000004.jpg" alt="Otzberg (Lengfeld - Odenwald)">
   <figcaption>Otzberg (Lengfeld - Odenwald)</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/927d77b2-9991-46ab-bba0-d69005c135d0/-/crop/502x350/24,888/-/preview/" alt="Frankenstein (Eberstadt) vom Felsberg aus gesehen">
   <figcaption>Frankenstein (Eberstadt) vom Felsberg aus gesehen</figcaption>
 </figure>
@@ -265,32 +265,32 @@ Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) 
 
 Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von Susanne Homann zur Ausgabe, welche in Darmstadt, auf dem damaligen Exerzierplatz anlässlich der ersten Flugpostbeförderungen am Montag, dem 10. Juni 1912 (Flugzeug) sowie am Mittwoch, dem 12. Juni 1912 (Luftschiff) aufgenommen wurden. 
 
-<figure class="image">
+<figure>
   <img src="/images/uploads/s629323-1.jpg" alt="Luftpostamt II">
   <figcaption>Luftpostamt II (Exerzierplatz) Darmstadt, Juni 1912.</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="/images/uploads/s629322-1.jpg" alt="Ankunft der Postflugmaschine">
   <figcaption>Ankunft der Postflugmaschine "Gelber Hund" am Luftpostamte Darmstadt, 10. Juni 1912. Galapostillone, Tusch blasend bei Ankunft des Großherzogpaares.</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/aa9d450d-ca99-477a-91b5-71483486cfc7/" alt="Verkauf von Luftpostkarten">
   <figcaption>Verkauf von offiziellen Luftpostkarten bei Ankunft des Postluftschiffes "Schwaben". Darmstadt, 12. Juni 1912</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/9fe4c99f-2a0d-4355-97fc-7c0d582d8fdb/" alt="Ankunft der Postflugmaschine">
   <figcaption>Ankunft der Postflugmaschine "Gelber Hund" am Luftpostamte Darmstadt, 10. Juni 1912. Lt. von Hiddessen in seinem Flugzeug vor dem Start am Abend.</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/897412d7-af2b-4d48-9bf9-8a50f44925e4/" alt="Ankunft der Postflugmaschine">
   <figcaption>Ankunft der Postflugmaschine "Gelber Hund" am Luftpostamte Darmstadt, 10. Juni 1912. Auswechselung der Postsäcke.</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/e8d43afc-1e8e-4b04-865c-20986de8bbda/" alt="Ankunft des Postluftschiffes">
   <figcaption>Ankunft des Postluftschiffes "Schwaben" am Luftpostamte II Darmstadt, 12. Juni 1912</figcaption>
 </figure>
@@ -299,24 +299,24 @@ Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von
 
 Die großherzogliche Familie erfreute sich beim Volk großer Popularität und Beliebtheit. Deshalb wurden auch Restmengen der Kartenausgaben aus den beiden Vorjahren im Rahmen der beiden Flugwochen des Jahres 1912 gelegentlich verwendet. 
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/1b22fa1e-8354-40d2-9cb8-07b7218df3d4/" alt="Muster für die Anschriftenseite der Karten">
   <figcaption>Muster für die Anschriftenseite der Karten</figcaption>
 </figure>
 
 Insgesamt werden noch rund 100 existierender Karten aus dem Jahre 1911, welche eine Serie von siebzehn verschiedenen Ausgaben umfasst, vermutet, welche sich durch die anschriftenseitig braune Druckfarbe u.a. des aufgebrachten Emblems von den Karten des Jahrgangs 1910 eindeutig unterscheiden lassen.
 
-<figure class="image">
+<figure>
   <img src="/images/uploads/702061-000006.jpg" alt="Erbgroßherzog Georg und Prinz Ludwig von Hessen mit Blumensträußen">
   <figcaption>Erbgroßherzog Georg und Prinz Ludwig von Hessen (mit Blumensträußen), aufgenommen von Ihrer Königl. Hoheit der Frau Großherzogin von Hessen.</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/6034074a-4365-4679-88e6-f5ee8d6c683d/" alt="Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1910)">
   <figcaption>Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1910)</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/61dcc4c7-d144-4eb6-9545-58aa63b7f08f/" alt="Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1910)">
   <figcaption>Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1910)</figcaption>
 </figure>
@@ -345,22 +345,22 @@ TODO Blankoanschriftenseite der Karten 1910
 * Ernst Ludwig und Eleonore (bildgleich wie 1911)
 * Erbherzog Georg und Prinz Ludwig (bildgleich wie 1911)
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/b72f5e43-e6bf-4664-a114-e9a728b754c0/" alt="Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911)">
   <figcaption>Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911)</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/d8f95884-64d9-4f56-a114-61b263ac9eaa/" alt="Eleonore, Großherzogin von Hessen (bildgleich wie 1911)">
   <figcaption>Eleonore, Großherzogin von Hessen (bildgleich wie 1911)</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/6034074a-4365-4679-88e6-f5ee8d6c683d/" alt="Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1911)">
   <figcaption>Die Großherzoglichen Prinzen (sitzend) am Meer (bildgleich wie 1911)</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="https://ucarecdn.com/61dcc4c7-d144-4eb6-9545-58aa63b7f08f/" alt="Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911)">
   <figcaption>Die Großherzoglichen Prinzen (stehend) am Meer (bildgleich wie 1911)</figcaption>
 </figure>
@@ -369,12 +369,12 @@ TODO Blankoanschriftenseite der Karten 1910
 
 Sehr selten sind private Karten, d.h. nicht vom Patronat extra für diese Veranstaltung herausgegebene Belege, mit der Flugpost befördert worden. Vereinzelte Briefbeförderungen stellen jeweils Unikate dar.
 
-<figure class="image">
+<figure>
   <img src="/images/uploads/s629302.jpg" alt="">
   <figcaption>Extrem selten: Muster für Briefbeförderung</figcaption>
 </figure>
 
-<figure class="image">
+<figure>
   <img src="/images/uploads/s629299.jpg" alt="">
   <figcaption>Extrem selten: Muster für Briefbeförderung</figcaption>
 </figure>
