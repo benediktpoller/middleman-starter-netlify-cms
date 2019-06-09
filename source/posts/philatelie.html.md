@@ -351,11 +351,15 @@ TODO Blankoanschriftenseite der Karten 1910
 
 Sehr selten sind private Karten, d.h. nicht vom Patronat extra für diese Veranstaltung herausgegebene Belege, mit der Flugpost befördert worden. Vereinzelte Briefbeförderungen stellen jeweils Unikate dar.
 
-![](/images/uploads/s629302.jpg)
+<figure class="image">
+  <img src="/images/uploads/s629302.jpg" alt="">
+  <figcaption>Extrem selten: Muster für Briefbeförderung</figcaption>
+</figure>
 
-![](/images/uploads/s629299.jpg)
-
-TODO Extrem selten: Muster für Briefbeförderung
+<figure class="image">
+  <img src="/images/uploads/s629299.jpg" alt="">
+  <figcaption>Extrem selten: Muster für Briefbeförderung</figcaption>
+</figure>
 
 * Post-, Ansichts- und Ganzsachen-Karten
 * Briefe
