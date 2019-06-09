@@ -78,6 +78,8 @@ Dem passionierten Zeppelinsammler ist es selbstverständlich bekannt, dass die K
   <figcaption>Flugpostkarte mit zusätzlichem Bordstempel</figcaption>
 </figure>
 
+![](https://ucarecdn.com/c94899ee-bb2c-4f22-917f-86d57d946b6e/)
+
 TODO Zusätzlich abgebildet ist (rechts) der erste Bordpoststempel des Luftschiffes "Schwaben", welcher zur Abstempelung der Marken selbst ab dem 21. Juni 1912 verwendet wurde. Ob dieser auch im Rahmen der Flugpostwoche zum Einsatz gelangte, ist nicht bekannt, aber wenig wahrscheinlich, weil die Marken bereits mit dem Sonderstempel der Veranstaltung versehen wurden. Warum sollten also doppelte oder gar dreifache Abstempelung vorgenommen worden sein, zumal eine offizielle Postbetriebsstelle an Bord der „Schwaben" niemals eingerichtet worden war? 
 
 TODO Flugpostkarte mit zusätzlichem Bordstempel Typ II (mit kritischen Anmerkungen)	
@@ -248,6 +250,10 @@ Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herz
   <img src="https://ucarecdn.com/6e011e20-8a5e-46f9-a66e-713d9bd6a048/" alt="Hessische Prinzen (Söhne) an einem Korbtisch">
   <figcaption>Hessische Prinzen (Söhne) an einem Korbtisch</figcaption>
 </figure>
+
+
+
+![](https://ucarecdn.com/db50a212-4431-47c4-aa96-c63fa74be8ba/-/crop/1275x844/930,2997/-/preview/)
 
 * Hessische Prinzen (Söhne) auf einem Balkon
 * Großfürst Thronfolger von Russland und der Erbgroßherzog von Hessen (ältester Sohn) am Strand von Livadia (Krim)
