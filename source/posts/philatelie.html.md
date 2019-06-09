@@ -28,7 +28,10 @@ Die Vignetten wurden von Professor Kleukens entworfen. Die Wertzeichen wurden im
 
 Das Porto deckte die Luftschiffbeförderung ab, welche zunächst mit einheitlich 30&nbsp;Pfennig geplant war, aber tatsächlich bis auf eine Ausnahme auf 10&nbsp;Pfennig herabgesetzt wurde. Die Marke zu 20&nbsp;Pfennig verkörperte einen entsprechenden Spendenanteil.
 
-TODO 10 Pfennig Bogen mit 10 x 10 Marken
+<figure class="image">
+  <img src="https://ucarecdn.com/06666c68-7749-46e8-a5d3-a4424b4a3ba5/" alt="10 Pfennig Block mit 5 x 2 Marken">
+  <figcaption>10 Pfennig Block mit 5 x 2 Marken</figcaption>
+</figure>
 
 ### Flugpostmarken - Vignetten des Veranstalters (mit Aufdruck)
 
@@ -121,13 +124,13 @@ Eine vollständige Garnitur der Michel-Nr. I bis VI lässt sich nur für die Ste
 
 ### Flugpostmarken (Vignetten) des Veranstalters
 
-| Betrag              | Leistung                                                                                                                                                                                 |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **10&nbsp;Pfennig** | Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug, bei Verwendung der vom Veranstalter herausgegeben Karten und private Karten der ersten Veranstaltungswoche. |
-| **20&nbsp;Pfennig** | Wie 10 Pfennig mit zusätzlicher Spende in Höhe von 10 Pfennig.                                                                                                                           |
-| **30&nbsp;Pfennig** | Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin, in der zweiten Woche, Verwendung für nicht vom Veranstalter herausgegebene Karten, Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug. |
-| **1&nbsp;Mark** | Überdruckte Vignette "- 1 Mark - gelber Hund" mit orangegelber Karte, Beförderungsanspruch per Flugzeug. Achtung bei Abstempelung 23.&nbsp;Juni&nbsp;1912, ersatzweise Beförderung mit dem Zeppelin, da vorgesehenes Flugzeug nicht einsatzfähig war. Da die Karte zusammen mit Luftpostvignette für den Betrag herausgegeben wurden, sind postfrische Exemplare relativ selten anzutreffen. |
-| **3&nbsp;Mark** | Rote nummerierte Karte, Beförderung per Flugzeug (2&nbsp;Mark zusätzliche Spende).                                                                                                                                                                                                                                                                                                           |
+| Betrag              | Leistung                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **10&nbsp;Pfennig** | Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug, bei Verwendung der vom Veranstalter herausgegeben Karten und private Karten der ersten Veranstaltungswoche.                                                                                                                                                                                                     |
+| **20&nbsp;Pfennig** | Wie 10 Pfennig mit zusätzlicher Spende in Höhe von 10 Pfennig.                                                                                                                                                                                                                                                                                                                               |
+| **30&nbsp;Pfennig** | Ursprünglich geplantes Porto für sämtliche Beförderungen mit dem Zeppelin, in der zweiten Woche, Verwendung für nicht vom Veranstalter herausgegebene Karten, Beförderungsanspruch mit dem Zeppelin, gelegentlich alternativ mit Flugzeug.                                                                                                                                                   |
+| **1&nbsp;Mark**     | Überdruckte Vignette "- 1 Mark - gelber Hund" mit orangegelber Karte, Beförderungsanspruch per Flugzeug. Achtung bei Abstempelung 23.&nbsp;Juni&nbsp;1912, ersatzweise Beförderung mit dem Zeppelin, da vorgesehenes Flugzeug nicht einsatzfähig war. Da die Karte zusammen mit Luftpostvignette für den Betrag herausgegeben wurden, sind postfrische Exemplare relativ selten anzutreffen. |
+| **3&nbsp;Mark**     | Rote nummerierte Karte, Beförderung per Flugzeug (2&nbsp;Mark zusätzliche Spende).                                                                                                                                                                                                                                                                                                           |
 
 ### Karten und sonstige Artikel des Veranstalters
 
@@ -143,7 +146,7 @@ Eine vollständige Garnitur der Michel-Nr. I bis VI lässt sich nur für die Ste
 
 ### Reichspostbriefmarken
 
-| Betrag              | Verwendung                                                                  |
+| Betrag              | Verwendung                                                                     |
 | ------------------- | ------------------------------------------------------------------------------ |
 | **3&nbsp;Pfennig**  | Drucksache Inland - in der Regel Verwendung der Michel-Nr. 84 braune Germania. |
 | **5&nbsp;Pfennig**  | Postkarte Inland - in der Regel mit Michel-Nr. 85 grüne Germania.              |
