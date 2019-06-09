@@ -84,11 +84,11 @@ Um missbräuchliche Verwendung zu vermeiden, mussten die Stempel mit Ablauf der 
 
 ### Stempelverbotskarten
 
-Den Postaufgabe- Sonderstempel sollte laut Anordnung des Reichspostamtes in Berlin nur die Reichspostmarke erhalten, die so genannte Luftmarke dagegen hatte, da sie eine private Ausgabe war, unentwertet zu bleiben. Aus Unachtsamkeit wurde diese Weisung von den Ober- Postdirektionen Frankfurt und Darmstadt so nicht weitergeben. In der Verfügung der Kaiserlichen Ober-Postdirektion Darmstadt vom Freitag, dem 07. Juni 1912 wurden die Kaiserlichen Postämter Darmstadt 1, Offenbach, Mainz 1, sowie Worms u.a. wie folgt angewiesen:
+Den Postaufgabe-Sonderstempel sollte laut Anordnung des Reichspostamtes in Berlin nur die Reichspostmarke erhalten, die so genannte Luftmarke dagegen hatte, da sie eine private Ausgabe war, unentwertet zu bleiben. Aus Unachtsamkeit wurde diese Weisung von den Ober- Postdirektionen Frankfurt und Darmstadt so nicht weitergeben. In der Verfügung der Kaiserlichen Ober-Postdirektion Darmstadt vom Freitag, dem 07. Juni 1912 wurden die Kaiserlichen Postämter Darmstadt 1, Offenbach, Mainz 1, sowie Worms u.a. wie folgt angewiesen:
 
 > „ \[...] Die mit den von der Zentrale als Luftpostkarten gekennzeichneten offiziellen Wohltätigkeits- Postkarten sind bei jeder Kastenleerung auszusondern, zu zählen und mit dem Sonderstempel sowohl auf dem Postwertzeichen als auch auf der Luftmarke deutlich zu bedrucken. \[...]"
 
-Daraufhin erhielt die Kaiserliche Ober- Postdirektion Frankfurt am Main vom Reichspostamt Berlin am 14. Juni 1912 folgendes Telegramm: 
+Daraufhin erhielt die Kaiserliche Ober-Postdirektion Frankfurt am Main vom Reichspostamt Berlin am 14. Juni 1912 folgendes Telegramm: 
 
 > „Wie in Erfahrung gebracht, wird in Darmstadt private Luftpostmarke auf Karten der Postkartenwoche mit amtlichen Aufgabestempel bedruckt. Falls diese unzulässige Abstempelung auch dort stattfindet, sofort einstellen." 
 
@@ -198,7 +198,7 @@ Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luf
 
 ### Offizielle Postkarten
 
-#### Fotos aus Darmstadt- Hessen
+#### Fotos aus Darmstadt-Hessen
 
 Hierbei handelt es sich um die neuesten Bilder der Großherzoglichen Familie, die im Jahre 1912 vom Hoffotografen Steinacker angefertigt wurden. Die Abbildungen beim Wenden der Karten erscheinen entweder normal oder kopfstehend. Drei Abbildungen weisen stehende Motive auf.
 
