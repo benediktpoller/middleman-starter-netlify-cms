@@ -234,6 +234,10 @@ Hierbei handelt es sich um die neuesten Bilder der Großherzoglichen Familie, di
 
 TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,7&nbsp;cm x 8,6&nbsp;cm etwas geringere Maße auf, als die anderen Karten der Veranstaltung, bei denen jeweils eine Orginalabmessung von 14,2&nbsp;cm x 9,5&nbsp;cm zu verzeichnen ist.
 
+![](https://ucarecdn.com/4e6c833e-5097-481d-ab23-80a23acbbf1e/)
+
+![](https://ucarecdn.com/b180f217-e859-4f7d-8858-fa9a7a0b5144/)
+
 ![](https://ucarecdn.com/46d46567-1247-4fe9-9af2-3d6dc626e5df/)
 
 * Familie - Großherzog mit Frau und beiden Söhnen
@@ -275,6 +279,8 @@ Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herz
 
 Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) gestaltet, welcher diese mit drei Motiven der Darmstädter Umgebung versehen hat. Die Kartenserie wird auch als so genannter **"bunter Hund"** bezeichnet.
 
+![](https://ucarecdn.com/b1a91cf6-51a1-4d7a-aa3e-815779d199a3/)
+
 <figure>
   <img src="https://ucarecdn.com/b4a17a24-0c3c-409d-be37-6f44c7a77ee4/-/crop/499x354/27,256/-/preview/" alt="Jagdschloss Wolfsgarten bei Langen (Hessen)">
   <figcaption>Jagdschloss Wolfsgarten bei Langen (Hessen)</figcaption>
@@ -289,6 +295,8 @@ Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) 
   <img src="https://ucarecdn.com/927d77b2-9991-46ab-bba0-d69005c135d0/-/crop/502x350/24,888/-/preview/" alt="Frankenstein (Eberstadt) vom Felsberg aus gesehen">
   <figcaption>Frankenstein (Eberstadt) vom Felsberg aus gesehen</figcaption>
 </figure>
+
+![](https://ucarecdn.com/76882618-3869-4252-a298-36ac757d48d1/)
 
 #### Flug-Post-Karten mit Ereignismotiven
 
