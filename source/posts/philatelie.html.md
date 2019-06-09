@@ -231,10 +231,12 @@ TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,
 
 Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
 
-![](https://ucarecdn.com/6e011e20-8a5e-46f9-a66e-713d9bd6a048/)
+<figure class="image">
+  <img src="https://ucarecdn.com/6e011e20-8a5e-46f9-a66e-713d9bd6a048/" alt="Hessische Prinzen (Söhne) an einem Korbtisch">
+  <figcaption>Hessische Prinzen (Söhne) an einem Korbtisch</figcaption>
+</figure>
 
 * Hessische Prinzen (Söhne) auf einem Balkon
-* Hessische Prinzen (Söhne) an einem Korbtisch
 * Großfürst Thronfolger von Russland und der Erbgroßherzog von Hessen (ältester Sohn) am Strand von Livadia (Krim)
 * Hessische Prinzen (Söhne) und russischer Thronfolger
 * Hessische Prinzen und russischer Thronfolger mit zwei seiner Schwestern
