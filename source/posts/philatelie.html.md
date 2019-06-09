@@ -35,9 +35,17 @@ Das Porto deckte die Luftschiffbeförderung ab, welche zunächst mit einheitlich
 
 ### Flugpostmarken - Vignetten des Veranstalters (mit Aufdruck)
 
-TODO Wie obige 10&nbsp;Pfennig Marke jedoch mit dunkelblauem Aufdruck "- 1 M. - Gelber Hund" mit Ausgabedatum 10. Juni 1912. 
+<figure>
+  <img src="https://ucarecdn.com/fd4f8dbb-89d3-45d6-bdac-becab24a75e4/" alt="10 Pfennig Marke mit dunkelblauem Aufdruck">
+  <figcaption>10&nbsp;Pfennig Marke mit dunkelblauem Aufdruck "- 1 M. - Gelber Hund"</figcaption>
+</figure>
 
 Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Marken mit schwarzem E.&nbsp;EL.&nbsp;P. Aufdruck verausgabt.
+
+<figure>
+  <img src="https://ucarecdn.com/b112e639-9cf4-4f54-bc7d-ddb7d1bff111/" alt="Marken mit schwarzem Aufdruck">
+  <figcaption>Marken mit schwarzem Aufdruck "E. EL. P."</figcaption>
+</figure>
 
 **Auflagen**
 
@@ -183,8 +191,8 @@ Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luf
 
 **Inschrift rückseitig**
 
-> _Stempel der Reichspost: Flugpost am Rhein u. Main * Beförderung durch Postluftschiff „Schwaben" * Flugpost am Rhein und Main * Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein_
-
+> _Stempel der Reichspost: Flugpost am Rhein u. Main  Beförderung durch Postluftschiff „Schwaben"  Flugpost am Rhein und Main * Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein_
+>
 > _Die wie üblich frankierte und mit Luftpostmarke (10 Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt._
 
 Der orangefarbene (sollte ursprünglich in gelber Ausfertigung, wie das Postflugzeug erscheinen) und rote Karton wurde zur besseren Unterscheidung für den Anspruch auf Flugzeugbeförderung herausgegeben. Diese Karten sollten beim Verteilen also auffallen. Der Druck der orangenen und roten Karten erfolgte im Buchdruck auf einseitig gerippten Kartonbahnen vorder- und rückseitig mit 16er Klischees in schwarz.
