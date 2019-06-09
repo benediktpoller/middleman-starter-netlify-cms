@@ -69,6 +69,8 @@ Unverzichtbar sind die anlässlich der Veranstaltung extra produzierten Sonderst
 
 Die Stempel Darmstadt unterscheiden sich noch in den Typ I (mit 9,7&nbsp;mm Strichlänge unter dem Datum) bzw. in den Typ II (11,25&nbsp;mm Strichlänge). Dieser Stempel auf den Belegen verkörperte die Garantie, dass ein Teil der Beförderung auf dem Luftwege stattgefunden hat.
 
+![](https://ucarecdn.com/6e474763-f80e-414b-983c-1c0b55d047c5/)
+
 ### Bordstempel (zusätzlich auf der Karte)
 
 Dem passionierten Zeppelinsammler ist es selbstverständlich bekannt, dass die Karten (nicht die Briefmarke selbst) mit privatem Bordstempel versehen wurden. Dieser Vorgang war im Jahre 1912, vor der offiziellen Einrichtung der späteren so genannten Postbetriebsstellen in den Zeppelinkabinen, noch nicht ganz so geläufig wie in der Folgezeit der Zeppelinepoche bis ins Katastrophenjahr 1937 (LZ 129 Hindenburg verbrannte am 6. Mai 1937 in Nordamerika beim Landeanflug auf den New Yorker Luftschiffflughafen Lakehurst). Dieser Stempel wurde an Bord des Luftschiffes (manchmal auch nachträglich) zur Kennzeichnung an Bord geschriebener oder aufgelieferter Post angebracht, hatte demnach keinen Entwertungs- sondern lediglich Dokumentationscharakter. Einige wenige Exemplare mit zusätzlichem Bordstempel existieren auch von der Flugpost am Rhein und Main. Bislang bekannt geworden sind Kombinationen mit Sonderstempel Darmstadt, Frankfurt am Main sowie Worms. Diese absolute Ausnahme stellt jeweils eine Rarität dar. Von den Bordstempeln existieren zwei verschiedene Typen. Obwohl hierzu teilweise auch Atteste der zuständigen Briefmarken&shy;verbandsprüfer vorliegen, gibt es zu dieser Verwendung auch kritische Stimmen mit nicht ganz von der Hand zu weisenden Argumenten.
@@ -232,6 +234,8 @@ Hierbei handelt es sich um die neuesten Bilder der Großherzoglichen Familie, di
 
 TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,7&nbsp;cm x 8,6&nbsp;cm etwas geringere Maße auf, als die anderen Karten der Veranstaltung, bei denen jeweils eine Orginalabmessung von 14,2&nbsp;cm x 9,5&nbsp;cm zu verzeichnen ist.
 
+![](https://ucarecdn.com/46d46567-1247-4fe9-9af2-3d6dc626e5df/)
+
 * Familie - Großherzog mit Frau und beiden Söhnen
 * Großherzog von Hessen in Uniform
 * Großherzogin von Hessen 
@@ -251,9 +255,15 @@ Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herz
   <figcaption>Hessische Prinzen (Söhne) an einem Korbtisch</figcaption>
 </figure>
 
+![](https://ucarecdn.com/0c9c5abd-13db-4553-b6a3-349a807f9996/)
 
+![](https://ucarecdn.com/85278de9-666d-4fb6-bb3c-448b24566e45/)
 
-![](https://ucarecdn.com/db50a212-4431-47c4-aa96-c63fa74be8ba/-/crop/1275x844/930,2997/-/preview/)
+![](https://ucarecdn.com/a30a3a14-c067-4f8f-8d78-b708abc71cb7/)
+
+![](https://ucarecdn.com/edc3f892-ef01-45d8-a1a0-738192e2b2ce/)
+
+![](https://ucarecdn.com/1240aef2-9007-4bab-b69d-3913d9ef1c34/)
 
 * Hessische Prinzen (Söhne) auf einem Balkon
 * Großfürst Thronfolger von Russland und der Erbgroßherzog von Hessen (ältester Sohn) am Strand von Livadia (Krim)
