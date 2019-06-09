@@ -174,27 +174,40 @@ Diese Karten stellte die Druckerei L. C. Wittlich in Darmstadt im Steindruckverf
 | **oranger Karton**              | 10.000 Stück  |
 | **roter Karton**                | 2.000 Stück   |
 
-![](https://ucarecdn.com/aa116d18-2374-46a1-ae47-a99f9d0d894b/)
-
-![](https://ucarecdn.com/09e7ed10-b8e2-43b7-aeb4-590231bbdd92/-/crop/583x374/24,20/-/preview/)
-
-![](https://ucarecdn.com/8e8dc4d1-877d-4554-83a5-2fd957652479/)
+Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luftschifftransport während der Veranstaltung dar.
 
 <figure class="image">
-  <img src="https://ucarecdn.com/7f5764c3-9c65-4949-9112-da61ea6b0f54/" alt="graubrauner (oliver) Karton">
-  <figcaption><strong>Inschrift rückseitig:</strong><br>Stempel der Reichspost: Flugpost am Rhein u. Main &bull; Beförderung durch Postluftschiff „Schwaben"<br>Flugpost am Rhein und Main &bull; Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein<br><br>Die wie üblich frankierte und mit Luftpostmarke (10&nbsp;Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt.
-</figcaption>
+  <img src="https://ucarecdn.com/09e7ed10-b8e2-43b7-aeb4-590231bbdd92/-/crop/583x374/24,20/-/preview/" alt="Graubrauner (oliver) Karton">
+  <figcaption>Graubrauner (oliver) Karton</figcaption>
 </figure>
 
-**TODO Inschrift rückseitig**
+**Inschrift rückseitig**
 
-_Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. - Die rote Flugzeugkarte ist nur in wenigen nummerierten Exemplaren hergestellt und wird nur in den Luftpostämtern verkauft. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 3 Mark) - Post-Flugmaschine_
+> _Stempel der Reichspost: Flugpost am Rhein u. Main * Beförderung durch Postluftschiff „Schwaben" * Flugpost am Rhein und Main * Eröffnung am 10. Juni 1912 zur Postkartenwoche der Großherzogin von Hessen und bei Rhein_
 
-**TODO Inschrift rückseitig**
+> _Die wie üblich frankierte und mit Luftpostmarke (10 Pf.) versehene Luftpostkarte (20 Pf.) ist in einen beliebigen Briefkasten der Reichspost zu werfen. Sie wird dann von der Reichspost mit dem Stempel „Flugpost am Rhein und Main" abgestempelt, einen Teil des Postweges durch das Postluftschiff befördert und alsdann an jede Adresse des Weltpostverkehrs versandt._
+
+Der orangefarbene (sollte ursprünglich in gelber Ausfertigung, wie das Postflugzeug erscheinen) und rote Karton wurde zur besseren Unterscheidung für den Anspruch auf Flugzeugbeförderung herausgegeben. Diese Karten sollten beim Verteilen also auffallen. Der Druck der orangenen und roten Karten erfolgte im Buchdruck auf einseitig gerippten Kartonbahnen vorder- und rückseitig mit 16er Klischees in schwarz.
+
+<figure class="image">
+  <img src="https://ucarecdn.com/aa116d18-2374-46a1-ae47-a99f9d0d894b/" alt="Oranger Karton">
+  <figcaption>Oranger Karton</figcaption>
+</figure>
+
+**Inschrift rückseitig**
+
+> _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. - Die rote Flugzeugkarte ist nur in wenigen nummerierten Exemplaren hergestellt und wird nur in den Luftpostämtern verkauft. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 3 Mark) - Post-Flugmaschine_
+
+Die roten Karten sind vorderseitig zusätzlich einzeln nummeriert. Die Paginierung der roten Karten erfolgte nach Zuschnitt in einem separaten Druckvorgang von Nr. 1 bis 2000. Als Abart sind wenige Karten mit Doppel- bzw. Schmitzdruck (Schattendruck) der Paginier-Nummern bekannt. **Nach Schätzungen sind über hundert Jahre nach der Veranstaltung noch circa 750 rotfarbige Karten erhalten geblieben.**
+
+<figure class="image">
+  <img src="https://ucarecdn.com/8e8dc4d1-877d-4554-83a5-2fd957652479/" alt="Roter Karton">
+  <figcaption>Roter Karton</figcaption>
+</figure>
+
+**Inschrift rückseitig**
 
 _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. Sie ist nur in einer kleinen Auflage erschienen. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 1 Mark) - Post-Flugmaschine_
-
-Die graubraunen Karten „oliver Hund" stellten die Standard-Grußkarten mit Luftschifftransport während der Veranstaltung dar. Der orangefarbene (sollte ursprünglich in gelber Ausfertigung, wie das Postflugzeug erscheinen) und rote Karton wurde zur besseren Unterscheidung für den Anspruch auf Flugzeugbeförderung herausgegeben. Diese Karten sollten beim Verteilen also auffallen. Der Druck der orangenen und roten Karten erfolgte im Buchdruck auf einseitig gerippten Kartonbahnen vorder- und rückseitig mit 16er Klischees in schwarz. Die roten Karten sind vorderseitig zusätzlich einzeln nummeriert. Die Paginierung der roten Karten erfolgte nach Zuschnitt in einem separaten Druckvorgang von Nr. 1 bis 2000. Als Abart sind wenige Karten mit Doppel- bzw. Schmitzdruck (Schattendruck) der Paginier-Nummern bekannt. **Nach Schätzungen sind über hundert Jahre nach der Veranstaltung noch circa 750 rotfarbige Karten erhalten geblieben.**
 
 ### Offizielle Postkarten
 
