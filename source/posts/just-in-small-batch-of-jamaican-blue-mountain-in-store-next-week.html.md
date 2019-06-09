@@ -16,9 +16,10 @@ Insoweit kommt der Initiatorin, Ihre Königliche Hoheit Großherzogin Eleonore v
 
 Bereits im Jahre 1906 wurde anlässlich der Geburt ihres Sohnes, Erbgroßherzog Georg Donatus, die „Ernst Ludwig und Eleonore-Stiftung" gegründet, welche die „Großherzogliche Zentrale für Mütter- und Säuglingsfürsorge", ausgestattet mit einem gezeichneten Grundvermögen von 50.000 Mark, ins Leben gerufen hatte und auch gegenwärtig noch als Trägerin einer Kinderklinik in Darmstadt fungiert. Da die Mittel des Stiftungsvermögens allein für den Zweck bei weitem nicht ausreichten, sind Spendensammlungen verschiedenster Art durchgeführt worden.
 
-![Eleonore Großherzogin von Hessen und bei Rhein (geb. Solms-Hohensolms-Lich) 1871-1937](/images/uploads/eleonore_zu_solms-hohensolms-lich_1871.jpg "Eleonore Großherzogin von Hessen und bei Rhein (geb. Solms-Hohensolms-Lich) 1871-1937")
-
-Eleonore Großherzogin von Hessen und bei Rhein (geb. Solms-Hohensolms-Lich) 1871-1937
+<figure class="image">
+  <img src="/images/uploads/eleonore_zu_solms-hohensolms-lich_1871.jpg" alt="Eleonore Großherzogin von Hessen und bei Rhein (geb. Solms-Hohensolms-Lich) 1871-1937">
+  <figcaption>Eleonore Großherzogin von Hessen und bei Rhein (geb. Solms-Hohensolms-Lich) 1871-1937</figcaption>
+</figure>
 
 In den Jahren 1907 bis 1909 wurden an so genannten Blumenverkaufstagen von Künstlern gestaltete Sonderkarten verausgabt. Im Jahre 1910 wurde von der Großherzoglichen Fürsorgezentrale eine anschriftenseitig nummerierte Serie von sechs schwarz-weiß Fotokarten mit Bildmotiven (anschriftenseitig schwarzem Druck) aus dem Leben der großherzoglichen Familie herausgegeben. Im Jahre 1911 erfolgte die Ausgabe von insgesamt bisher bekannt gewordenen 12 bildgleicher, bildlich geänderter, bzw. zusätzlicher Fotokarten mit anschriftenseitig braunfarbenem Druck. Der Popularität der großherzoglichen Familie wegen erfreuten sich die Karten 1910/1911 insgesamt großer Beliebtheit, so dass Restmengen auch im Rahmen der kurzfristig von einer Postkartenwoche in Flugwochen („Luftpostkarten-Verkaufstage") abgeänderte Veranstaltung von 1912 gelegentliche Verwendung fanden. Aus den Anfängen einer einzigen Künstlerkarte zum Blumentag 1907 wurden 1910 sechs und 1911 siebzehn, teils bildgleiche, Sonderkarten. Ein offizieller Verkaufstag war längst unzureichend. Deshalb entschied sich das „Patronat der Großherzoglichen Zentrale für Mutter- und Säuglingsfürsorge in Hessen" Anfang April 1912 mittels Sonderkuvert zu der Ankündigung einer „Postkartenwoche der Großherzogin" an alle Großherzoglichen Hessischen Kreisämter, welche mit einer Siegelmarke, einer Briefverschlussmarke versehen wurden. Es folgen weitere Anweisungen und Schriftwechsel mit den Oberpostdirektionen Darmstadt und Frankfurt sowie dem Reichspostamt Berlin. Bis zu diesem Zeitpunkt hatte sich die Reichspost mit derartigen Dingen nicht abgegeben, aber schließlich behandelte die Post die Wünsche der Großherzogin wohlwollend und beteiligte sich zum ersten Mal an einem Luftpostdienst. Das großherzogliche Paar weilte bei den Verwandten, der Zarenfamilie in Russland. Auf der Krim entstanden Aufnahmen von den Kindern beider Familien. Diese Bilder dienten später als Bildvorlagen. Dann passierte die Sensation. Am 04. Juni 1912 wurden die Kreisämter darüber unterrichtet, anstelle einer Postkartenwoche fände eine Flugpostkartenwoche mit eigenen Luftpostmarken statt. Die Unterrichtung der Presse erfolgte am 06. Juni 1912. Alles überschlug sich, so dass der angekündigte Beginn, Sonntag, der 09. Juni 1912 nicht mehr gehalten werden konnte. 
 
@@ -39,13 +40,15 @@ In einem Schreiben des Patronates (Regierungsrat Pistor) am 06. Juni 1912 an die
 
 > "Unikum für Markensammler. Die erste deutsche Luftpostmarke ist soeben erschienen und gelangt zur Postkartenwoche der Großherzogin von Hessen am 09. Juni erstmalig und nur für wenige Tage im Großherzogtum und in Frankfurt a. M. zur Ausgabe. Die von Prof. Kleukens entworfene Marke zeigt auf rotbraunem Grund als Symbol der Flugpost einen im Licht der aufgehenden Sonne über den Wolken schwebenden Phantasievogel. Die Auflage ist beschränkt; die Marken erhalten also einen besonderen Wert. Bedingung der Genehmigung des Reichspostamtes war die Garantie, dass alle Luftpostkarten wenigstens einen Teil des Postwegs durch die Luft zurücklegen (Postluftschiff "Schwaben"; Flugzeuge). Der Stempel der Reichspost lautet: "Flugpost am Rhein und Main, Frankfurt oder Darmstadt - (folgt Datum)". Die Flugpost befördert vom 9. Juni ab die offiziellen Karten, die in die Briefkästen der Reichspost zu werfen sind, überall hin. Die Postkartenwoche steht unter dem Patronate der Großherzogin von Hessen. Der Ertrag dient den von ihr verfolgten gemeinnützigen Zwecken (Anfragen unter Postkartenwoche, Altes Palais, Darmstadt)."
 
-![Siegelmarke auf Werbebrief](/images/uploads/siegel.jpg "Siegelmarke auf Werbebrief")
+<figure class="image">
+  <img src="/images/uploads/siegel.jpg" alt="Siegelmarke auf Werbebrief">
+  <figcaption>Siegelmarke auf Werbebrief</figcaption>
+</figure>
 
-Siegelmarke auf Werbebrief	
-
-![Werbeanzeige Darmstädter Tagblatt Montag, 10. Juni 1912](/images/uploads/anzeige.jpg "Werbeanzeige Darmstädter Tagblatt Montag, 10. Juni 1912")
-
-Werbeanzeige Darmstädter Tagblatt Montag, 10. Juni 1912		
+<figure class="image">
+  <img src="/images/uploads/anzeige.jpg" alt="Werbeanzeige Darmstädter Tagblatt Montag, 10. Juni 1912">
+  <figcaption>Werbeanzeige Darmstädter Tagblatt Montag, 10. Juni 1912</figcaption>
+</figure>	
 
 ### Örtlichkeiten
 
@@ -73,7 +76,7 @@ Von der Ober-Postdirektion Frankfurt am Main wurde der dortige Ober-Postinspekto
 
 > „Die Karten- und Markenverkaufsstelle im Laden Kaiserstraße 19 wird am Montag, 10 Juni 8 Uhr vormittags eröffnet werden. Sie ist werktäglich von 8 Uhr vormittags bis 8 Uhr nachmittags geöffnet, und in der Zeit von 8 Uhr vormittags bis 1 Uhr nachmittags sowie von 3 Uhr bis 8 Uhr nachmittags mit zwei Unterbeamten und in der Zeit von 1 Uhr bis 3 Uhr nachmittags mit einem Unterbeamten besetzt."
 
-Verkauf in Frankfurt am Main, Kaiserstraße 19
+TODO Verkauf in Frankfurt am Main, Kaiserstraße 19
 (Gebäude wurde im II. Weltkrieg zerstört)
 
 Lindemann betonte ferner, dass die Unterbeamten mit besonderer Sorgfalt ausgewählt worden waren. Das Postamt Frankfurt 9 war beauftragt, die Verkaufsstelle zu überwachen und nötigenfalls personell zu verstärken. Am Montag, dem 10. Juni 1912 um 7.30 Uhr, fand die geplante Übergabe der Karten und der Flugmarken von Dr. Rikoff an die Unterbeamten statt. Das Postamt Frankfurt 9 hatte die Verkaufsstelle mit einem Bestand an 5 und 10 Pf-Marken versehen. In den anderen Städten wurden die Vorbereitungen vermutlich in ähnlicher Weise getroffen. Von Seiten des Veranstalters waren in Offenbach am Main der Kreisarzt Lochmann, in Mainz der Provinzialdirektor Geh. Rat Dr. Breidert und in Worms der Oberbürgermeister Köhler und der Polizeiinspektor Bischoff verantwortlich. Nachdem bereits die Sonderstempel vom Patronat beschafft worden waren, mussten vom Veranstalter wenigstens keine besonderen Briefkästen bereit gestellt werden, welche die Genehmigungsverfügung des Reichs-Postamtes noch vorgesehen hatte. Diese kamen jedoch nicht zum Einsatz, da durch eine zweite Verfügung des RPA ausnahmsweise die Mitbenutzung der gewöhnlichen Straßenbriefkästen genehmigt wurde und diese Situation auch zur vereinzelten Verwendung von einfachen Ortsstempeln auf Luftpostkarten führte, welche versehentlich zunächst mit der regulären Post verwechselt worden sind. 
@@ -111,7 +114,10 @@ Das Ereignis wurde von einem respektablen Rahmenprogramm begleitet, welches die 
 
 Im **Programm für Darmstadt** heißt es:
 
-![Programm für Darmstadt](/images/uploads/programm.jpg "Programm für Darmstadt")
+<figure class="image">
+  <img src="/images/uploads/programm.jpg" alt="Programm für Darmstadt">
+  <figcaption>Programm für Darmstadt</figcaption>
+</figure>
 
 _**Sonntag, den 9. Juni 1912**: Eröffnung der **„Flugpost am Rhein und Main"** (reichspostalischer Stempel: „Flugpost am Rhein und Main"). Das Luftpostamt, Rheinstraße 14, ist offen von vormittags 11-1 Uhr. - Großes Konzert sämtlicher Militärkapellen der Haupt- und Residenzstadt Darmstadt bei dem Luftpostamt 11 - 12 ½ Uhr. (Konzertprogramm in den Tageszeitungen.) Luftpostwertzeichen. (Die wie **üblich frankierte** und mit der Luftpostmarke (10 Pfg.) versehene Postkarte kann in jeden Briefkasten der Reichspost geworfen werden; sie wird dann mit dem **Zeppelin-Postschiff „Schwaben"** durch die Luft befördert und darauf an jede beliebige Adresse des Weltpostverkehrs gesandt.) - Ausgabe der nur in kleiner Auflage erscheinenden **Flugzeugkarten**, befördert durch Leutnant von Hiddessen nach aufgedrucktem Postweg._
 
@@ -124,8 +130,6 @@ _**Mittwoch, den 12. Juni 1912: Mittags 12-1 Uhr**: Drei Militärkonzerte: Luise
 _**Donnerstag, den 13. Juni 1912 und Freitag, den 14. Juni 1912**: Verkauf der offiziellen Postkarten und Luftpostwertzeichen in den als Verkaufsstellen bezeichneten Läden._
 
 _**Samstag, den 15. oder Sonntag, den 16. Juni 1912: Wie am Mittwoch** (nach späterer Mitteilung)._ 
-
-- - -
 
 _Änderungen vorbehalten. Bei Regen und Sturm werden die Veranstaltungen vom 10., 12., 15. (16.) Juni auf einen anderen Tag der Woche verlegt, was durch Anschlag bekannt gegeben wird._
 
@@ -142,7 +146,6 @@ Für die Luftpostbeförderung existierte kein regulärer Fahrplan.
 
 Das Luftschiff verband aus wirtschaftlichen Gründen die Postbeutelbeförderung mit Passagierfahrten, wie sie entsprechend der vorliegenden Buchungen anfielen. Am 11. Juni traf das Luftschiff "Schwaben", von Baden-Oos kommend, um 09.30 Uhr in Frankfurt am Main ein. Am 12. Juni erfolgte zunächst eine Probefahrt nach Wiesbaden. Diese Fahrt diente unter anderem dazu, die Vorrichtungen für die Aufnahme bzw. Abgabe der Post in den anderen Orten zu testen. An einer Leine mit einem Haken sollten die 25 kg schweren Postsäcke, mit einem jeweiligen Fassungsvermögen von über 5 000 Karten, abgelassen bzw. aufgenommen werden. 
 
-
 Am gleichen Tage gegen 18.00 Uhr nahm das Luftschiff seine erste Postfahrt unter Mitführung der Reichs-Postflagge vom Rebstock-Gelände in Frankfurt am Main auf. Die Städte Offenbach am Main, Darmstadt und Mainz wurden bei dieser Fahrt angesteuert und sie endete wieder am Ausgangsort. In allen Städten wurde Post aufgenommen und abgelassen. Am nächsten Tag, dem 13. Juni, fuhr das Luftschiff nach Worms. 
 
 Während das Flugzeug zur Postübernahme, wie unten ausgeführt, regulär landete, kam das Luftschiff in niedriger Höhe, in der Luft schwebend, zum Stehen. Der Zeppelin warf die Postbeutel an Fallschirmen ab, während die aufzunehmenden Beutel an einem herabgelassenen Seil in die Kabine heraufgezogen wurden. Da dieses Verfahren erstmalig praktiziert wurde, war dies naturgemäß mit den üblichen Anfangsschwierigkeiten verbunden, was Auszüge aus den zeitgenössischen örtlichen Zeitungsberichten belegen: 
@@ -158,15 +161,14 @@ Hierbei wurde die eigentlich für das - jetzt defekte - Postflugzeug vorgesehene
 
 Das Flugzeug landete entsprechend der heutigen Vorstellung völlig normal, benötigte aber aufgrund der leichten Bauweise und des geringen Gewichts nur eine relativ kurze Start- und Landebahn. Für die Maschine sind folgende Flugzeiten überliefert worden:
 
-| Datum             | Zeit              | Start     | Ziel      |
-|-------------------|-------------------|-----------|-----------|
-| Mo, 10. Juni 1912 | 19.04 - 19.17 Uhr | Frankfurt | Darmstadt |
-| Do, 13. Juni 1912 | 15.39 - 15.55 Uhr | Darmstadt | Worms     |
-| Do, 13. Juni 1912 | 18.35 - 19.15 Uhr | Worms     | Mainz     |
-| Mo, 17. Juni 1912 | 16.10 - 16.30 Uhr | Mainz     | Frankfurt |
-| Sa, 22. Juni 1912 | 07.32 - 08.00 Uhr | Frankfurt | Darmstadt |
-| Sa, 22. Juni 1912 | 19.22 - 19.37 Uhr | Darmstadt | Frankfurt |
-
+| Datum             | Zeit              | Strecke               |
+|-------------------|-------------------|-----------------------|
+| Mo, 10. Juni 1912 | 19.04 - 19.17 Uhr | Frankfurt - Darmstadt |
+| Do, 13. Juni 1912 | 15.39 - 15.55 Uhr | Darmstadt - Worms     |
+| Do, 13. Juni 1912 | 18.35 - 19.15 Uhr | Worms - Mainz         |
+| Mo, 17. Juni 1912 | 16.10 - 16.30 Uhr | Mainz - Frankfurt     |
+| Sa, 22. Juni 1912 | 07.32 - 08.00 Uhr | Frankfurt - Darmstadt |
+| Sa, 22. Juni 1912 | 19.22 - 19.37 Uhr | Darmstadt - Frankfurt |
 
 Die Pausen waren in dem Maße nicht eingeplant, sondern der Flugplan dünnte sich zwangsläufig durch kleinere Schäden und Defekte an der Maschine aus. Die letzte geplante Fahrt am 23. Juni 1912 konnte überhaupt nicht mehr durchgeführt werden, statt dessen musste ausnahmsweise das Luftschiff den Transport übernehmen, auch soweit „gelbe" oder „rote Hunde" aufgeliefert worden waren.
 
@@ -176,7 +178,8 @@ Nach rund einhundert Jahre späterer vorherrschender Ansicht verliert die Luftpo
 
 Was wäre ein öffentliches Ereignis ohne Preisausschreiben? Zum Abschluss der Veranstaltung hin wurden Restbestände der Marken zu 10 Pf. und 20. Pf. mit schwarzem Preisrätselaufdruck "E. EL. P." versehen und ab 22. Juni vertrieben. Unklar bleibt bisher, ob die hierfür vorgesehenen Marken bereits zuvor reserviert worden waren, oder der Geistesblitz während der Veranstaltung gekommen ist, also echte Restbestände verwertet wurden. Wie dem auch sei, es galt, die Bedeutung der vier Buchstaben zu erraten. Immerhin 600 als Luftpostkarten und an die "Flugpost Darmstadt" adressierten Lösungen gingen beim Veranstalter ein. Für die richtige Lösung war eine Zeppelin-Freifahrt im Werte von 250 Mark ausgesetzt. Nach der Überlieferung war durch die irreführende Anordnung der Punkte in dem Aufdruck die Lösung erschwert worden, weil nur ein Preis zur Verfügung stand und deshalb, wenn möglich, nur eine richtige Lösung eingehen sollte. Falls richtige Lösungen von mehreren Personen eingingen, sollte der Preis in Höhe von 250 Mark nach Köpfen aufgeteilt und bar ausgezahlt werden, die Luftschifffreifahrt also entfallen. Ging keine richtige Lösung ein, verfiel der Preis der Armenkasse. 
 
-Eine der 600 eingesendeten Karten.	
+TODO Eine der 600 eingesendeten Karten.	
+
 Richtig war die Lösung **E**X **E**ST **L**UFT**P**OST (übersetzt: Aus ist Luftpost). Nur einmal ging diese ein, und zwar von Fräulein Lilli Eiermann aus Nürnberg, auf dem Luftweg mit Sonderstempel Frankfurt (Main), 23.6.1912, übermittelt. Soweit die offizielle Version. 
 
 Klare Überlegung hierbei, der Veranstalter war daran interessiert, nur eine richtige Antwort zu bekommen, sonst hätte der Betrag entweder der Armenkasse zugeführt, oder aber unter den mehreren Gewinnern aufgeteilt werden müssen. Der Freiplatz ließ sich dagegen leicht zu günstigeren Konditionen einschieben. Daher ist es eher wahrscheinlich, dass die Lösung erst im Nachhinein zu der richtigen erklärt wurde. Denn dass der Veranstalter einen derart kuriosen, eher sinnfreien Satz, der zudem noch lateinische Begriffe enthält, vorgab und dazu noch eine entsprechende Lösung einging, ist weniger wahrscheinlich als ein Hauptgewinn im Lotto. Deshalb wurde mitunter spekuliert, dass die Lösung der Gewinnerin zuvor verraten worden sei. Was die Buchstaben wohl wirklich bedeutet haben, erklärt sich aus dem Namen der Schirmherren, des hessischen Großherzogpaares, und dem der Veranstaltung: E.EL.P. hieß mit hoher Wahrscheinlichkeit "Eleonore-Ernst-Ludwig-Postkartenwoche". Und deshalb wurde diese Deutung auch viel zu häufig als Lösung eingesandt. Gleichwohl wird hier die offizielle Version vertreten, auch wenn bestimmt ein kleiner Schwindel dahinter steckt.
