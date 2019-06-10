@@ -119,7 +119,7 @@ Der Vollständigkeit sei erwähnt, dass auch aus anderen Gründen in Frankfurt b
 
 ### Stempelfehler
 
-Natürlich sind im Eifer des Gefechts auch Fehler aufgetreten, die auf menschliches Versagen zurückzuführen sind und teilweise sehr gesuchte Unikate darstellen. Beispielsweise fehlen Daten oder es liegen diesbezügliche Verwechslungen vor. Diese sind überwiegend aus Darmstadt und Mainz bekannt. Bekannt aus Darmstadt sein 2 Exemplare mit Stempeldatum 21.12.6 (statt 21.6.12).
+Natürlich sind im Eifer des Gefechts auch Fehler aufgetreten, die auf menschliches Versagen zurückzuführen sind und teilweise sehr gesuchte Unikate darstellen. Beispielsweise fehlen Daten oder es liegen diesbezügliche Verwechslungen vor. Diese sind überwiegend aus Darmstadt und Mainz bekannt. Bekannt aus Darmstadt sind 2 Exemplare mit Stempeldatum 21.12.6 (anstatt 21.6.12).
 
 ### Stempel-Vorkommen
 
