@@ -229,6 +229,15 @@ Die roten Karten sind vorderseitig zusätzlich einzeln nummeriert. Die Paginieru
 
 _Die Flugpost am Rhein und Main wurde am 10. Juni 1912 unter dem Protektorat der Großherzogin von Hessen und bei Rhein eröffnet. Diese Karte wird auf dem Luftweg durch Leutnant von Hiddessen vom Leib-Dragoner-Regiment (2. Großherzogliches Hessisches) Nr. 24 mit einer Euler-Flugmaschine „Gelber Hund" befördert. Sie ist nur in einer kleinen Auflage erschienen. Garantierter Flug-Post-Weg: Frankfurt a. M. - Darmstadt, oder Darmstadt - Worms, oder Worms - Mainz, oder Mainz - Frankfurt a. M. (Porto 1 Mark) - Post-Flugmaschine_
 
+### Flugpost-Karte mit Bayernmarken
+
+In Bayern wurden vorgefertigte Flugpost-Karten mit Bayernmarken aufgegeben, in den fünf vorgenannten Etappen- Städten aussortiert und die Flugpostmarken wurden mit dem jeweiligen Veranstaltungssonder- Stempel entwertet. 
+
+<figure>
+  <img src="https://ucarecdn.com/93e3b769-1dd9-41ea-9a87-08c043888f28/" alt="Flugpost-Karte mit Bayernmarke vom 13. Juni 1912 aus Kempten im Allgäu">
+  <figcaption>Flugpost-Karte mit Bayernmarke vom 13. Juni 1912 aus Kempten im Allgäu</figcaption>
+</figure>
+
 ### Offizielle Postkarten
 
 #### Fotos aus Darmstadt-Hessen
