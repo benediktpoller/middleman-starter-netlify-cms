@@ -315,6 +315,8 @@ Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) 
 
 Nach den ersten Tagen kamen weitere sechs Karten mit Fotos der Veranstaltung von Susanne Homann zur Ausgabe, welche in Darmstadt, auf dem damaligen Exerzierplatz anlässlich der ersten Flugpostbeförderungen am Montag, dem 10. Juni 1912 (Flugzeug) sowie am Mittwoch, dem 12. Juni 1912 (Luftschiff) aufgenommen wurden. 
 
+![](https://ucarecdn.com/dca6c742-7b9b-4cc2-b79f-d589e28fafcd/)
+
 <figure>
   <img src="/images/uploads/s629323-1.jpg" alt="Luftpostamt II">
   <figcaption>Luftpostamt II (Exerzierplatz) Darmstadt, Juni 1912.</figcaption>
@@ -394,6 +396,8 @@ TODO Blankoanschriftenseite der Karten 1910
 
 * Ernst Ludwig und Eleonore (bildgleich wie 1911)
 * Erbherzog Georg und Prinz Ludwig (bildgleich wie 1911)
+
+![](https://ucarecdn.com/8aeb6249-8e07-4928-973f-86475ae7002e/)
 
 <figure>
   <img src="https://ucarecdn.com/b72f5e43-e6bf-4664-a114-e9a728b754c0/" alt="Ernst Ludwig, Großherzog von Hessen (bildgleich wie 1911)">
