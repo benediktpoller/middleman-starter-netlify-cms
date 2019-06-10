@@ -236,14 +236,22 @@ TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,
 
 ![](https://ucarecdn.com/4e6c833e-5097-481d-ab23-80a23acbbf1e/)
 
-![](https://ucarecdn.com/b180f217-e859-4f7d-8858-fa9a7a0b5144/)
+<figure>
+  <img src="https://ucarecdn.com/46d46567-1247-4fe9-9af2-3d6dc626e5df/" alt="Familie - Großherzog mit Frau und beiden Söhnen">
+  <figcaption>Familie - Großherzog mit Frau und beiden Söhnen</figcaption>
+</figure>
 
-![](https://ucarecdn.com/46d46567-1247-4fe9-9af2-3d6dc626e5df/)
+<figure>
+  <img src="https://ucarecdn.com/b180f217-e859-4f7d-8858-fa9a7a0b5144/" alt="Großherzogin von Hessen">
+  <figcaption>Großherzogin von Hessen</figcaption>
+</figure>
 
-* Familie - Großherzog mit Frau und beiden Söhnen
 * Großherzog von Hessen in Uniform
-* Großherzogin von Hessen 
-* Hessische Prinzen (Söhne) im Sommerkleidung
+
+<figure>
+  <img src="https://ucarecdn.com/fb6883aa-75c5-4a71-a948-a54e8b55d7d4/" alt="Hessische Prinzen (Söhne) im Sommerkleidung">
+  <figcaption>Hessische Prinzen (Söhne) im Sommerkleidung</figcaption>
+</figure>
 
 <figure>
   <img src="https://ucarecdn.com/efc93b99-6fb2-4347-baad-072c74a9660e/" alt="Hessische Prinzen (Söhne) in Kosaken-Uniform">
@@ -259,30 +267,37 @@ Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herz
   <figcaption>Hessische Prinzen (Söhne) an einem Korbtisch</figcaption>
 </figure>
 
-![](https://ucarecdn.com/0c9c5abd-13db-4553-b6a3-349a807f9996/)
+<figure>
+  <img src="https://ucarecdn.com/0c9c5abd-13db-4553-b6a3-349a807f9996/" alt="Hessische Prinzen und russischer Thronfolger mit seinen vier Schwestern">
+  <figcaption>Hessische Prinzen und russischer Thronfolger mit seinen vier Schwestern</figcaption>
+</figure>
 
-![](https://ucarecdn.com/85278de9-666d-4fb6-bb3c-448b24566e45/)
+<figure>
+  <img src="https://ucarecdn.com/85278de9-666d-4fb6-bb3c-448b24566e45/" alt="Großfürst Thronfolger von Russland und der Erbgroßherzog von Hessen (ältester Sohn) am Strand von Livadia (Krim)">
+  <figcaption>Großfürst Thronfolger von Russland und der Erbgroßherzog von Hessen (ältester Sohn) am Strand von Livadia (Krim)</figcaption>
+</figure>
 
-![](https://ucarecdn.com/a30a3a14-c067-4f8f-8d78-b708abc71cb7/)
+<figure>
+  <img src="https://ucarecdn.com/a30a3a14-c067-4f8f-8d78-b708abc71cb7/" alt="Hessische Prinzen (Söhne) auf einem Balkon">
+  <figcaption>Hessische Prinzen (Söhne) auf einem Balkon</figcaption>
+</figure>
 
-![](https://ucarecdn.com/edc3f892-ef01-45d8-a1a0-738192e2b2ce/)
+<figure>
+  <img src="https://ucarecdn.com/edc3f892-ef01-45d8-a1a0-738192e2b2ce/" alt="Hessische Prinzen (Söhne) und russischer Thronfolger">
+  <figcaption>Hessische Prinzen (Söhne) und russischer Thronfolger</figcaption>
+</figure>
 
-![](https://ucarecdn.com/1240aef2-9007-4bab-b69d-3913d9ef1c34/)
-
-* Hessische Prinzen (Söhne) auf einem Balkon
-* Großfürst Thronfolger von Russland und der Erbgroßherzog von Hessen (ältester Sohn) am Strand von Livadia (Krim)
-* Hessische Prinzen (Söhne) und russischer Thronfolger
-* Hessische Prinzen und russischer Thronfolger mit zwei seiner Schwestern
-* Hessische Prinzen und russischer Thronfolger mit seinen vier Schwestern
+<figure>
+  <img src="https://ucarecdn.com/1240aef2-9007-4bab-b69d-3913d9ef1c34/" alt="Hessische Prinzen und russischer Thronfolger mit zwei seiner Schwestern">
+  <figcaption>Hessische Prinzen und russischer Thronfolger mit zwei seiner Schwestern</figcaption>
+</figure>
 
 #### Postkarten mit farbigen Bildmotiven
 
 Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) gestaltet, welcher diese mit drei Motiven der Darmstädter Umgebung versehen hat. Die Kartenserie wird auch als so genannter **"bunter Hund"** bezeichnet.
 
-![](https://ucarecdn.com/b1a91cf6-51a1-4d7a-aa3e-815779d199a3/)
-
 <figure>
-  <img src="https://ucarecdn.com/b4a17a24-0c3c-409d-be37-6f44c7a77ee4/-/crop/499x354/27,256/-/preview/" alt="Jagdschloss Wolfsgarten bei Langen (Hessen)">
+  <img src="https://ucarecdn.com/b1a91cf6-51a1-4d7a-aa3e-815779d199a3/" alt="Jagdschloss Wolfsgarten bei Langen (Hessen)">
   <figcaption>Jagdschloss Wolfsgarten bei Langen (Hessen)</figcaption>
 </figure>
 
@@ -292,11 +307,9 @@ Die farbigen Bildkarten wurden von dem Jugendstilmaler Eugen Bracht (1842-1921) 
 </figure>
 
 <figure>
-  <img src="https://ucarecdn.com/927d77b2-9991-46ab-bba0-d69005c135d0/-/crop/502x350/24,888/-/preview/" alt="Frankenstein (Eberstadt) vom Felsberg aus gesehen">
+  <img src="https://ucarecdn.com/76882618-3869-4252-a298-36ac757d48d1/" alt="Frankenstein (Eberstadt) vom Felsberg aus gesehen">
   <figcaption>Frankenstein (Eberstadt) vom Felsberg aus gesehen</figcaption>
 </figure>
-
-![](https://ucarecdn.com/76882618-3869-4252-a298-36ac757d48d1/)
 
 #### Flug-Post-Karten mit Ereignismotiven
 
