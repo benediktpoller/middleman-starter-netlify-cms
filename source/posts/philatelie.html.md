@@ -244,7 +244,7 @@ In Bayern wurden vorgefertigte Flugpost-Karten mit Bayernmarken aufgegeben, in d
 
 Hierbei handelt es sich um die neuesten Bilder der Großherzoglichen Familie, die im Jahre 1912 vom Hoffotografen Steinacker angefertigt wurden. Die Abbildungen beim Wenden der Karten erscheinen entweder normal oder kopfstehend. Drei Abbildungen weisen stehende Motive auf.
 
-TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,7&nbsp;cm x 8,6&nbsp;cm etwas geringere Maße auf, als die anderen Karten der Veranstaltung, bei denen jeweils eine Orginalabmessung von 14,2&nbsp;cm x 9,5&nbsp;cm zu verzeichnen ist.
+Die Karten weisen mit den Originalabmessungen von 13,7&nbsp;cm x 8,6&nbsp;cm etwas geringere Maße auf, als die anderen Karten der Veranstaltung, bei denen jeweils eine Orginalabmessung von 14,2&nbsp;cm x 9,5&nbsp;cm zu verzeichnen ist.
 
 ![](https://ucarecdn.com/4e6c833e-5097-481d-ab23-80a23acbbf1e/)
 
@@ -268,14 +268,17 @@ TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,
   <figcaption>Hessische Prinzen (Söhne) im Sommerkleidung</figcaption>
 </figure>
 
-#### Fotos aus der Krim-Russland
-
-Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
-
 <figure>
   <img src="https://ucarecdn.com/efc93b99-6fb2-4347-baad-072c74a9660e/" alt="Hessische Prinzen (Söhne) in Kosaken-Uniform">
   <figcaption>Hessische Prinzen (Söhne) in Kosaken-Uniform</figcaption>
 </figure>
+
+#### Fotos aus der Krim-Russland
+
+Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
+
+Die Karten weisen mit den Originalabmessungen von 13,7&nbsp;cm x 8,6&nbsp;cm etwas geringere Maße auf, als die anderen Karten der Veranstaltung, bei denen jeweils eine Orginalabmessung von 14,2&nbsp;cm x 9,5&nbsp;cm zu verzeichnen ist.
+
 
 <figure>
   <img src="https://ucarecdn.com/6e011e20-8a5e-46f9-a66e-713d9bd6a048/" alt="Hessische Prinzen (Söhne) an einem Korbtisch">
