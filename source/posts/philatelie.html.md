@@ -112,11 +112,14 @@ Diesem Antrag wurde sodann entsprochen. Der telegrafische Schriftwechsel mit dem
 
 Der Vollständigkeit sei erwähnt, dass auch aus anderen Gründen in Frankfurt bereits ab 10. Juni 1912 als nicht flugpostbeförderungswürdig (z.B. gewöhnliche Postkarten) bestimmten Postbelege als Stempelverbotskarten bezeichnet werden.
 
-TODO Stempelverbotskarte Worms 15.06.1912
+<figure>
+  <img src="https://ucarecdn.com/05d3959e-7541-4c55-b359-a1c18b2dd3b9/" alt="Stempelverbotskarte Offenbach 15.06.1912">
+  <figcaption>Stempelverbotskarte Offenbach 15.06.1912</figcaption>
+</figure>
 
 ### Stempelfehler
 
-Natürlich sind im Eifer des Gefechts auch Fehler aufgetreten, die auf menschliches Versagen zurückzuführen sind und teilweise sehr gesuchte Unikate darstellen. Beispielsweise fehlen Daten oder es liegen diesbezügliche Verwechslungen vor. Diese sind überwiegend aus Darmstadt und Mainz bekannt.
+Natürlich sind im Eifer des Gefechts auch Fehler aufgetreten, die auf menschliches Versagen zurückzuführen sind und teilweise sehr gesuchte Unikate darstellen. Beispielsweise fehlen Daten oder es liegen diesbezügliche Verwechslungen vor. Diese sind überwiegend aus Darmstadt und Mainz bekannt. Bekannt aus Darmstadt sein 2 Exemplare mit Stempeldatum 21.12.6 (statt 21.6.12).
 
 ### Stempel-Vorkommen
 
@@ -246,21 +249,24 @@ TODO Die Karten zu den Tz db) und dc) weisen mit den Originalabmessungen von 13,
   <figcaption>Großherzogin von Hessen</figcaption>
 </figure>
 
-* Großherzog von Hessen in Uniform
+<figure>
+  <img src="https://ucarecdn.com/4b2c268b-609a-4196-892e-3b438889eddd/" alt="Großherzog von Hessen in Uniform">
+  <figcaption>Großherzog von Hessen in Uniform</figcaption>
+</figure>
 
 <figure>
   <img src="https://ucarecdn.com/fb6883aa-75c5-4a71-a948-a54e8b55d7d4/" alt="Hessische Prinzen (Söhne) im Sommerkleidung">
   <figcaption>Hessische Prinzen (Söhne) im Sommerkleidung</figcaption>
 </figure>
 
+#### Fotos aus der Krim-Russland
+
+Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
+
 <figure>
   <img src="https://ucarecdn.com/efc93b99-6fb2-4347-baad-072c74a9660e/" alt="Hessische Prinzen (Söhne) in Kosaken-Uniform">
   <figcaption>Hessische Prinzen (Söhne) in Kosaken-Uniform</figcaption>
 </figure>
-
-#### Fotos aus der Krim-Russland
-
-Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
 
 <figure>
   <img src="https://ucarecdn.com/6e011e20-8a5e-46f9-a66e-713d9bd6a048/" alt="Hessische Prinzen (Söhne) an einem Korbtisch">
