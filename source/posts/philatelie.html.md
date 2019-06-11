@@ -53,6 +53,8 @@ Der kopfstehende Aufdruck ist sehr selten. Auflage nur 200 Stück.
 
 Ürsprünglich geplant war der Aufdruck auf 100er Bögen der in orange gedruckten 10 Pf. Flugpostmarke - des Flugzeugnames wegen - in gelb. Ausgeführt an einem Bogen, erfolgte wegen schlechter Sichtbarkeit auf orange die Änderung der Aufdruckfarbe von gelb auf blau. Daraufhin wurde, der Erstbogen mit 100x Gelb-Aufdruck nochmals und 299 noch unbedruckter 100er-Bögen mit blauem "1M/Gelber Hund" Aufdruck versehen.
 
+![](https://ucarecdn.com/9ff8b8a6-df20-4a23-9b67-66b8c8922033/-/crop/585x779/1856,366/-/preview/)
+
 #### Aufdruck E. EL. P.
 
 Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Marken mit schwarzem E.&nbsp;EL.&nbsp;P. Aufdruck verausgabt.
