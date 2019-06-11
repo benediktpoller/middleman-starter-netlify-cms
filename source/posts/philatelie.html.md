@@ -121,6 +121,11 @@ Der Vollständigkeit sei erwähnt, dass auch aus anderen Gründen in Frankfurt b
 
 Natürlich sind im Eifer des Gefechts auch Fehler aufgetreten, die auf menschliches Versagen zurückzuführen sind und teilweise sehr gesuchte Unikate darstellen. Beispielsweise fehlen Daten oder es liegen diesbezügliche Verwechslungen vor. Diese sind überwiegend aus Darmstadt und Mainz bekannt. Bekannt aus Darmstadt sind 2 Exemplare mit Stempeldatum 21.12.6 (anstatt 21.6.12).
 
+<figure>
+  <img src="https://ucarecdn.com/72b00ef5-564e-454b-a7d5-762d2fc01178/" alt="Aufdruck kopfstehend">
+  <figcaption>Aufdruck "Gelber Hund" - kopfstehend</figcaption>
+</figure>
+
 ### Stempel-Vorkommen
 
 Nach Schätzungen tragen von den beförderten Belegen folgende Stempelabschläge (ingesamt 460.700):
@@ -278,7 +283,6 @@ Die Karten weisen mit den Originalabmessungen von 13,7&nbsp;cm x 8,6&nbsp;cm etw
 Die Aufnahmen entstanden wohl im April 1912, während eines Aufenthalts der herzoglichen Paares bei Verwandten, der Zarenfamilie, auf der Krim und zeigen die Kinder beider Familien.
 
 Die Karten weisen mit den Originalabmessungen von 13,7&nbsp;cm x 8,6&nbsp;cm etwas geringere Maße auf, als die anderen Karten der Veranstaltung, bei denen jeweils eine Orginalabmessung von 14,2&nbsp;cm x 9,5&nbsp;cm zu verzeichnen ist.
-
 
 <figure>
   <img src="https://ucarecdn.com/6e011e20-8a5e-46f9-a66e-713d9bd6a048/" alt="Hessische Prinzen (Söhne) an einem Korbtisch">
