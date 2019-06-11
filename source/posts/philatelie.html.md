@@ -40,6 +40,21 @@ Das Porto deckte die Luftschiffbeförderung ab, welche zunächst mit einheitlich
   <figcaption>10&nbsp;Pfennig Marke mit dunkelblauem Aufdruck "- 1 M. - Gelber Hund"</figcaption>
 </figure>
 
+#### Kopfstehender Audruck
+
+Der kopfstehende Aufdruck ist sehr selten. Auflage nur 200 Stück.
+
+<figure>
+  <img src="https://ucarecdn.com/ca35c2bc-6f80-45f8-8813-74b9febaf057/" alt="Aufdruck kopfstehend">
+  <figcaption>Aufdruck "Gelber Hund" - kopfstehend</figcaption>
+</figure>
+
+#### Aufdruck in gelb und in blau
+
+Ürsprünglich geplant war der Aufdruck auf 100er Bögen der in orange gedruckten 10 Pf. Flugpostmarke - des Flugzeugnames wegen - in gelb. Ausgeführt an einem Bogen, erfolgte wegen schlechter Sichtbarkeit auf orange die Änderung der Aufdruckfarbe von gelb auf blau. Daraufhin wurde, der Erstbogen mit 100x Gelb-Aufdruck nochmals und 299 noch unbedruckter 100er-Bögen mit blauem "1M/Gelber Hund" Aufdruck versehen.
+
+#### Aufdruck E. EL. P.
+
 Ab dem vorletzten Veranstaltungstag am 22. Juni 1912 wurden schließlich noch Marken mit schwarzem E.&nbsp;EL.&nbsp;P. Aufdruck verausgabt.
 
 <figure>
@@ -120,11 +135,6 @@ Der Vollständigkeit sei erwähnt, dass auch aus anderen Gründen in Frankfurt b
 ### Stempelfehler
 
 Natürlich sind im Eifer des Gefechts auch Fehler aufgetreten, die auf menschliches Versagen zurückzuführen sind und teilweise sehr gesuchte Unikate darstellen. Beispielsweise fehlen Daten oder es liegen diesbezügliche Verwechslungen vor. Diese sind überwiegend aus Darmstadt und Mainz bekannt. Bekannt aus Darmstadt sind 2 Exemplare mit Stempeldatum 21.12.6 (anstatt 21.6.12).
-
-<figure>
-  <img src="https://ucarecdn.com/72b00ef5-564e-454b-a7d5-762d2fc01178/" alt="Aufdruck kopfstehend">
-  <figcaption>Aufdruck "Gelber Hund" - kopfstehend</figcaption>
-</figure>
 
 ### Stempel-Vorkommen
 
