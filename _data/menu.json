@@ -1,0 +1,36 @@
+{
+  "top": [{
+      "text": "Home",
+      "path": "/"
+    },
+    {
+      "text": "IT-Wartung",
+      "path": "/directory/"
+    },
+    {
+      "text": "IT Systemhandel",
+      "path": "/gallery/"
+    },
+    {
+      "text": "Leasing",
+      "path": "/data/"
+    },
+    {
+      "text": "SaaS",
+      "path": "/docs/"
+    },
+    {
+      "text": "Kontakt",
+      "path": "/contact/"
+    }
+  ],
+  "left": [{
+      "text": "Home",
+      "path": "/"
+    },
+    {
+      "text": "IT-Wartung",
+      "path": "/directory/"
+    }
+  ]
+}

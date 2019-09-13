@@ -1,0 +1,25 @@
+services:
+  - body: Bis zu 60% weniger Wartungskosten im Vergleich zum Hersteller.
+    icon: fa-cutlery
+    title: IT Wartung
+  - body: 'Refurbished Hardware: Um bis zu 70% günstiger als eine Neuanschaffung'
+    icon: fa-bullhorn
+    title: IT Systemhandel
+  - body: >-
+      Das Erfolgskonzept von RadarServices jetzt speziell für Unternehmen mit
+      bis zu 500 Mitarbeitern
+    icon: fa-plus
+    title: Radar Smart Solution
+  - body: >-
+      Professionelle Unterstützung bei der Implementierung eines
+      Managementsystems bis hin zur Zertifizierung
+    icon: fa-music
+    title: ISO-Zertifizierung
+  - body: >-
+      Günstiges Leasing ermöglicht Ihnen die Anschaffung smarter Technologie
+      ohne Kapitalbindung.
+    icon: fa-print
+    title: Leasing
+  - body: '5×5: Lukrieren Sie zusätzlich bis zu 25% Ihres geplanten IT Budgets'
+    icon: fa-wifi
+    title: 5x5
