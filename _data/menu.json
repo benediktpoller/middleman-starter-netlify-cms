@@ -4,24 +4,16 @@
       "path": "/"
     },
     {
-      "text": "IT-Wartung",
+      "text": "Veranstaltung",
       "path": "/directory/"
     },
     {
-      "text": "IT Systemhandel",
+      "text": "Technik",
       "path": "/gallery/"
     },
     {
-      "text": "Leasing",
+      "text": "Philatelie",
       "path": "/data/"
-    },
-    {
-      "text": "SaaS",
-      "path": "/docs/"
-    },
-    {
-      "text": "Kontakt",
-      "path": "/contact/"
     }
   ],
   "left": [{
