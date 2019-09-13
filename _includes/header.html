@@ -1,38 +1,65 @@
 <!-- Header Start -->
 <header>
-<div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <!-- header Nav Start -->
-      <nav class="navbar navbar-default">
-        <div class="container-fluid">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}/index.html">
-              Flugpost am Rhein und am Main
-            </a>
-          </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav navbar-right">
-                {% for item in site.data.menu.top %}
-                  {% if page.permalink == item.path %}
-                    <li class="active"><a href="{{ site.baseurl }}{{item.path}}" class="active">{{item.text}}</a></li>
-                  {% else %}
-                  <li><a href="{{ site.baseurl }}{{item.path}}">{{item.text}}</a></li>
-                  {% endif %}
-                {% endfor %}
-              </ul>
-            </div><!-- /.navbar-collapse -->
-          </div><!-- /.container-fluid -->
-        </nav>
-      </div>
+
+    <style>
+        .h4, h4 {
+            font-size: 26px;
+            margin-top: 43px;
+            margin-bottom: 17px;
+        }
+
+        p {
+            font-size: 20px;
+            line-height: 34px;
+            margin: 32px 0;
+        }
+
+        blockquote {
+            padding: 10px 20px;
+            margin: 0 4% 20px;
+            font-size: 17.5px;
+            border-left: 5px solid #eee;
+            font-style: italic;
+            line-height: 2;
+            background: antiquewhite;
+        }
+    </style>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <!-- header Nav Start -->
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                                    data-target="#bs-example-navbar-collapse-1">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="{{ site.baseurl }}/index.html">
+                                Flugpost am Rhein und am Main
+                            </a>
+                        </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav navbar-right">
+                                {% for item in site.data.menu.top %}
+                                {% if page.permalink == item.path %}
+                                <li class="active"><a href="{{ site.baseurl }}{{item.path}}" class="active">{{item.text}}</a>
+                                </li>
+                                {% else %}
+                                <li><a href="{{ site.baseurl }}{{item.path}}">{{item.text}}</a></li>
+                                {% endif %}
+                                {% endfor %}
+                            </ul>
+                        </div><!-- /.navbar-collapse -->
+                    </div><!-- /.container-fluid -->
+                </nav>
+            </div>
+        </div>
     </div>
-  </div>
 </header><!-- header close -->
